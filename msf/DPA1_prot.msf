@@ -1,199 +1,304 @@
 !!AA_MULTIPLE_ALIGNMENT 1.0
- squid.msf  MSF: 262  Type: P  August 23, 2023 12:14  Check: 1207  ..
+ squid.msf  MSF: 288  Type: P  August 23, 2023 12:19  Check: 7971  ..
 
- Name: DPA1_01_03_01_01   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_02   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_03   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_04   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_05   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_06   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_07   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_08   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_09   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_10   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_11   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_12   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_13   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_14   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_15   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_16   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_17   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_18Q  Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_19   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_20   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_21   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_22   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_23   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_24   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_25   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_26   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_27   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_28   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_29   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_30   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_31   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_32   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_33   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_34   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_35   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_36   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_37   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_01_38   Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_02      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_03      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_04      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_05      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_06      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_07      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_08      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_09      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_10      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_11      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_12      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_13      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_14      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_15      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_16      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_17      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_18      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_19      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_20      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_21      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_03_22      Len:    262  Check: 5520  Weight: -1.00
- Name: DPA1_01_04         Len:    262  Check: 5518  Weight: -1.00
- Name: DPA1_01_05         Len:    262  Check: 4437  Weight: -1.00
- Name: DPA1_01_06_01      Len:    262  Check: 6154  Weight: -1.00
- Name: DPA1_01_06_02      Len:    262  Check: 5540  Weight: -1.00
- Name: DPA1_01_07         Len:    262  Check: 5995  Weight: -1.00
- Name: DPA1_01_08         Len:    262  Check: 5542  Weight: -1.00
- Name: DPA1_01_09         Len:    262  Check: 5898  Weight: -1.00
- Name: DPA1_01_10         Len:    262  Check: 5180  Weight: -1.00
- Name: DPA1_01_11         Len:    262  Check: 5544  Weight: -1.00
- Name: DPA1_01_12         Len:    262  Check: 5800  Weight: -1.00
- Name: DPA1_01_13         Len:    262  Check: 6402  Weight: -1.00
- Name: DPA1_01_14         Len:    262  Check: 5491  Weight: -1.00
- Name: DPA1_01_15         Len:    262  Check: 4770  Weight: -1.00
- Name: DPA1_01_16         Len:    262  Check: 5646  Weight: -1.00
- Name: DPA1_01_17         Len:    262  Check: 5580  Weight: -1.00
- Name: DPA1_01_18         Len:    262  Check: 5574  Weight: -1.00
- Name: DPA1_01_19         Len:    262  Check: 5376  Weight: -1.00
- Name: DPA1_01_20         Len:    262  Check: 5844  Weight: -1.00
- Name: DPA1_01_21Q        Len:    262  Check: 6168  Weight: -1.00
- Name: DPA1_01_22         Len:    262  Check: 5394  Weight: -1.00
- Name: DPA1_01_23         Len:    262  Check: 6150  Weight: -1.00
- Name: DPA1_01_24         Len:    262  Check: 5499  Weight: -1.00
- Name: DPA1_01_25         Len:    262  Check: 5529  Weight: -1.00
- Name: DPA1_01_26         Len:    262  Check: 4971  Weight: -1.00
- Name: DPA1_01_27         Len:    262  Check: 5198  Weight: -1.00
- Name: DPA1_01_28         Len:    262  Check: 5394  Weight: -1.00
- Name: DPA1_01_29N        Len:    262  Check: 1170  Weight: -1.00
- Name: DPA1_01_30         Len:    262  Check: 5403  Weight: -1.00
- Name: DPA1_01_31         Len:    262  Check: 5366  Weight: -1.00
- Name: DPA1_01_32N        Len:    262  Check: 6168  Weight: -1.00
- Name: DPA1_01_33         Len:    262  Check: 6134  Weight: -1.00
- Name: DPA1_01_34         Len:    262  Check: 5380  Weight: -1.00
- Name: DPA1_02_01_01_01   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_02   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_03   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_04   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_05   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_06   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_07   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_08   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_09   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_10   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_11   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_12   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_13   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_14   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_15   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_16   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_01_17   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_02_01   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_02_02   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_02_03   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_03      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_04      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_05      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_06      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_07      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_08_01   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_08_02   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_08_03   Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_09      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_10      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_11      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_12      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_01_13      Len:    262  Check: 5095  Weight: -1.00
- Name: DPA1_02_02_02_01   Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_02_02   Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_02_03   Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_02_04   Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_02_05   Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_02_07   Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_02_08   Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_02_09   Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_02_10   Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_03      Len:    262  Check: 5235  Weight: -1.00
- Name: DPA1_02_02_04      Len:    262  Check: 5235  Weight: -1.00
- Name: DPA1_02_02_05      Len:    262  Check: 5527  Weight: -1.00
- Name: DPA1_02_02_06      Len:    262  Check: 5235  Weight: -1.00
- Name: DPA1_02_02_07      Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_08      Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_02_09      Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1_02_03         Len:    262  Check: 4461  Weight: -1.00
- Name: DPA1_02_04         Len:    262  Check: 4805  Weight: -1.00
- Name: DPA1_02_05         Len:    262  Check: 4735  Weight: -1.00
- Name: DPA1_02_06         Len:    262  Check: 5235  Weight: -1.00
- Name: DPA1_02_07_01_01   Len:    262  Check: 5527  Weight: -1.00
- Name: DPA1_02_07_01_02   Len:    262  Check: 5527  Weight: -1.00
- Name: DPA1_02_07_01_03   Len:    262  Check: 5527  Weight: -1.00
- Name: DPA1_02_07_01_04   Len:    262  Check: 5527  Weight: -1.00
- Name: DPA1_02_07_02      Len:    262  Check: 5527  Weight: -1.00
- Name: DPA1_02_08         Len:    262  Check: 4865  Weight: -1.00
- Name: DPA1_02_09         Len:    262  Check: 4345  Weight: -1.00
- Name: DPA1_02_10         Len:    262  Check: 5404  Weight: -1.00
- Name: DPA1_02_11         Len:    262  Check: 5305  Weight: -1.00
- Name: DPA1_02_12         Len:    262  Check: 5498  Weight: -1.00
- Name: DPA1_02_13N        Len:    262  Check: 5843  Weight: -1.00
- Name: DPA1_02_14         Len:    262  Check: 5467  Weight: -1.00
- Name: DPA1_02_15         Len:    262  Check: 4890  Weight: -1.00
- Name: DPA1_02_16         Len:    262  Check: 4731  Weight: -1.00
- Name: DPA1_02_17         Len:    262  Check: 5619  Weight: -1.00
- Name: DPA1_02_18         Len:    262  Check: 5209  Weight: -1.00
- Name: DPA1_02_19         Len:    262  Check: 4887  Weight: -1.00
- Name: DPA1_02_20         Len:    262  Check: 5604  Weight: -1.00
- Name: DPA1_02_21         Len:    262  Check: 6178  Weight: -1.00
- Name: DPA1_02_22         Len:    262  Check: 5579  Weight: -1.00
- Name: DPA1_02_23         Len:    262  Check: 5893  Weight: -1.00
- Name: DPA1_02_24         Len:    262  Check: 5089  Weight: -1.00
- Name: DPA1_02_25         Len:    262  Check: 5576  Weight: -1.00
- Name: DPA1_02_26_01_01   Len:    262  Check: 4903  Weight: -1.00
- Name: DPA1_02_26_01_02   Len:    262  Check: 4903  Weight: -1.00
- Name: DPA1_02_27         Len:    262  Check: 6682  Weight: -1.00
- Name: DPA1_02_28         Len:    262  Check: 5977  Weight: -1.00
- Name: DPA1_02_29         Len:    262  Check: 5233  Weight: -1.00
- Name: DPA1_02_30         Len:    262  Check: 5027  Weight: -1.00
- Name: DPA1_02_31         Len:    262  Check: 5635  Weight: -1.00
- Name: DPA1_02_32N        Len:    262  Check: 5582  Weight: -1.00
- Name: DPA1_03_01_01_01   Len:    262  Check: 6304  Weight: -1.00
- Name: DPA1_03_01_01_02   Len:    262  Check: 6304  Weight: -1.00
- Name: DPA1_03_01_01_03   Len:    262  Check: 6304  Weight: -1.00
- Name: DPA1_03_01_01_04   Len:    262  Check: 6304  Weight: -1.00
- Name: DPA1_03_01_01_05   Len:    262  Check: 6304  Weight: -1.00
- Name: DPA1_03_01_01_06   Len:    262  Check: 6304  Weight: -1.00
- Name: DPA1_03_01_02_01   Len:    262  Check: 6304  Weight: -1.00
- Name: DPA1_03_01_02_02   Len:    262  Check: 6304  Weight: -1.00
- Name: DPA1_03_02         Len:    262  Check: 6024  Weight: -1.00
- Name: DPA1_03_03         Len:    262  Check: 6302  Weight: -1.00
- Name: DPA1_03_04         Len:    262  Check: 6328  Weight: -1.00
- Name: DPA1_03_05Q        Len:    262  Check: 6311  Weight: -1.00
- Name: DPA1_03_06         Len:    262  Check: 6324  Weight: -1.00
- Name: DPA1_04_01_01_01   Len:    262  Check: 2853  Weight: -1.00
- Name: DPA1_04_01_01_02   Len:    262  Check: 2853  Weight: -1.00
- Name: DPA1_04_01_01_03   Len:    262  Check: 2853  Weight: -1.00
- Name: DPA1_04_02_01_01   Len:    262  Check: 3841  Weight: -1.00
- Name: DPA1_04_02_01_02   Len:    262  Check: 3841  Weight: -1.00
+ Name: DPA1_01_03_01_01   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_02   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_03   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_04   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_05   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_06   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_07   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_08   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_09   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_10   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_11   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_12   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_13   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_14   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_15   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_16   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_17   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_18Q  Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_19   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_20   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_21   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_22   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_23   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_24   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_25   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_26   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_27   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_28   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_29   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_30   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_31   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_32   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_33   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_34   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_35   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_36   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_37   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_38   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_01_39   Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_02      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_03      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_04      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_05      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_06      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_07      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_08      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_09      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_10      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_11      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_12      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_13      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_14      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_15      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_16      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_17      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_18      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_19      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_20      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_21      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_22      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_23      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_24      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_25      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_26      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_27      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_28      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_29      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_30      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_31      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_32      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_33      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_34      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_35      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_36      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_03_37      Len:    288  Check: 9396  Weight: -1.00
+ Name: DPA1_01_04_01      Len:    288  Check: 9394  Weight: -1.00
+ Name: DPA1_01_04_02      Len:    288  Check: 9394  Weight: -1.00
+ Name: DPA1_01_04_03      Len:    288  Check: 9394  Weight: -1.00
+ Name: DPA1_01_05         Len:    288  Check: 8313  Weight: -1.00
+ Name: DPA1_01_06_01      Len:    288  Check:   30  Weight: -1.00
+ Name: DPA1_01_06_02      Len:    288  Check: 9416  Weight: -1.00
+ Name: DPA1_01_07         Len:    288  Check: 9871  Weight: -1.00
+ Name: DPA1_01_08         Len:    288  Check: 9418  Weight: -1.00
+ Name: DPA1_01_09         Len:    288  Check: 9774  Weight: -1.00
+ Name: DPA1_01_10         Len:    288  Check: 9056  Weight: -1.00
+ Name: DPA1_01_11         Len:    288  Check: 9420  Weight: -1.00
+ Name: DPA1_01_12         Len:    288  Check: 9676  Weight: -1.00
+ Name: DPA1_01_13         Len:    288  Check:  278  Weight: -1.00
+ Name: DPA1_01_14         Len:    288  Check: 9367  Weight: -1.00
+ Name: DPA1_01_15         Len:    288  Check: 8646  Weight: -1.00
+ Name: DPA1_01_16         Len:    288  Check: 9522  Weight: -1.00
+ Name: DPA1_01_17         Len:    288  Check: 9456  Weight: -1.00
+ Name: DPA1_01_18         Len:    288  Check: 9450  Weight: -1.00
+ Name: DPA1_01_19         Len:    288  Check: 9252  Weight: -1.00
+ Name: DPA1_01_20         Len:    288  Check: 9720  Weight: -1.00
+ Name: DPA1_01_21Q        Len:    288  Check: 6520  Weight: -1.00
+ Name: DPA1_01_22         Len:    288  Check: 9270  Weight: -1.00
+ Name: DPA1_01_23         Len:    288  Check:   26  Weight: -1.00
+ Name: DPA1_01_24         Len:    288  Check: 9375  Weight: -1.00
+ Name: DPA1_01_25         Len:    288  Check: 9405  Weight: -1.00
+ Name: DPA1_01_26         Len:    288  Check: 8847  Weight: -1.00
+ Name: DPA1_01_27         Len:    288  Check: 9074  Weight: -1.00
+ Name: DPA1_01_28         Len:    288  Check: 9270  Weight: -1.00
+ Name: DPA1_01_29N        Len:    288  Check: 5046  Weight: -1.00
+ Name: DPA1_01_30         Len:    288  Check: 9279  Weight: -1.00
+ Name: DPA1_01_31         Len:    288  Check: 9242  Weight: -1.00
+ Name: DPA1_01_32N        Len:    288  Check: 6520  Weight: -1.00
+ Name: DPA1_01_33         Len:    288  Check:   10  Weight: -1.00
+ Name: DPA1_01_34         Len:    288  Check: 9256  Weight: -1.00
+ Name: DPA1_01_35N        Len:    288  Check: 6520  Weight: -1.00
+ Name: DPA1_01_36         Len:    288  Check: 8532  Weight: -1.00
+ Name: DPA1_01_37         Len:    288  Check: 9473  Weight: -1.00
+ Name: DPA1_01_38         Len:    288  Check: 9291  Weight: -1.00
+ Name: DPA1_01_39         Len:    288  Check:  194  Weight: -1.00
+ Name: DPA1_01_40         Len:    288  Check: 8868  Weight: -1.00
+ Name: DPA1_01_41         Len:    288  Check: 9592  Weight: -1.00
+ Name: DPA1_01_42         Len:    288  Check: 8896  Weight: -1.00
+ Name: DPA1_01_43         Len:    288  Check: 9258  Weight: -1.00
+ Name: DPA1_01_44         Len:    288  Check: 9174  Weight: -1.00
+ Name: DPA1_01_45         Len:    288  Check: 9294  Weight: -1.00
+ Name: DPA1_01_46         Len:    288  Check: 9416  Weight: -1.00
+ Name: DPA1_01_47         Len:    288  Check: 9426  Weight: -1.00
+ Name: DPA1_01_48         Len:    288  Check: 9426  Weight: -1.00
+ Name: DPA1_01_49         Len:    288  Check: 8902  Weight: -1.00
+ Name: DPA1_01_50         Len:    288  Check: 9228  Weight: -1.00
+ Name: DPA1_01_51         Len:    288  Check: 9546  Weight: -1.00
+ Name: DPA1_01_52         Len:    288  Check: 9882  Weight: -1.00
+ Name: DPA1_01_53         Len:    288  Check: 9427  Weight: -1.00
+ Name: DPA1_01_54         Len:    288  Check: 9656  Weight: -1.00
+ Name: DPA1_01_55N        Len:    288  Check: 6520  Weight: -1.00
+ Name: DPA1_01_56         Len:    288  Check: 9201  Weight: -1.00
+ Name: DPA1_01_57         Len:    288  Check: 8824  Weight: -1.00
+ Name: DPA1_01_58         Len:    288  Check: 8927  Weight: -1.00
+ Name: DPA1_01_59         Len:    288  Check: 9279  Weight: -1.00
+ Name: DPA1_01_60         Len:    288  Check: 9541  Weight: -1.00
+ Name: DPA1_01_61         Len:    288  Check: 9448  Weight: -1.00
+ Name: DPA1_01_62         Len:    288  Check: 8177  Weight: -1.00
+ Name: DPA1_01_63         Len:    288  Check: 9444  Weight: -1.00
+ Name: DPA1_01_64         Len:    288  Check: 9877  Weight: -1.00
+ Name: DPA1_01_65         Len:    288  Check: 9471  Weight: -1.00
+ Name: DPA1_01_66N        Len:    288  Check: 6520  Weight: -1.00
+ Name: DPA1_01_67         Len:    288  Check: 9240  Weight: -1.00
+ Name: DPA1_01_68         Len:    288  Check: 9166  Weight: -1.00
+ Name: DPA1_01_69         Len:    288  Check: 9188  Weight: -1.00
+ Name: DPA1_01_70         Len:    288  Check: 9759  Weight: -1.00
+ Name: DPA1_01_71         Len:    288  Check: 9924  Weight: -1.00
+ Name: DPA1_01_72         Len:    288  Check: 9445  Weight: -1.00
+ Name: DPA1_01_73         Len:    288  Check: 9324  Weight: -1.00
+ Name: DPA1_01_74         Len:    288  Check: 9153  Weight: -1.00
+ Name: DPA1_01_75         Len:    288  Check: 9446  Weight: -1.00
+ Name: DPA1_01_76         Len:    288  Check: 9063  Weight: -1.00
+ Name: DPA1_01_77         Len:    288  Check: 9126  Weight: -1.00
+ Name: DPA1_01_78         Len:    288  Check: 9444  Weight: -1.00
+ Name: DPA1_01_79N        Len:    288  Check: 6520  Weight: -1.00
+ Name: DPA1_02_01_01_01   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_02   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_03   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_04   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_05   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_06   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_07   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_08   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_09   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_10   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_11   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_12   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_13   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_14   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_15   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_16   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_17   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_18   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_01_19   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_02_01   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_02_02   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_02_03   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_03      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_04      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_05      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_06      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_07      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_08_01   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_08_02   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_08_03   Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_09      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_10      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_11      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_12      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_13      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_01_14      Len:    288  Check: 8971  Weight: -1.00
+ Name: DPA1_02_02_02_01   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_02_02   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_02_03   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_02_04   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_02_05   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_02_07   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_02_08   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_02_09   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_02_10   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_02_11   Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_03      Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_04      Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_05      Len:    288  Check: 9403  Weight: -1.00
+ Name: DPA1_02_02_06      Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_07      Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_08      Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_09      Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_10      Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_02_11      Len:    288  Check: 9475  Weight: -1.00
+ Name: DPA1_02_03_01      Len:    288  Check: 8951  Weight: -1.00
+ Name: DPA1_02_03_02      Len:    288  Check: 8951  Weight: -1.00
+ Name: DPA1_02_04         Len:    288  Check: 9045  Weight: -1.00
+ Name: DPA1_02_05         Len:    288  Check: 8975  Weight: -1.00
+ Name: DPA1_02_06         Len:    288  Check: 9111  Weight: -1.00
+ Name: DPA1_02_07_01_01   Len:    288  Check: 9403  Weight: -1.00
+ Name: DPA1_02_07_01_02   Len:    288  Check: 9403  Weight: -1.00
+ Name: DPA1_02_07_01_03   Len:    288  Check: 9403  Weight: -1.00
+ Name: DPA1_02_07_01_04   Len:    288  Check: 9403  Weight: -1.00
+ Name: DPA1_02_07_02      Len:    288  Check: 9403  Weight: -1.00
+ Name: DPA1_02_08         Len:    288  Check: 8741  Weight: -1.00
+ Name: DPA1_02_09         Len:    288  Check: 8221  Weight: -1.00
+ Name: DPA1_02_10         Len:    288  Check: 9280  Weight: -1.00
+ Name: DPA1_02_11         Len:    288  Check: 9181  Weight: -1.00
+ Name: DPA1_02_12_01      Len:    288  Check: 9374  Weight: -1.00
+ Name: DPA1_02_12_02      Len:    288  Check: 9374  Weight: -1.00
+ Name: DPA1_02_13N        Len:    288  Check: 6159  Weight: -1.00
+ Name: DPA1_02_14         Len:    288  Check: 9343  Weight: -1.00
+ Name: DPA1_02_15         Len:    288  Check: 8766  Weight: -1.00
+ Name: DPA1_02_16         Len:    288  Check: 8607  Weight: -1.00
+ Name: DPA1_02_17         Len:    288  Check: 9495  Weight: -1.00
+ Name: DPA1_02_18         Len:    288  Check: 9085  Weight: -1.00
+ Name: DPA1_02_19         Len:    288  Check: 8763  Weight: -1.00
+ Name: DPA1_02_20         Len:    288  Check: 9480  Weight: -1.00
+ Name: DPA1_02_21_01      Len:    288  Check:   54  Weight: -1.00
+ Name: DPA1_02_21_02      Len:    288  Check:   54  Weight: -1.00
+ Name: DPA1_02_22         Len:    288  Check: 9455  Weight: -1.00
+ Name: DPA1_02_23         Len:    288  Check: 9769  Weight: -1.00
+ Name: DPA1_02_24         Len:    288  Check: 8965  Weight: -1.00
+ Name: DPA1_02_25         Len:    288  Check: 9452  Weight: -1.00
+ Name: DPA1_02_26_01_01   Len:    288  Check: 8779  Weight: -1.00
+ Name: DPA1_02_26_01_02   Len:    288  Check: 8779  Weight: -1.00
+ Name: DPA1_02_27_01      Len:    288  Check:  558  Weight: -1.00
+ Name: DPA1_02_27_02      Len:    288  Check:  486  Weight: -1.00
+ Name: DPA1_02_28_01      Len:    288  Check: 9853  Weight: -1.00
+ Name: DPA1_02_28_02      Len:    288  Check: 9853  Weight: -1.00
+ Name: DPA1_02_29         Len:    288  Check: 9109  Weight: -1.00
+ Name: DPA1_02_30         Len:    288  Check: 8903  Weight: -1.00
+ Name: DPA1_02_31         Len:    288  Check: 9511  Weight: -1.00
+ Name: DPA1_02_32N        Len:    288  Check: 9928  Weight: -1.00
+ Name: DPA1_02_33         Len:    288  Check: 9607  Weight: -1.00
+ Name: DPA1_02_34         Len:    288  Check: 8619  Weight: -1.00
+ Name: DPA1_02_35         Len:    288  Check: 9291  Weight: -1.00
+ Name: DPA1_02_36         Len:    288  Check: 8899  Weight: -1.00
+ Name: DPA1_02_37         Len:    288  Check: 9601  Weight: -1.00
+ Name: DPA1_02_38Q        Len:    288  Check: 5275  Weight: -1.00
+ Name: DPA1_02_39         Len:    288  Check: 9006  Weight: -1.00
+ Name: DPA1_02_40         Len:    288  Check: 9186  Weight: -1.00
+ Name: DPA1_02_41N        Len:    288  Check: 9184  Weight: -1.00
+ Name: DPA1_02_42         Len:    288  Check: 9459  Weight: -1.00
+ Name: DPA1_02_43         Len:    288  Check: 8976  Weight: -1.00
+ Name: DPA1_02_44         Len:    288  Check: 9321  Weight: -1.00
+ Name: DPA1_02_45         Len:    288  Check: 8947  Weight: -1.00
+ Name: DPA1_02_46         Len:    288  Check: 9511  Weight: -1.00
+ Name: DPA1_02_47         Len:    288  Check: 8725  Weight: -1.00
+ Name: DPA1_02_48         Len:    288  Check:   73  Weight: -1.00
+ Name: DPA1_02_49         Len:    288  Check: 9053  Weight: -1.00
+ Name: DPA1_02_50         Len:    288  Check: 9440  Weight: -1.00
+ Name: DPA1_02_51         Len:    288  Check: 9585  Weight: -1.00
+ Name: DPA1_02_52N        Len:    288  Check: 5312  Weight: -1.00
+ Name: DPA1_02_53         Len:    288  Check: 8833  Weight: -1.00
+ Name: DPA1_02_54         Len:    288  Check: 9451  Weight: -1.00
+ Name: DPA1_02_55         Len:    288  Check: 9251  Weight: -1.00
+ Name: DPA1_02_56Q        Len:    288  Check: 4920  Weight: -1.00
+ Name: DPA1_03_01_01_01   Len:    288  Check:  180  Weight: -1.00
+ Name: DPA1_03_01_01_02   Len:    288  Check:  180  Weight: -1.00
+ Name: DPA1_03_01_01_03   Len:    288  Check:  180  Weight: -1.00
+ Name: DPA1_03_01_01_04   Len:    288  Check:  180  Weight: -1.00
+ Name: DPA1_03_01_01_05   Len:    288  Check:  180  Weight: -1.00
+ Name: DPA1_03_01_01_06   Len:    288  Check:  180  Weight: -1.00
+ Name: DPA1_03_01_02_01   Len:    288  Check:  180  Weight: -1.00
+ Name: DPA1_03_01_02_02   Len:    288  Check:  180  Weight: -1.00
+ Name: DPA1_03_01_03      Len:    288  Check:  180  Weight: -1.00
+ Name: DPA1_03_02         Len:    288  Check: 9900  Weight: -1.00
+ Name: DPA1_03_03         Len:    288  Check:  178  Weight: -1.00
+ Name: DPA1_03_04         Len:    288  Check:  204  Weight: -1.00
+ Name: DPA1_03_05Q        Len:    288  Check:  187  Weight: -1.00
+ Name: DPA1_03_06_01      Len:    288  Check:  200  Weight: -1.00
+ Name: DPA1_03_06_02      Len:    288  Check:  200  Weight: -1.00
+ Name: DPA1_03_07_01      Len:    288  Check: 9097  Weight: -1.00
+ Name: DPA1_03_07_02      Len:    288  Check: 9711  Weight: -1.00
+ Name: DPA1_03_08         Len:    288  Check: 8347  Weight: -1.00
+ Name: DPA1_03_09         Len:    288  Check:  532  Weight: -1.00
+ Name: DPA1_04_01_01_01   Len:    288  Check: 6729  Weight: -1.00
+ Name: DPA1_04_01_01_02   Len:    288  Check: 6729  Weight: -1.00
+ Name: DPA1_04_01_01_03   Len:    288  Check: 6729  Weight: -1.00
+ Name: DPA1_04_02_01_01   Len:    288  Check: 7717  Weight: -1.00
+ Name: DPA1_04_02_01_02   Len:    288  Check: 7717  Weight: -1.00
+ Name: DPA1_04_03         Len:    288  Check: 7600  Weight: -1.00
 
 //
 
@@ -236,6 +341,7 @@ DPA1_01_03_01_35   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_03_01_36   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_03_01_37   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_03_01_38   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_01_39   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_03_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_03_03      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_03_04      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
@@ -257,7 +363,24 @@ DPA1_01_03_19      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_03_20      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_03_21      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_03_22      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
-DPA1_01_04         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_23      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_24      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_25      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_26      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_27      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_28      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_29      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_30      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_31      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_32      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_33      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_34      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_35      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_36      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_03_37      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_04_01      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_04_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_04_03      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_05         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_06_01      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_06_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
@@ -289,6 +412,51 @@ DPA1_01_31         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_32N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~RTM
 DPA1_01_33         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_01_34         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_35N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~RTM
+DPA1_01_36         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_37         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_38         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_39         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY ATFVQTHRPT
+DPA1_01_40         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHGPT
+DPA1_01_41         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRTT
+DPA1_01_42         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_43         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_44         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_45         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_46         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_47         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_48         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_49         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_50         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_51         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_52         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_53         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_54         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_55N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~RTM
+DPA1_01_56         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_57         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFIQTHRPT
+DPA1_01_58         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_59         MRPEDRMFHI RAMILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_60         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_61         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_62         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_63         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_64         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_65         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_66N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~RTM
+DPA1_01_67         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_68         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_69         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_70         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_71         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_72         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_73         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_74         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_75         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_76         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHMSTY AAFVQTHRPT
+DPA1_01_77         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_01_78         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHSPT
+DPA1_01_79N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~RTM
 DPA1_02_01_01_01   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_01_02   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_01_03   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
@@ -306,6 +474,8 @@ DPA1_02_01_01_14   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_01_15   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_01_16   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_01_17   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_01_01_18   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_01_01_19   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_02_01   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_02_02   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_02_03   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
@@ -322,6 +492,7 @@ DPA1_02_01_10      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_11      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_12      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_01_13      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_01_14      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_02_02_01   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_02_02   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_02_03   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
@@ -331,6 +502,7 @@ DPA1_02_02_02_07   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_02_08   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_02_09   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_02_10   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_02_02_11   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_03      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_04      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_05      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
@@ -338,7 +510,10 @@ DPA1_02_02_06      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_07      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_08      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_02_09      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
-DPA1_02_03         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_02_10      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_02_11      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_03_01      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_03_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_04         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_05         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_06         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
@@ -351,7 +526,8 @@ DPA1_02_08         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_09         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_10         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_11         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
-DPA1_02_12         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_12_01      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_12_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_13N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~RTM
 DPA1_02_14         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_15         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
@@ -360,19 +536,46 @@ DPA1_02_17         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_18         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_19         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_20         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
-DPA1_02_21         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_21_01      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_21_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_22         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_23         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY ATFVQTHRPT
 DPA1_02_24         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_25         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_26_01_01   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_26_01_02   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
-DPA1_02_27         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
-DPA1_02_28         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AVFVQTHRPT
+DPA1_02_27_01      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_27_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_28_01      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AVFVQTHRPT
+DPA1_02_28_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AVFVQTHRPT
 DPA1_02_29         MRPEDRMFHI RAVILRALSL AFRLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_30         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_02_31         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
 DPA1_02_32N        MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_33         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_34         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_35         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_36         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_37         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_38Q        MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_39         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_40         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_41N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_02_42         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_43         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_44         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_45         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_46         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_47         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_48         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_49         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_50         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_51         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_52N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~RTM
+DPA1_02_53         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_54         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_02_55         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRPT
+DPA1_02_56Q        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~RTM
 DPA1_03_01_01_01   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_03_01_01_02   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_03_01_01_03   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
@@ -381,16 +584,23 @@ DPA1_03_01_01_05   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_03_01_01_06   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_03_01_02_01   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_03_01_02_02   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_03_01_03      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_03_02         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_03_03         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_03_04         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_03_05Q        TRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
-DPA1_03_06         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_03_06_01      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_03_06_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_03_07_01      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_03_07_02      MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_03_08         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
+DPA1_03_09         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AMFVQTHRPT
 DPA1_04_01_01_01   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRTT
 DPA1_04_01_01_02   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRTT
 DPA1_04_01_01_03   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRTT
 DPA1_04_02_01_01   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRTT
 DPA1_04_02_01_02   MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRTT
+DPA1_04_03         MRPEDRMFHI RAVILRALSL AFLLSLRGAG AIKADHVSTY AAFVQTHRTT
 
                    51                                                 100
 DPA1_01_03_01_01   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
@@ -431,6 +641,7 @@ DPA1_01_03_01_35   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_03_01_36   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_03_01_37   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_03_01_38   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_01_39   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_03_02      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_03_03      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_03_04      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
@@ -452,7 +663,24 @@ DPA1_01_03_19      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_03_20      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_03_21      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_03_22      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
-DPA1_01_04         GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_23      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_24      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_25      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_26      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_27      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_28      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_29      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_30      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_31      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_32      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_33      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_34      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_35      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_36      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_03_37      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_04_01      GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_04_02      GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_04_03      GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_05         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_06_01      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_06_02      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
@@ -470,7 +698,7 @@ DPA1_01_17         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_18         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_19         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_20         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
-DPA1_01_21Q        CQLMP..... .RLYRRID.. .......... ......QQGS LC.L......
+DPA1_01_21Q        CQLMPRL... .......... .......... .YRRIDQQGS LCL.......
 DPA1_01_22         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNKN
 DPA1_01_23         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEVQGG LANIAILNNN
 DPA1_01_24         GEFMFEFDED EMFYVDLDKK ETVWHLEDFG QAFSFEAQGG LANIAILNNN
@@ -481,9 +709,54 @@ DPA1_01_28         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_29N        GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_30         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_31         GEFMFEFDED EMFCVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
-DPA1_01_32N        CQLMP..... .RLYRRID.. .......... ......QQGS LC.L......
+DPA1_01_32N        CQLMPRL... .......... .......... .YRRIDQQGS LCL.......
 DPA1_01_33         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_01_34         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_35N        CQLMPRL... .......... .......... .YRRIDQQGS LCL.......
+DPA1_01_36         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_37         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_38         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_39         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_40         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_41         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_42         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_43         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_44         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_45         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_46         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_47         GEFMFEFDEN EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_48         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_49         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_50         GEFMFEFDED EMFYADLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_51         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QGFSFEAQGG LANIAILNNN
+DPA1_01_52         GEFVFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_53         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEARGG LANIAILNNN
+DPA1_01_54         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_55N        CQLMPRL... .......... .......... .YRRIDQQGS LCL.......
+DPA1_01_56         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_57         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_58         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_59         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_60         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_61         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_62         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_63         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_64         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANVAILNNN
+DPA1_01_65         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_66N        CQLMPRL... .......... .......... .YRRIDQQGS LCL.......
+DPA1_01_67         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_68         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_69         GEFMFEFDED EMFYVDLDKK ETIWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_70         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGR LANIAILNNN
+DPA1_01_71         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGW LANIAILNNN
+DPA1_01_72         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_73         GEFMFEFDED EMFYVDLDEK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_74         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_75         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_76         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_77         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_78         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_01_79N        CQLMPRL... .......... .......... .YRRIDQQGS LCL.......
 DPA1_02_01_01_01   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_01_02   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_01_03   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
@@ -501,6 +774,8 @@ DPA1_02_01_01_14   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_01_15   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_01_16   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_01_17   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_01_01_18   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_01_01_19   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_02_01   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_02_02   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_02_03   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
@@ -517,6 +792,7 @@ DPA1_02_01_10      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_11      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_12      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_01_13      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_01_14      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_02_01   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_02_02   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_02_03   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
@@ -526,6 +802,7 @@ DPA1_02_02_02_07   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_02_08   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_02_09   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_02_10   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_02_02_11   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_03      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_04      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_05      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
@@ -533,7 +810,10 @@ DPA1_02_02_06      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_07      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_08      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_02_09      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
-DPA1_02_03         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_02_10      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_02_11      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_03_01      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_03_02      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_04         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNND
 DPA1_02_05         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_06         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
@@ -546,8 +826,9 @@ DPA1_02_08         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_09         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_10         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_11         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNSN
-DPA1_02_12         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
-DPA1_02_13N        CQLMP..... .RLYRPID.. .......... ......QQGS LC.L......
+DPA1_02_12_01      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_12_02      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_13N        CQLMPRL... .......... .......... .YRPIDQQGS LCL.......
 DPA1_02_14         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_15         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_16         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
@@ -555,19 +836,46 @@ DPA1_02_17         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_18         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_19         GEFMFEFDED EQFYVDLDKK ETIWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_20         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
-DPA1_02_21         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_21_01      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_21_02      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_22         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_23         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_24         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_25         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_26_01_01   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_26_01_02   GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
-DPA1_02_27         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
-DPA1_02_28         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_27_01      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_27_02      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_28_01      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_28_02      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_29         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_30         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_31         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_02_32N        GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_33         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_34         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_35         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_36         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_37         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_38Q        GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_39         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_40         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_41N        ~GFPAES... .......... .......... .PRSWGHQGG PCV.......
+DPA1_02_42         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_43         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_44         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_45         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_02_46         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFESQGG LANIAILNNN
+DPA1_02_47         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_48         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_49         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_50         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_51         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_52N        CQLMPCL... .......... .......... .YRPIDQQES LCL.......
+DPA1_02_53         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_02_54         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
+DPA1_02_55         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAISNNN
+DPA1_02_56Q        CQLMPCL... .......... .......... .YRPIDQQES LCL.......
 DPA1_03_01_01_01   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
 DPA1_03_01_01_02   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
 DPA1_03_01_01_03   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
@@ -576,211 +884,323 @@ DPA1_03_01_01_05   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
 DPA1_03_01_01_06   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
 DPA1_03_01_02_01   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
 DPA1_03_01_02_02   GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
+DPA1_03_01_03      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
 DPA1_03_02         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAILNNN
 DPA1_03_03         GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
 DPA1_03_04         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAISNNN
 DPA1_03_05Q        GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
-DPA1_03_06         GEFMFEFDED EQFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
+DPA1_03_06_01      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
+DPA1_03_06_02      GEFMFEFDED EQFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
+DPA1_03_07_01      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
+DPA1_03_07_02      GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
+DPA1_03_08         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
+DPA1_03_09         GEFMFEFDED EMFYVDLDKK ETVWHLEEFG QAFSFEAQGG LANIAISNNN
 DPA1_04_01_01_01   GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_04_01_01_02   GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_04_01_01_03   GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_04_02_01_01   GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 DPA1_04_02_01_02   GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
+DPA1_04_03         GEFMFEFDDD EMFYVDLDKK ETVWHLEEFG RAFSFEAQGG LANIAILNNN
 
                    101                                                150
-DPA1_01_03_01_01   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_02   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_03   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_04   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_05   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_06   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_07   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_08   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_09   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_10   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_11   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_12   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_13   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_14   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_15   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_16   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_17   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_18Q  LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_19   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_20   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_21   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_22   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_23   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_24   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_25   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_26   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_27   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_28   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_29   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_30   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_31   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_32   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_33   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_34   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_35   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_36   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_37   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_01_38   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_02      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_03      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_04      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_05      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_06      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_07      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_08      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_09      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_10      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_11      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_12      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_13      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_14      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_15      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_16      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_17      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_18      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_19      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_20      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_21      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_03_22      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_04         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_05         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_06_01      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_01_06_02      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_07         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_08         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_09         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_10         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_11         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_12         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_13         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_14         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_15         LNTLIQCSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_16         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_17         LNTLIQRSNH TQATNDPPQV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_18         LNTLIQRSNH TQATNDPPEV TVLPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_19         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_20         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
+DPA1_01_03_01_01   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_02   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_03   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_04   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_05   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_06   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_07   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_08   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_09   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_10   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_11   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_12   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_13   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_14   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_15   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_16   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_17   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_18Q  LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_19   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_20   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_21   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_22   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_23   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_24   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_25   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_26   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_27   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_28   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_29   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_30   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_31   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_32   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_33   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_34   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_35   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_36   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_37   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_38   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_01_39   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_02      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_03      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_04      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_05      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_06      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_07      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_08      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_09      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_10      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_11      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_12      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_13      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_14      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_15      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_16      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_17      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_18      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_19      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_20      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_21      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_22      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_23      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_24      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_25      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_26      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_27      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_28      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_29      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_30      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_31      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_32      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_33      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_34      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_35      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_36      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_03_37      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_04_01      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_04_02      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_04_03      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_05         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_06_01      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_01_06_02      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_07         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_08         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_09         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_10         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_11         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_12         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_13         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_14         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_15         LNTLIQCSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_16         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_17         LNTLIQRSNH TQATNDPPQV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_18         LNTLIQRSNH TQATNDPPEV TVLPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_19         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_20         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
 DPA1_01_21Q        .......... ........NL MKMRCSMWIW TRRRPSGIWR SLAKPFPLRL
-DPA1_01_22         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_23         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_24         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_25         LNTLIQRSNH TQATNDSPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_26         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_27         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_28         LNTLIQRSNH TQATNDPPEA TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_29N        LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_30         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_01_31         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
+DPA1_01_22         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_23         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_24         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_25         LNTLIQRSNH TQATNDSPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_26         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_27         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_28         LNTLIQRSNH TQATNDPPEA TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_29N        LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_30         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_31         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
 DPA1_01_32N        .......... ........NL MKMRCSMWIW TRRRPSGIWR SLAKPFPLRL
-DPA1_01_33         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_01_34         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_02_01_01_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_03   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_04   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_05   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_06   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_07   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_08   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_09   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_10   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_11   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_12   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_13   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_14   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_15   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_16   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_01_17   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_02_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_02_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_02_03   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_03      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_04      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_05      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_06      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_07      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_08_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_08_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_08_03   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_09      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_10      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_11      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_12      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_01_13      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_02_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_02_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_02_03   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_02_04   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_02_05   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_02_07   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_02_08   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_02_09   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_02_10   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_03      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_04      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_05      LNTLIQRSNH TQAANDPPEV TMFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_06      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_07      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_08      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_02_09      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_03         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_02_04         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_05         LNTLIQHSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_06         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_07_01_01   LNTLIQRSNH TQAANDPPEV TMFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_07_01_02   LNTLIQRSNH TQAANDPPEV TMFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_07_01_03   LNTLIQRSNH TQAANDPPEV TMFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_07_01_04   LNTLIQRSNH TQAANDPPEV TMFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_07_02      LNTLIQRSNH TQAANDPPEV TMFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_08         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_09         LNTLIQCSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_10         LNTLIQRSNH TQAANDPPEV TVFPKEAVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_11         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_12         LNTLIQRSNH TQAANDPPEV TMFPKEPVEL ..GQPNTLIC HIDRFFPPVL
+DPA1_01_33         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_01_34         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_35N        .......... ........NL MKMRCSMWIW TRRRPSGIWR SLAKPFPLRL
+DPA1_01_36         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_37         LNTLIQRSNH TQATNDPPEV TVFPREPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_38         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_39         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_40         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_41         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_42         LNTLIQHSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_43         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_44         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_45         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_46         LNTLIQRSNH TQATNNPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_47         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_48         LNTLIQRSNH TQATNDPPEV TVFSKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_49         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_50         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_51         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_52         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_53         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_54         LNTLIQRSSH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_55N        .......... ........NL MKMRCSMWIW TRRRPSGIWR SLAKPFPLRL
+DPA1_01_56         LNTLIQRSNH TQATNDPPEV TVFPKEAVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_57         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_58         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_01_59         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_60         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_61         LNTLIQRSNH TQATNDPPEV TVFPKETVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_62         LNTLIQCSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_01_63         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_64         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_65         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLLC HIDKFFPPVL
+DPA1_01_66N        .......... ........NL MKMRCSMWIW TRRRPSGIWR SLAKPFPLRL
+DPA1_01_67         LNTLIQRSKH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_68         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_69         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_70         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_71         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_72         LNTLIRRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_73         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_74         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_75         LNTLIQSSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_76         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_77         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_78         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_01_79N        .......... ........NL MKMRCSMWIW TRRRPSGIWR SLAKPFPLRL
+DPA1_02_01_01_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_03   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_04   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_05   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_06   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_07   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_08   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_09   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_10   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_11   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_12   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_13   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_14   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_15   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_16   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_17   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_18   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_01_19   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_02_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_02_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_02_03   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_03      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_04      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_05      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_06      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_07      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_08_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_08_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_08_03   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_09      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_10      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_11      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_12      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_13      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_01_14      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_03   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_04   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_05   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_07   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_08   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_09   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_10   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_02_11   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_03      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_04      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_05      LNTLIQRSNH TQAANDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_06      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_07      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_08      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_09      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_10      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_02_11      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_03_01      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_03_02      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_04         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_05         LNTLIQHSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_06         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_07_01_01   LNTLIQRSNH TQAANDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_07_01_02   LNTLIQRSNH TQAANDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_07_01_03   LNTLIQRSNH TQAANDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_07_01_04   LNTLIQRSNH TQAANDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_07_02      LNTLIQRSNH TQAANDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_08         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_09         LNTLIQCSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_10         LNTLIQRSNH TQAANDPPEV TVFPKEAVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_11         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_12_01      LNTLIQRSNH TQAANDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_12_02      LNTLIQRSNH TQAANDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
 DPA1_02_13N        .......... ........NL MKMSSSMWIW IKRRPSGIWR SLAEPFPLRL
-DPA1_02_14         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFLPVL
-DPA1_02_15         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_16         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_17         LNTLIQRSNH TQAANNPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_18         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_19         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_20         LNTLIQRSNH TQAASDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_21         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_22         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_23         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_24         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_25         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNSLIC HIDRFFPPVL
-DPA1_02_26_01_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_26_01_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_27         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_28         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_29         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_30         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_31         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL ..GQPNTLIC HIDRFFPPVL
-DPA1_02_32N        LNTLIQRSNH TQAANDPPEV TVFPRSLWSW ..ASPTPSSA TLTGS.....
-DPA1_03_01_01_01   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_01_01_02   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_01_01_03   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_01_01_04   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_01_01_05   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_01_01_06   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_01_02_01   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_01_02_02   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_02         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_03         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_04         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_05Q        LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_03_06         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_04_01_01_01   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_04_01_01_02   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_04_01_01_03   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_04_02_01_01   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL ..GQPNTLIC HIDKFFPPVL
-DPA1_04_02_01_02   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL ..GQPNTLIC HIDKFFPPVL
+DPA1_02_14         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFLPVL
+DPA1_02_15         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_16         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_17         LNTLIQRSNH TQAANNPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_18         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_19         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_20         LNTLIQRSNH TQAASDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_21_01      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_21_02      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_22         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_23         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_24         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_25         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NSLIC HIDRFFPPVL
+DPA1_02_26_01_01   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_26_01_02   LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_27_01      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_27_02      LNTLIQRSNH TQATNDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_28_01      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_28_02      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_29         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_30         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_31         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_32N        LNTLIQRSNH TQAANDPPEV TVFPRSLWSW ASP..TPSSA TLTGS.....
+DPA1_02_33         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_34         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_35         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_36         LNTLIQRSNH TQAANDPPEV TMFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_37         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_38Q        LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_39         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_40         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_41N        .......... ........NL CHVCTDP~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_02_42         LNTLIQRSNH TQAANDPLEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_43         LNTLIQRSNH TQAASDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_44         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_45         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_46         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_47         LNTLIQCSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_48         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_49         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_50         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_02_51         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..STLIC HIDRFFPPVL
+DPA1_02_52N        .......... ........NL MKMSSSMWIW IRRRPSDIWR SLAEPFPLRL
+DPA1_02_53         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NNLIC HIDRFFPPVL
+DPA1_02_54         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_55         LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_02_56Q        .......... ........NL MKMSSSMWIW T.RRPSGIWR SLAEPFPLRL
+DPA1_03_01_01_01   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_01_01_02   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_01_01_03   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_01_01_04   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_01_01_05   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_01_01_06   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_01_02_01   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_01_02_02   LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_01_03      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_02         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_03         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_04         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_05Q        LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_06_01      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_06_02      LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_07_01      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_07_02      LNTLIQRSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDRFFPPVL
+DPA1_03_08         LNTLIQCSNH TQAANDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_03_09         LNTLIQRSNH TQATNDPPEV TVFPKEPVEL GQP..NTLIC HIDKFFPPVL
+DPA1_04_01_01_01   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL GQP..NTLIC HIDKFFPPVL
+DPA1_04_01_01_02   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL GQP..NTLIC HIDKFFPPVL
+DPA1_04_01_01_03   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL GQP..NTLIC HIDKFFPPVL
+DPA1_04_02_01_01   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL GQP..NTLIC HIDKFFPPVL
+DPA1_04_02_01_02   LNIAIQRSNH TQAANDPPEV TVFPKEAVEL GQP..NTLIC HIDKFFPPVL
+DPA1_04_03         LNIAIQRSNH TQAANDPPEV TVFPKEAVEL GQP..NTLIC HIDKFFPPVL
 
                    151                                                200
 DPA1_01_03_01_01   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
@@ -821,6 +1241,7 @@ DPA1_01_03_01_35   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_03_01_36   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_03_01_37   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_03_01_38   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_01_39   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_03_02      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_03_03      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_03_04      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
@@ -842,7 +1263,24 @@ DPA1_01_03_19      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_03_20      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_03_21      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_03_22      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
-DPA1_01_04         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_23      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_24      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_25      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_26      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_27      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_28      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_29      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_30      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_31      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_32      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_33      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_34      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_35      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_36      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_03_37      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_04_01      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_04_02      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_04_03      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_05         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_06_01      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_01_06_02      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
@@ -874,6 +1312,51 @@ DPA1_01_31         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_01_32N        RAGWLTLLY~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DPA1_01_33         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_01_34         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_35N        RAGWLTLLY~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_01_36         NVTWLCNGEL VTEGVAECLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_37         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_38         NVTWLCNGEL VTEGVAESLF LPRTDDSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_39         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_40         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_41         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_42         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_43         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_44         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_45         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_46         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_47         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_48         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_49         NITWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_50         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_51         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_52         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_53         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_54         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_55N        RAGWLTLLY~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_01_56         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_57         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_58         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_01_59         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_60         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_61         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_62         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_01_63         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_64         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_65         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_66N        RAGWLTLLY~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_01_67         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_68         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_69         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_70         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_71         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_72         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_73         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_74         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRMEH
+DPA1_01_75         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_76         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_77         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRLEH
+DPA1_01_78         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_01_79N        RAGWLTLLY~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DPA1_02_01_01_01   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_01_02   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_01_03   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
@@ -891,6 +1374,8 @@ DPA1_02_01_01_14   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_01_15   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_01_16   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_01_17   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_01_01_18   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_01_01_19   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_02_01   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_02_02   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_02_03   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
@@ -907,6 +1392,7 @@ DPA1_02_01_10      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_11      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_12      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_01_13      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_01_14      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_02_01   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_02_02   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_02_03   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
@@ -916,6 +1402,7 @@ DPA1_02_02_02_07   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_02_08   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_02_09   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_02_10   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_02_02_11   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_03      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_04      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_05      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
@@ -923,7 +1410,10 @@ DPA1_02_02_06      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_07      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_08      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_02_09      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
-DPA1_02_03         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_02_02_10      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_02_11      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_03_01      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_03_02      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_04         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_05         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_06         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
@@ -936,7 +1426,8 @@ DPA1_02_08         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_09         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_10         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_11         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
-DPA1_02_12         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_12_01      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_12_02      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_13N        RAGWLTLLY~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DPA1_02_14         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_15         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
@@ -945,19 +1436,46 @@ DPA1_02_17         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_18         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSG EDVYDCRVEH
 DPA1_02_19         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_20         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
-DPA1_02_21         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_21_01      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_21_02      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_22         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_23         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_24         NVTWLCNGEP VTEGVAESLF LPRTDYRFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_25         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_26_01_01   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_26_01_02   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
-DPA1_02_27         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
-DPA1_02_28         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_27_01      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_27_02      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_28_01      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_28_02      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_29         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_30         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_02_31         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
-DPA1_02_32N        ..SHQCSTSH GCAMGSQSLR VSLR...... .......... ..ASSCP...
+DPA1_02_32N        ..SHQCSTS. ..HGCA.... .......... .......... .......MGS
+DPA1_02_33         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_34         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_02_35         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_36         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_37         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_38Q        NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_39         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_40         NVTWLCSGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_41N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_02_42         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_43         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_44         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLIFVPSA EDVYDCRVEH
+DPA1_02_45         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_46         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_47         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_48         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_49         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_50         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_02_51         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_52N        RAGWLTLLY~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_02_53         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_54         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_55         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_02_56Q        RAGWLTLLY~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DPA1_03_01_01_01   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_03_01_01_02   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_03_01_01_03   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
@@ -966,16 +1484,23 @@ DPA1_03_01_01_05   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_03_01_01_06   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_03_01_02_01   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_03_01_02_02   NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_03_01_03      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_03_02         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_03_03         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_03_04         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
 DPA1_03_05Q        NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
-DPA1_03_06         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_03_06_01      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_03_06_02      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_03_07_01      NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_03_07_02      NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_03_08         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDFYDCRVEH
+DPA1_03_09         NVTWLCNGEL VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_04_01_01_01   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_04_01_01_02   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_04_01_01_03   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_04_02_01_01   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 DPA1_04_02_01_02   NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
+DPA1_04_03         NVTWLCNGEP VTEGVAESLF LPRTDYSFHK FHYLTFVPSA EDVYDCRVEH
 
                    201                                                250
 DPA1_01_03_01_01   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
@@ -1016,6 +1541,7 @@ DPA1_01_03_01_35   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_03_01_36   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_03_01_37   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_03_01_38   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_01_39   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_03_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_03_03      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_03_04      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
@@ -1037,7 +1563,24 @@ DPA1_01_03_19      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_03_20      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_03_21      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_03_22      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_01_04         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_23      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_24      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_25      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_26      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_27      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_28      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_29      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_30      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_31      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_32      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_33      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_34      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_35      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_36      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_03_37      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_04_01      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_04_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_04_03      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_05         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_06_01      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_06_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
@@ -1069,6 +1612,51 @@ DPA1_01_31         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_32N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DPA1_01_33         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_01_34         WGLDQLLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_35N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_01_36         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_37         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_38         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_39         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_40         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_41         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_42         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_43         WGLDQPLLKH WEAQEPFQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_44         WGLDQPLFKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_45         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVFIIKSL
+DPA1_01_46         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_47         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_48         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_49         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_50         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_51         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_52         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_53         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_54         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_55N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_01_56         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_57         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_58         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_59         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_60         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_61         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_62         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_63         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGIM VGTVLIIKSL
+DPA1_01_64         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_65         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_66N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_01_67         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_68         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_69         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_70         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_71         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_72         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_73         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_74         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_75         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_76         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_77         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_78         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_01_79N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DPA1_02_01_01_01   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_01_02   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_01_03   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
@@ -1086,6 +1674,8 @@ DPA1_02_01_01_14   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_01_15   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_01_16   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_01_17   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_01_01_18   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_01_01_19   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_02_01   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_02_02   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_02_03   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
@@ -1102,6 +1692,7 @@ DPA1_02_01_10      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_11      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_12      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_01_13      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_01_14      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_02_01   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_02_02   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_02_03   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
@@ -1111,16 +1702,20 @@ DPA1_02_02_02_07   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_02_08   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_02_09   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_02_10   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_02_03      WGLDQPLLKH WEAQEPIQMP ETMETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_02_04      WGLDQPLLKH WEAQEPIQMP ETMETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_02_02_11   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_02_03      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_02_04      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_05      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_02_06      WGLDQPLLKH WEAQEPIQMP ETMETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_02_06      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_07      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_08      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_02_09      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_03         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_04         WGLDQPLLKH WEAQEPIQMP ETMETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_05         WGLDQPLLKH WEAQEPIQMP ETMETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_02_10      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_02_11      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_03_01      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_03_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_04         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_05         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_06         WGLDQPLLKH WEAQEPIQMP ETMETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_07_01_01   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_07_01_02   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
@@ -1131,7 +1726,8 @@ DPA1_02_08         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_09         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_10         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_11         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_12         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_12_01      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_12_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_13N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DPA1_02_14         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_15         WGLDQPLLKH WEAQEPIQMP ETMETVLCAL GLVLGLVGII VGTVLIIKSL
@@ -1140,19 +1736,46 @@ DPA1_02_17         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_18         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_19         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_20         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_21         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_21_01      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_21_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_22         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_23         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_24         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_25         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_26_01_01   WGLDQPLLKH WEAQEPIQIP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_26_01_02   WGLDQPLLKH WEAQEPIQIP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_27         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_28         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_27_01      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_27_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_28_01      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_28_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_29         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_02_30         WGLDQPLLKH WEAQEPIQMP ETMETVLCAL GLVLGLVGII VGTILIIKSL
 DPA1_02_31         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_02_32N        .......... ......EQIT ASTSSIT~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_02_32N        QSLRVSL... RASSCPEQIT ASTSSIT~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_02_33         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_34         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_35         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_36         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_37         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_38Q        WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_39         WGLDQQLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_40         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_41N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_02_42         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_43         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_44         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_45         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_46         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_47         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_48         WGLDQPLLKH WEAQEPVQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_49         WGLDQPLLKH WGAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_50         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_51         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_52N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
+DPA1_02_53         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_54         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_55         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_02_56Q        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DPA1_03_01_01_01   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_03_01_01_02   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_03_01_01_03   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
@@ -1161,208 +1784,320 @@ DPA1_03_01_01_05   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_03_01_01_06   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_03_01_02_01   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_03_01_02_02   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_03_01_03      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_03_02         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_03_03         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_03_04         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_03_05Q        WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
-DPA1_03_06         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_03_06_01      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_03_06_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_03_07_01      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_03_07_02      WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_03_08         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_03_09         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_04_01_01_01   WGLDQPLLKH WEAQEPIQMP ETAETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_04_01_01_02   WGLDQPLLKH WEAQEPIQMP ETAETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_04_01_01_03   WGLDQPLLKH WEAQEPIQMP ETAETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_04_02_01_01   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
 DPA1_04_02_01_02   WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII VGTVLIIKSL
+DPA1_04_03         WGLDQPLLKH WEAQEPIQMP ETTETVLCAL GLVLGLVGII MGTVLIIKSL
 
-                   251       262
-DPA1_01_03_01_01   RSGHDPRAQG TL
-DPA1_01_03_01_02   RSGHDPRAQG TL
-DPA1_01_03_01_03   RSGHDPRAQG TL
-DPA1_01_03_01_04   RSGHDPRAQG TL
-DPA1_01_03_01_05   RSGHDPRAQG TL
-DPA1_01_03_01_06   RSGHDPRAQG TL
-DPA1_01_03_01_07   RSGHDPRAQG TL
-DPA1_01_03_01_08   RSGHDPRAQG TL
-DPA1_01_03_01_09   RSGHDPRAQG TL
-DPA1_01_03_01_10   RSGHDPRAQG TL
-DPA1_01_03_01_11   RSGHDPRAQG TL
-DPA1_01_03_01_12   RSGHDPRAQG TL
-DPA1_01_03_01_13   RSGHDPRAQG TL
-DPA1_01_03_01_14   RSGHDPRAQG TL
-DPA1_01_03_01_15   RSGHDPRAQG TL
-DPA1_01_03_01_16   RSGHDPRAQG TL
-DPA1_01_03_01_17   RSGHDPRAQG TL
-DPA1_01_03_01_18Q  RSGHDPRAQG TL
-DPA1_01_03_01_19   RSGHDPRAQG TL
-DPA1_01_03_01_20   RSGHDPRAQG TL
-DPA1_01_03_01_21   RSGHDPRAQG TL
-DPA1_01_03_01_22   RSGHDPRAQG TL
-DPA1_01_03_01_23   RSGHDPRAQG TL
-DPA1_01_03_01_24   RSGHDPRAQG TL
-DPA1_01_03_01_25   RSGHDPRAQG TL
-DPA1_01_03_01_26   RSGHDPRAQG TL
-DPA1_01_03_01_27   RSGHDPRAQG TL
-DPA1_01_03_01_28   RSGHDPRAQG TL
-DPA1_01_03_01_29   RSGHDPRAQG TL
-DPA1_01_03_01_30   RSGHDPRAQG TL
-DPA1_01_03_01_31   RSGHDPRAQG TL
-DPA1_01_03_01_32   RSGHDPRAQG TL
-DPA1_01_03_01_33   RSGHDPRAQG TL
-DPA1_01_03_01_34   RSGHDPRAQG TL
-DPA1_01_03_01_35   RSGHDPRAQG TL
-DPA1_01_03_01_36   RSGHDPRAQG TL
-DPA1_01_03_01_37   RSGHDPRAQG TL
-DPA1_01_03_01_38   RSGHDPRAQG TL
-DPA1_01_03_02      RSGHDPRAQG TL
-DPA1_01_03_03      RSGHDPRAQG TL
-DPA1_01_03_04      RSGHDPRAQG TL
-DPA1_01_03_05      RSGHDPRAQG TL
-DPA1_01_03_06      RSGHDPRAQG TL
-DPA1_01_03_07      RSGHDPRAQG TL
-DPA1_01_03_08      RSGHDPRAQG TL
-DPA1_01_03_09      RSGHDPRAQG TL
-DPA1_01_03_10      RSGHDPRAQG TL
-DPA1_01_03_11      RSGHDPRAQG TL
-DPA1_01_03_12      RSGHDPRAQG TL
-DPA1_01_03_13      RSGHDPRAQG TL
-DPA1_01_03_14      RSGHDPRAQG TL
-DPA1_01_03_15      RSGHDPRAQG TL
-DPA1_01_03_16      RSGHDPRAQG TL
-DPA1_01_03_17      RSGHDPRAQG TL
-DPA1_01_03_18      RSGHDPRAQG TL
-DPA1_01_03_19      RSGHDPRAQG TL
-DPA1_01_03_20      RSGHDPRAQG TL
-DPA1_01_03_21      RSGHDPRAQG TL
-DPA1_01_03_22      RSGHDPRAQG TL
-DPA1_01_04         RSGHDPRAQG TL
-DPA1_01_05         RSGHDPRAQG TL
-DPA1_01_06_01      RSGHDPRAQG PL
-DPA1_01_06_02      RSGHDPRAQG TL
-DPA1_01_07         RSGHDPRAQG TL
-DPA1_01_08         RSGHDPRAQG TL
-DPA1_01_09         RSGHDPRAQG TL
-DPA1_01_10         RSGHDPRAQG TL
-DPA1_01_11         RSGHDPRAQG TL
-DPA1_01_12         RSGHDPRAQG TL
-DPA1_01_13         RSGHDPRAQG TL
-DPA1_01_14         RSGHDPQAQG TL
-DPA1_01_15         RSGHDPRAQG TL
-DPA1_01_16         RSGHDPRAQG TL
-DPA1_01_17         RSGHDPRAQG TL
-DPA1_01_18         RSGHDPRAQG TL
-DPA1_01_19         RSGHDPRAQG TL
-DPA1_01_20         RSGHDPRAQG TL
-DPA1_01_21Q        ~~~~~~~~~~ ~~
-DPA1_01_22         RSGHDPRAQG TL
-DPA1_01_23         RSGHDPRAQG TL
-DPA1_01_24         RSGHDPRAQG TL
-DPA1_01_25         RSGHDPRAQG TL
-DPA1_01_26         RSGHDPRAQG TL
-DPA1_01_27         RSGHDPRAQG TL
-DPA1_01_28         RSGHDPRAQG TL
-DPA1_01_29N        ~~~~~~~~~~ ~~
-DPA1_01_30         RSGHDPRAQG TL
-DPA1_01_31         RSGHDPRAQG TL
-DPA1_01_32N        ~~~~~~~~~~ ~~
-DPA1_01_33         RSGHDPRAQG PL
-DPA1_01_34         RSGHDPRAQG TL
-DPA1_02_01_01_01   RSGHDPRAQG PL
-DPA1_02_01_01_02   RSGHDPRAQG PL
-DPA1_02_01_01_03   RSGHDPRAQG PL
-DPA1_02_01_01_04   RSGHDPRAQG PL
-DPA1_02_01_01_05   RSGHDPRAQG PL
-DPA1_02_01_01_06   RSGHDPRAQG PL
-DPA1_02_01_01_07   RSGHDPRAQG PL
-DPA1_02_01_01_08   RSGHDPRAQG PL
-DPA1_02_01_01_09   RSGHDPRAQG PL
-DPA1_02_01_01_10   RSGHDPRAQG PL
-DPA1_02_01_01_11   RSGHDPRAQG PL
-DPA1_02_01_01_12   RSGHDPRAQG PL
-DPA1_02_01_01_13   RSGHDPRAQG PL
-DPA1_02_01_01_14   RSGHDPRAQG PL
-DPA1_02_01_01_15   RSGHDPRAQG PL
-DPA1_02_01_01_16   RSGHDPRAQG PL
-DPA1_02_01_01_17   RSGHDPRAQG PL
-DPA1_02_01_02_01   RSGHDPRAQG PL
-DPA1_02_01_02_02   RSGHDPRAQG PL
-DPA1_02_01_02_03   RSGHDPRAQG PL
-DPA1_02_01_03      RSGHDPRAQG PL
-DPA1_02_01_04      RSGHDPRAQG PL
-DPA1_02_01_05      RSGHDPRAQG PL
-DPA1_02_01_06      RSGHDPRAQG PL
-DPA1_02_01_07      RSGHDPRAQG PL
-DPA1_02_01_08_01   RSGHDPRAQG PL
-DPA1_02_01_08_02   RSGHDPRAQG PL
-DPA1_02_01_08_03   RSGHDPRAQG PL
-DPA1_02_01_09      RSGHDPRAQG PL
-DPA1_02_01_10      RSGHDPRAQG PL
-DPA1_02_01_11      RSGHDPRAQG PL
-DPA1_02_01_12      RSGHDPRAQG PL
-DPA1_02_01_13      RSGHDPRAQG PL
-DPA1_02_02_02_01   RSGHDPRAQG PL
-DPA1_02_02_02_02   RSGHDPRAQG PL
-DPA1_02_02_02_03   RSGHDPRAQG PL
-DPA1_02_02_02_04   RSGHDPRAQG PL
-DPA1_02_02_02_05   RSGHDPRAQG PL
-DPA1_02_02_02_07   RSGHDPRAQG PL
-DPA1_02_02_02_08   RSGHDPRAQG PL
-DPA1_02_02_02_09   RSGHDPRAQG PL
-DPA1_02_02_02_10   RSGHDPRAQG PL
-DPA1_02_02_03      RSGHDPRAQG PL
-DPA1_02_02_04      RSGHDPRAQG PL
-DPA1_02_02_05      RSGHDPRAQG PL
-DPA1_02_02_06      RSGHDPRAQG PL
-DPA1_02_02_07      RSGHDPRAQG PL
-DPA1_02_02_08      RSGHDPRAQG PL
-DPA1_02_02_09      RSGHDPRAQG PL
-DPA1_02_03         RSGHDPRAQG TL
-DPA1_02_04         RSGHDPRAQG PL
-DPA1_02_05         RSGHDPRAQG PL
-DPA1_02_06         RSGHDPRAQG PL
-DPA1_02_07_01_01   RSGHDPRAQG PL
-DPA1_02_07_01_02   RSGHDPRAQG PL
-DPA1_02_07_01_03   RSGHDPRAQG PL
-DPA1_02_07_01_04   RSGHDPRAQG PL
-DPA1_02_07_02      RSGHDPRAQG PL
-DPA1_02_08         HSGHDPRAQG PL
-DPA1_02_09         RSGHDPRAQG PL
-DPA1_02_10         RSGHDPRAQG PL
-DPA1_02_11         RSGHDPRAQG PL
-DPA1_02_12         RSGHDPQAQG PL
-DPA1_02_13N        ~~~~~~~~~~ ~~
-DPA1_02_14         RSGHDPRAQG PL
-DPA1_02_15         CSGHDPRAQG PL
-DPA1_02_16         RSGHDPRAQG PL
-DPA1_02_17         RSGHDPRAQG PL
-DPA1_02_18         RSGHDPRAQG PL
-DPA1_02_19         RSGHDPRAQG PL
-DPA1_02_20         RSGHDPRAQG PL
-DPA1_02_21         RSGHDPRAQG PL
-DPA1_02_22         RSGHDPRAQG PL
-DPA1_02_23         RSGHDPRAQG PL
-DPA1_02_24         RSGHDPRAQG PL
-DPA1_02_25         RSGHDPRAQG PL
-DPA1_02_26_01_01   RSGHDPRAQG PL
-DPA1_02_26_01_02   RSGHDPRAQG PL
-DPA1_02_27         RSGHDPRAQG PL
-DPA1_02_28         RSGHDPRAQG PL
-DPA1_02_29         RSGHDPRAQG PL
-DPA1_02_30         RSGHDPRAQG PL
-DPA1_02_31         RSGHDPRSQG PL
-DPA1_02_32N        ~~~~~~~~~~ ~~
-DPA1_03_01_01_01   RSGHDPRAQG TL
-DPA1_03_01_01_02   RSGHDPRAQG TL
-DPA1_03_01_01_03   RSGHDPRAQG TL
-DPA1_03_01_01_04   RSGHDPRAQG TL
-DPA1_03_01_01_05   RSGHDPRAQG TL
-DPA1_03_01_01_06   RSGHDPRAQG TL
-DPA1_03_01_02_01   RSGHDPRAQG TL
-DPA1_03_01_02_02   RSGHDPRAQG TL
-DPA1_03_02         RSGHDPRAQG TL
-DPA1_03_03         RSGHDPRAQG TL
-DPA1_03_04         RSGHDPRAQG TL
-DPA1_03_05Q        RSGHDPRAQG TL
-DPA1_03_06         RSGHDPRAQG TL
-DPA1_04_01_01_01   RSGHDPRAQG PL
-DPA1_04_01_01_02   RSGHDPRAQG PL
-DPA1_04_01_01_03   RSGHDPRAQG PL
-DPA1_04_02_01_01   RSGHDPRAQG PL
-DPA1_04_02_01_02   RSGHDPRAQG PL
+                   251                                   288
+DPA1_01_03_01_01   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_02   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_03   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_04   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_05   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_06   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_07   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_08   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_09   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_10   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_11   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_12   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_13   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_14   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_15   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_16   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_17   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_18Q  RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_19   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_20   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_21   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_22   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_23   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_24   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_25   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_26   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_27   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_28   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_29   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_30   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_31   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_32   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_33   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_34   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_35   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_36   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_37   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_38   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_01_39   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_02      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_03      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_04      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_05      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_06      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_07      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_08      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_09      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_10      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_11      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_12      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_13      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_14      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_15      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_16      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_17      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_18      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_19      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_20      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_21      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_22      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_23      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_24      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_25      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_26      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_27      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_28      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_29      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_30      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_31      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_32      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_33      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_34      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_35      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_36      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_03_37      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_04_01      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_04_02      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_04_03      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_05         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_06_01      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_06_02      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_07         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_08         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_09         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_10         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_11         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_12         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_13         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_14         RSGHDPQAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_15         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_16         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_17         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_18         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_19         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_20         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_21Q        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_22         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_23         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_24         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_25         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_26         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_27         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_28         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_29N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_30         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_31         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_32N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_33         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_34         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_35N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_36         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_37         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_38         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_39         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_40         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_41         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_42         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_43         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_44         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_45         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_46         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_47         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_48         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_49         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_50         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_51         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_52         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_53         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_54         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_55N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_56         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_57         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_58         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_59         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_60         RSGHDPWAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_61         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_62         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_63         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_64         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_65         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_66N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_67         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_68         HSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_69         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_70         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_71         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_72         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_73         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_74         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_75         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_76         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_77         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_78         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_01_79N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_01   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_02   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_03   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_04   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_05   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_06   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_07   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_08   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_09   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_10   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_11   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_12   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_13   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_14   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_15   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_16   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_17   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_18   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_01_19   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_02_01   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_02_02   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_02_03   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_03      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_04      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_05      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_06      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_07      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_08_01   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_08_02   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_08_03   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_09      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_10      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_11      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_12      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_13      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_01_14      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_01   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_02   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_03   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_04   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_05   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_07   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_08   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_09   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_10   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_02_11   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_03      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_04      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_05      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_06      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_07      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_08      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_09      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_10      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_02_11      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_03_01      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_03_02      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_04         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_05         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_06         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_07_01_01   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_07_01_02   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_07_01_03   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_07_01_04   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_07_02      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_08         HSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_09         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_10         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_11         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_12_01      RSGHDPQAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_12_02      RSGHDPQAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_13N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_14         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_15         CSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_16         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_17         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_18         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_19         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_20         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_21_01      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_21_02      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_22         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_23         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_24         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_25         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_26_01_01   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_26_01_02   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_27_01      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_27_02      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_28_01      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_28_02      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_29         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_30         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_31         RSGHDPRSQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_32N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_33         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_34         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_35         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_36         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_37         RSGHDPRVQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_38Q        RSGHDPRAQA PVKYCKGGNV KKEVLEFVEC KEGRKNSI
+DPA1_02_39         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_40         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_41N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_42         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_43         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_44         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_45         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_46         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_47         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_48         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_49         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_50         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_51         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_52N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_53         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_54         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_55         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_02_56Q        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_01_01_01   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_01_01_02   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_01_01_03   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_01_01_04   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_01_01_05   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_01_01_06   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_01_02_01   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_01_02_02   RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_01_03      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_02         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_03         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_04         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_05Q        RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_06_01      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_06_02      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_07_01      RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_07_02      RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_08         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_03_09         RSGHDPRAQG TL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_04_01_01_01   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_04_01_01_02   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_04_01_01_03   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_04_02_01_01   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_04_02_01_02   RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
+DPA1_04_03         RSGHDPRAQG PL~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~
