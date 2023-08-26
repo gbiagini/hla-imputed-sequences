@@ -3517,10 +3517,10 @@
  Name: DRB1*16:71          Len:    269  Check: 3285  Weight: -1.00
  Name: DRB1*16:72          Len:    269  Check: 3157  Weight: -1.00
  Name: DRB1*16:73          Len:    269  Check: 3305  Weight: -1.00
-*
-//*//
-*
-                    1                                                   50*                    1                                                   50
+
+//
+
+                    1                                                   50
 DRB1*01:01:01:01    MVCLKLPGGS CMTALTVTLM VLSSPLALAG DTRPRFLWQL KF.ECHFFNG
 DRB1*01:01:01:02    MVCLKLPGGS CMTALTVTLM VLSSPLALAG DTRPRFLWQL KF.ECHFFNG
 DRB1*01:01:01:03    MVCLKLPGGS CMTALTVTLM VLSSPLALAG DTRPRFLWQL KF.ECHFFNG
@@ -7037,8 +7037,8 @@ DRB1*16:70N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~HVSCGS LRGSVISSMG
 DRB1*16:71          MVCLKLPGGS CMTALTVTLM VLSSPLALAG DTRPRFLWQP KR.ECHFFNG
 DRB1*16:72          MVCLKLPGGS CMTALTVTLM VLSSPLALAG DTRPRFLWQP KR.ECHFFNG
 DRB1*16:73          MVCLKLPGGS CMTALTVTLM VLSSPLALAG DTRPRFLWQP KR.ECHFFNG
-*
-                    51                                                 100*                    51                                                 100
+
+                    51                                                 100
 DRB1*01:01:01:01    TERVR.LLER CIYNQE.ESV RFDSDVGEYR AVTELGRPDA EYWNSQKDLL
 DRB1*01:01:01:02    TERVR.LLER CIYNQE.ESV RFDSDVGEYR AVTELGRPDA EYWNSQKDLL
 DRB1*01:01:01:03    TERVR.LLER CIYNQE.ESV RFDSDVGEYR AVTELGRPDA EYWNSQKDLL
@@ -10555,8 +10555,8 @@ DRB1*16:70N         RSGCG.SWTD TSITRR.SPC ASTATWGST. GR~~~~~~~~ ~~~~~~~~~~
 DRB1*16:71          TERVR.FLDR YFYNHE.ESV RFDSDVGEYR AVTELGRPDA EYWNSQKDFL
 DRB1*16:72          TERVR.FLDR YFYNQE.ESV RFDSDVGEYR AVTELGRPDA EYWNSQKDFL
 DRB1*16:73          TERVR.FLDR YFYNQE.ESV RFDSDVGEYR AVRELGRPDA EYWNSQKDFL
-*
-                    101                                                150*                    101                                                150
+
+                    101                                                150
 DRB1*01:01:01:01    EQRRAAVDTY CRHNYGVGES FTVQRRVEPK VTVYPSKTQP LQHHNLLVCS
 DRB1*01:01:01:02    EQRRAAVDTY CRHNYGVGES FTVQRRVEPK VTVYPSKTQP LQHHNLLVCS
 DRB1*01:01:01:03    EQRRAAVDTY CRHNYGVGES FTVQRRVEPK VTVYPSKTQP LQHHNLLVCS
@@ -14073,8 +14073,8 @@ DRB1*16:70N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB1*16:71          EDRRAAVDTY CRHNYGVGES FTVQRRVQPK VTVYPSKTQP LQHHNLLVCS
 DRB1*16:72          EDRRAAVDTY CRHNYGVGES FTVQRRVQPK VTVYPSKTQP LQHHNLLVCS
 DRB1*16:73          EDRRAAVDTY CRHNYGVGES FTVQRRVQPK VTVYPSKTQP LQHHNLLVCS
-*
-                    151                                                200*                    151                                                200
+
+                    151                                                200
 DRB1*01:01:01:01    VSGFYPGSIE VRWFRNGQEE KAGVVSTGLI QNGDWTFQTL VMLETVPRSG
 DRB1*01:01:01:02    VSGFYPGSIE VRWFRNGQEE KAGVVSTGLI QNGDWTFQTL VMLETVPRSG
 DRB1*01:01:01:03    VSGFYPGSIE VRWFRNGQEE KAGVVSTGLI QNGDWTFQTL VMLETVPRSG
@@ -17591,8 +17591,8 @@ DRB1*16:70N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB1*16:71          VSGFYPGSIE VRWFLNGQEE KAGMVSTGLI QNGDWTFQTL VMLETVPRSG
 DRB1*16:72          VSGFYPGSIE VRWFLNGQEE KAGMVSTGLI QNGDWTFQTL LMLETVPRSG
 DRB1*16:73          VSGFYPGSIE VRWFLNGQEE KAGMVSTGLI QNGDWTFQTL VMLETVPRSG
-*
-                    201                                                250*                    201                                                250
+
+                    201                                                250
 DRB1*01:01:01:01    EVYTCQVEHP SVTSPLTVEW RARSESAQSK MLSGVGGFVL GLLFLGAGLF
 DRB1*01:01:01:02    EVYTCQVEHP SVTSPLTVEW RARSESAQSK MLSGVGGFVL GLLFLGAGLF
 DRB1*01:01:01:03    EVYTCQVEHP SVTSPLTVEW RARSESAQSK MLSGVGGFVL GLLFLGAGLF
@@ -21109,8 +21109,8 @@ DRB1*16:70N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB1*16:71          EVYTCQVEHP SVTSPLTVEW RARSESAQSK MLSGVGGFVL GLLFLGAGLF
 DRB1*16:72          EVYTCQVEHP SVTSPLTVEW RARSESAQSK MLSGVGGFVL GLLFLGAGLF
 DRB1*16:73          EVYTCQVEHP SVTSPLTVEW RARSESAQSK MLSGVGGFVL GLLFLGAGLF
-*
-                    251              269*                    251              269
+
+                    251              269
 DRB1*01:01:01:01    IYFRNQKGHS GLQPTGFLS
 DRB1*01:01:01:02    IYFRNQKGHS GLQPTGFLS
 DRB1*01:01:01:03    IYFRNQKGHS GLQPTGFLS
