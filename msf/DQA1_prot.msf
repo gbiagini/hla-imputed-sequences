@@ -650,10 +650,10 @@
  Name: DQA1*06:03         Len:    257  Check: 9590  Weight: -1.00
  Name: DQA1*06:04         Len:    257  Check: 9643  Weight: -1.00
  Name: DQA1*06:05N        Len:    257  Check: 3246  Weight: -1.00
-*
-//*//
-*
-                   1                                                   50*                   1                                                   50
+
+//
+
+                   1                                                   50
 DQA1*01:01:01:01   MILNKALLLG ALALTTVMSP CGGEDIVADH VASCGVNLYQ FYGPSGQYTH
 DQA1*01:01:01:02   MILNKALLLG ALALTTVMSP CGGEDIVADH VASCGVNLYQ FYGPSGQYTH
 DQA1*01:01:01:03   MILNKALLLG ALALTTVMSP CGGEDIVADH VASCGVNLYQ FYGPSGQYTH
@@ -1303,8 +1303,8 @@ DQA1*06:02         MILNKALMLG ALALTTVMSP CGGEDIVADH VASYGVNLYQ SYGPSGQFTH
 DQA1*06:03         MILNKALLLG ALALTTVMSP CGGEDIVADH VASYGVNLYQ SYGPSGQFTH
 DQA1*06:04         MILNKALLLG ALALTTVMSP CGGEDIVADH VASYGVNLYQ SYGPSGQFTH
 DQA1*06:05N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-*
-                   51                                                 100*                   51                                                 100
+
+                   51                                                 100
 DQA1*01:01:01:01   EFDGDEEFYV DLERK.ETAW RWPEFSKFGG FDPQGALRNM AVAKHNLNIM
 DQA1*01:01:01:02   EFDGDEEFYV DLERK.ETAW RWPEFSKFGG FDPQGALRNM AVAKHNLNIM
 DQA1*01:01:01:03   EFDGDEEFYV DLERK.ETAW RWPEFSKFGG FDPQGALRNM AVAKHNLNIM
@@ -1954,8 +1954,8 @@ DQA1*06:02         EFDGDEQFYV DLGRK.ETVW CLPVLRQFRR FDPQFALTNI AVTKHNLNIL
 DQA1*06:03         EFDGDEQFYV DLGKK.ETVW CLPVLRQFRG FDPQFALTNI AVTKHNLNIL
 DQA1*06:04         EFDGDEQFYV ELGRK.ETVW CLPVLRQFRG FDPQFALTNI AVTKHNLNIL
 DQA1*06:05N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-*
-                   101                                                150*                   101                                                150
+
+                   101                                                150
 DQA1*01:01:01:01   IKRYNSTAAT NEVP.EVTVF SKSPVTLGQP NTLICLVDNI FPPVVNITWL
 DQA1*01:01:01:02   IKRYNSTAAT NEVP.EVTVF SKSPVTLGQP NTLICLVDNI FPPVVNITWL
 DQA1*01:01:01:03   IKRYNSTAAT NEVP.EVTVF SKSPVTLGQP NTLICLVDNI FPPVVNITWL
@@ -2605,8 +2605,8 @@ DQA1*06:02         IKRSNSTAAT NEVP.EVTVF SKSPVTLGQP NTLICLVDNI FPPVVNITWL
 DQA1*06:03         IKRSNSTAAT NEVP.EVTVF SKSPVTLGQP NTLICLVDNI FPPVVNITWL
 DQA1*06:04         IKRSNSTAAT NEVP.EVTVF SKSPVTLGQP NTLICLVDNI FPPVVNITWL
 DQA1*06:05N        ~~~~~~~~~~ ~~~~~~~~~L TMLPL..... .......... ...MV~~~~~
-*
-                   151                                                200*                   151                                                200
+
+                   151                                                200
 DQA1*01:01:01:01   SNGQSVTEGV SETSFLSKSD HSFFKISYLT FLPSADEIYD CKVEHWGLDQ
 DQA1*01:01:01:02   SNGQSVTEGV SETSFLSKSD HSFFKISYLT FLPSADEIYD CKVEHWGLDQ
 DQA1*01:01:01:03   SNGQSVTEGV SETSFLSKSD HSFFKISYLT FLPSADEIYD CKVEHWGLDQ
@@ -3256,8 +3256,8 @@ DQA1*06:02         SNGHSVTEGV SETRFLSKSD HSFFKISYLT FLPSADEIYD CKVEHWGLDE
 DQA1*06:03         SNGHSVTEGV SETSFLSKSD HSFFKISYLT FLPSADEIYD CKVEHWGLDE
 DQA1*06:04         SNGHSVTEGV SETSFLSKSD HSFFKISYLT FLPSADEIYD CKVEHWGLDE
 DQA1*06:05N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-*
-                   201                                                250*                   201                                                250
+
+                   201                                                250
 DQA1*01:01:01:01   PLLKHWEPEI PAPMSELTET VVCALGLSVG LVGIVVGTVF IIQGLRSVGA
 DQA1*01:01:01:02   PLLKHWEPEI PAPMSELTET VVCALGLSVG LVGIVVGTVF IIQGLRSVGA
 DQA1*01:01:01:03   PLLKHWEPEI PAPMSELTET VVCALGLSVG LVGIVVGTVF IIQGLRSVGA
@@ -3907,8 +3907,8 @@ DQA1*06:02         PLLKHWEPEI PTPMSELTET VVCALGLSVG LVGIVVGTVL IIRGLRSVGA
 DQA1*06:03         PLLKHWEPEI PAPMSELTET VVCALGLSVG LVGIVVGTVF IIRGLRSVGA
 DQA1*06:04         PLLKHWEPEI PAPMSELTET VVCALGLSVG LVGIVVGTVF IIRGLRSVGA
 DQA1*06:05N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-*
-                   251   *                   251   
+
+                   251   
 DQA1*01:01:01:01   SRHQGPL
 DQA1*01:01:01:02   SRHQGPL
 DQA1*01:01:01:03   SRHQGPL
