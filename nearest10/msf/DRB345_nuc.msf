@@ -1,6 +1,6 @@
 !!NA_MULTIPLE_ALIGNMENT 1.0
 
-    MSF: 801  Type: P  August 27, 2023 10:11  Check: 825  ..
+    MSF: 801  Type: P  August 27, 2023 12:19  Check: 8587  ..
 
  Name: DRB3*01:01:02:01   Len:    801  Check: 4439  Weight: -1.00
  Name: DRB3*01:01:02:02   Len:    801  Check: 4439  Weight: -1.00
@@ -8,103 +8,103 @@
  Name: DRB3*01:01:02:04   Len:    801  Check: 4439  Weight: -1.00
  Name: DRB3*01:01:02:05   Len:    801  Check: 4439  Weight: -1.00
  Name: DRB3*01:01:02:06   Len:    801  Check: 4439  Weight: -1.00
- Name: DRB3*01:01:03      Len:    801  Check: 4949  Weight: -1.00
- Name: DRB3*01:01:04      Len:    801  Check: 4115  Weight: -1.00
- Name: DRB3*01:01:05      Len:    801  Check: 4592  Weight: -1.00
- Name: DRB3*01:01:06      Len:    801  Check: 4082  Weight: -1.00
- Name: DRB3*01:01:07      Len:    801  Check: 4331  Weight: -1.00
- Name: DRB3*01:01:08      Len:    801  Check: 4571  Weight: -1.00
- Name: DRB3*01:01:09      Len:    801  Check: 4829  Weight: -1.00
- Name: DRB3*01:01:10      Len:    801  Check: 4385  Weight: -1.00
+ Name: DRB3*01:01:03      Len:    801  Check: 4881  Weight: -1.00
+ Name: DRB3*01:01:04      Len:    801  Check: 4047  Weight: -1.00
+ Name: DRB3*01:01:05      Len:    801  Check: 4524  Weight: -1.00
+ Name: DRB3*01:01:06      Len:    801  Check: 4014  Weight: -1.00
+ Name: DRB3*01:01:07      Len:    801  Check: 4263  Weight: -1.00
+ Name: DRB3*01:01:08      Len:    801  Check: 4503  Weight: -1.00
+ Name: DRB3*01:01:09      Len:    801  Check: 4761  Weight: -1.00
+ Name: DRB3*01:01:10      Len:    801  Check: 4317  Weight: -1.00
  Name: DRB3*01:01:11      Len:    801  Check: 3878  Weight: -1.00
  Name: DRB3*01:01:12      Len:    801  Check: 4751  Weight: -1.00
  Name: DRB3*01:01:13      Len:    801  Check: 4205  Weight: -1.00
  Name: DRB3*01:01:14      Len:    801  Check: 4347  Weight: -1.00
- Name: DRB3*01:02         Len:    801  Check: 4507  Weight: -1.00
- Name: DRB3*01:03         Len:    801  Check: 4667  Weight: -1.00
- Name: DRB3*01:04         Len:    801  Check: 3538  Weight: -1.00
- Name: DRB3*01:05         Len:    801  Check: 4109  Weight: -1.00
- Name: DRB3*01:06         Len:    801  Check: 4551  Weight: -1.00
+ Name: DRB3*01:02         Len:    801  Check: 4439  Weight: -1.00
+ Name: DRB3*01:03         Len:    801  Check: 4599  Weight: -1.00
+ Name: DRB3*01:04         Len:    801  Check: 3470  Weight: -1.00
+ Name: DRB3*01:05         Len:    801  Check: 4041  Weight: -1.00
+ Name: DRB3*01:06         Len:    801  Check: 4483  Weight: -1.00
  Name: DRB3*01:07         Len:    801  Check: 3277  Weight: -1.00
- Name: DRB3*01:08         Len:    801  Check: 3582  Weight: -1.00
- Name: DRB3*01:09         Len:    801  Check: 4598  Weight: -1.00
- Name: DRB3*01:10         Len:    801  Check: 4377  Weight: -1.00
- Name: DRB3*01:11         Len:    801  Check: 4465  Weight: -1.00
- Name: DRB3*01:12         Len:    801  Check: 4231  Weight: -1.00
- Name: DRB3*01:13         Len:    801  Check: 4014  Weight: -1.00
- Name: DRB3*01:14         Len:    801  Check: 4470  Weight: -1.00
- Name: DRB3*01:15         Len:    801  Check: 4322  Weight: -1.00
- Name: DRB3*01:16         Len:    801  Check: 4764  Weight: -1.00
- Name: DRB3*01:17         Len:    801  Check: 4527  Weight: -1.00
- Name: DRB3*01:18         Len:    801  Check: 4231  Weight: -1.00
- Name: DRB3*01:19         Len:    801  Check: 4556  Weight: -1.00
- Name: DRB3*01:20         Len:    801  Check: 5128  Weight: -1.00
- Name: DRB3*01:21         Len:    801  Check: 4483  Weight: -1.00
- Name: DRB3*01:22         Len:    801  Check: 4475  Weight: -1.00
- Name: DRB3*01:23         Len:    801  Check: 5503  Weight: -1.00
- Name: DRB3*01:24         Len:    801  Check: 4499  Weight: -1.00
- Name: DRB3*01:25         Len:    801  Check: 4409  Weight: -1.00
+ Name: DRB3*01:08         Len:    801  Check: 3514  Weight: -1.00
+ Name: DRB3*01:09         Len:    801  Check: 4606  Weight: -1.00
+ Name: DRB3*01:10         Len:    801  Check: 4309  Weight: -1.00
+ Name: DRB3*01:11         Len:    801  Check: 4397  Weight: -1.00
+ Name: DRB3*01:12         Len:    801  Check: 4163  Weight: -1.00
+ Name: DRB3*01:13         Len:    801  Check: 3946  Weight: -1.00
+ Name: DRB3*01:14         Len:    801  Check: 4402  Weight: -1.00
+ Name: DRB3*01:15         Len:    801  Check: 4254  Weight: -1.00
+ Name: DRB3*01:16         Len:    801  Check: 4696  Weight: -1.00
+ Name: DRB3*01:17         Len:    801  Check: 4459  Weight: -1.00
+ Name: DRB3*01:18         Len:    801  Check: 4163  Weight: -1.00
+ Name: DRB3*01:19         Len:    801  Check: 4488  Weight: -1.00
+ Name: DRB3*01:20         Len:    801  Check: 5060  Weight: -1.00
+ Name: DRB3*01:21         Len:    801  Check: 4415  Weight: -1.00
+ Name: DRB3*01:22         Len:    801  Check: 4407  Weight: -1.00
+ Name: DRB3*01:23         Len:    801  Check: 5435  Weight: -1.00
+ Name: DRB3*01:24         Len:    801  Check: 4431  Weight: -1.00
+ Name: DRB3*01:25         Len:    801  Check: 4341  Weight: -1.00
  Name: DRB3*01:26N        Len:    801  Check: 2492  Weight: -1.00
- Name: DRB3*01:27         Len:    801  Check: 4325  Weight: -1.00
- Name: DRB3*01:28         Len:    801  Check: 3946  Weight: -1.00
- Name: DRB3*01:29         Len:    801  Check: 4407  Weight: -1.00
- Name: DRB3*01:30         Len:    801  Check: 4363  Weight: -1.00
- Name: DRB3*01:31         Len:    801  Check: 4437  Weight: -1.00
- Name: DRB3*01:32         Len:    801  Check: 4301  Weight: -1.00
- Name: DRB3*01:33         Len:    801  Check: 4813  Weight: -1.00
- Name: DRB3*01:34         Len:    801  Check: 4426  Weight: -1.00
- Name: DRB3*01:35         Len:    801  Check: 4738  Weight: -1.00
- Name: DRB3*01:36         Len:    801  Check: 5389  Weight: -1.00
- Name: DRB3*01:37         Len:    801  Check: 4998  Weight: -1.00
- Name: DRB3*01:38         Len:    801  Check: 4762  Weight: -1.00
- Name: DRB3*01:39         Len:    801  Check: 4290  Weight: -1.00
+ Name: DRB3*01:27         Len:    801  Check: 4257  Weight: -1.00
+ Name: DRB3*01:28         Len:    801  Check: 3878  Weight: -1.00
+ Name: DRB3*01:29         Len:    801  Check: 4339  Weight: -1.00
+ Name: DRB3*01:30         Len:    801  Check: 4295  Weight: -1.00
+ Name: DRB3*01:31         Len:    801  Check: 4369  Weight: -1.00
+ Name: DRB3*01:32         Len:    801  Check: 4233  Weight: -1.00
+ Name: DRB3*01:33         Len:    801  Check: 4745  Weight: -1.00
+ Name: DRB3*01:34         Len:    801  Check: 4358  Weight: -1.00
+ Name: DRB3*01:35         Len:    801  Check: 4670  Weight: -1.00
+ Name: DRB3*01:36         Len:    801  Check: 5321  Weight: -1.00
+ Name: DRB3*01:37         Len:    801  Check: 4930  Weight: -1.00
+ Name: DRB3*01:38         Len:    801  Check: 4694  Weight: -1.00
+ Name: DRB3*01:39         Len:    801  Check: 4222  Weight: -1.00
  Name: DRB3*01:40:01N     Len:    801  Check: 2402  Weight: -1.00
  Name: DRB3*01:40:02N     Len:    801  Check: 8922  Weight: -1.00
- Name: DRB3*01:41         Len:    801  Check: 4217  Weight: -1.00
- Name: DRB3*01:42         Len:    801  Check: 4407  Weight: -1.00
- Name: DRB3*01:43         Len:    801  Check: 4109  Weight: -1.00
- Name: DRB3*01:44         Len:    801  Check: 3759  Weight: -1.00
- Name: DRB3*01:45         Len:    801  Check: 4739  Weight: -1.00
- Name: DRB3*01:46         Len:    801  Check: 4646  Weight: -1.00
- Name: DRB3*01:47         Len:    801  Check: 4599  Weight: -1.00
- Name: DRB3*01:48         Len:    801  Check: 4157  Weight: -1.00
- Name: DRB3*01:49         Len:    801  Check: 4380  Weight: -1.00
- Name: DRB3*01:50         Len:    801  Check: 4228  Weight: -1.00
- Name: DRB3*01:51         Len:    801  Check: 5221  Weight: -1.00
- Name: DRB3*01:52         Len:    801  Check: 3964  Weight: -1.00
- Name: DRB3*01:53         Len:    801  Check: 4757  Weight: -1.00
- Name: DRB3*01:54         Len:    801  Check: 4613  Weight: -1.00
- Name: DRB3*01:55         Len:    801  Check: 4775  Weight: -1.00
- Name: DRB3*01:56         Len:    801  Check: 4371  Weight: -1.00
- Name: DRB3*01:57         Len:    801  Check: 5542  Weight: -1.00
- Name: DRB3*01:58         Len:    801  Check: 4289  Weight: -1.00
- Name: DRB3*01:59         Len:    801  Check: 4265  Weight: -1.00
- Name: DRB3*01:60         Len:    801  Check: 4660  Weight: -1.00
- Name: DRB3*01:61         Len:    801  Check: 4515  Weight: -1.00
+ Name: DRB3*01:41         Len:    801  Check: 4225  Weight: -1.00
+ Name: DRB3*01:42         Len:    801  Check: 4339  Weight: -1.00
+ Name: DRB3*01:43         Len:    801  Check: 4041  Weight: -1.00
+ Name: DRB3*01:44         Len:    801  Check: 3691  Weight: -1.00
+ Name: DRB3*01:45         Len:    801  Check: 4671  Weight: -1.00
+ Name: DRB3*01:46         Len:    801  Check: 4578  Weight: -1.00
+ Name: DRB3*01:47         Len:    801  Check: 4531  Weight: -1.00
+ Name: DRB3*01:48         Len:    801  Check: 4089  Weight: -1.00
+ Name: DRB3*01:49         Len:    801  Check: 4312  Weight: -1.00
+ Name: DRB3*01:50         Len:    801  Check: 4160  Weight: -1.00
+ Name: DRB3*01:51         Len:    801  Check: 5153  Weight: -1.00
+ Name: DRB3*01:52         Len:    801  Check: 3896  Weight: -1.00
+ Name: DRB3*01:53         Len:    801  Check: 4689  Weight: -1.00
+ Name: DRB3*01:54         Len:    801  Check: 4545  Weight: -1.00
+ Name: DRB3*01:55         Len:    801  Check: 4707  Weight: -1.00
+ Name: DRB3*01:56         Len:    801  Check: 4303  Weight: -1.00
+ Name: DRB3*01:57         Len:    801  Check: 5474  Weight: -1.00
+ Name: DRB3*01:58         Len:    801  Check: 4221  Weight: -1.00
+ Name: DRB3*01:59         Len:    801  Check: 4197  Weight: -1.00
+ Name: DRB3*01:60         Len:    801  Check: 4592  Weight: -1.00
+ Name: DRB3*01:61         Len:    801  Check: 4447  Weight: -1.00
  Name: DRB3*01:62:01:01   Len:    801  Check: 4371  Weight: -1.00
  Name: DRB3*01:62:01:02   Len:    801  Check: 4371  Weight: -1.00
- Name: DRB3*01:63         Len:    801  Check: 4415  Weight: -1.00
- Name: DRB3*01:64         Len:    801  Check: 4114  Weight: -1.00
- Name: DRB3*01:65         Len:    801  Check: 5154  Weight: -1.00
- Name: DRB3*01:66         Len:    801  Check: 4541  Weight: -1.00
- Name: DRB3*01:67         Len:    801  Check: 4504  Weight: -1.00
- Name: DRB3*01:68         Len:    801  Check: 4249  Weight: -1.00
- Name: DRB3*01:69         Len:    801  Check: 4361  Weight: -1.00
- Name: DRB3*01:70         Len:    801  Check: 4335  Weight: -1.00
- Name: DRB3*01:71         Len:    801  Check: 4760  Weight: -1.00
- Name: DRB3*01:72         Len:    801  Check: 4575  Weight: -1.00
- Name: DRB3*01:74         Len:    801  Check: 4145  Weight: -1.00
- Name: DRB3*01:75         Len:    801  Check: 4398  Weight: -1.00
- Name: DRB3*01:76         Len:    801  Check: 4366  Weight: -1.00
+ Name: DRB3*01:63         Len:    801  Check: 4347  Weight: -1.00
+ Name: DRB3*01:64         Len:    801  Check: 4046  Weight: -1.00
+ Name: DRB3*01:65         Len:    801  Check: 5086  Weight: -1.00
+ Name: DRB3*01:66         Len:    801  Check: 4473  Weight: -1.00
+ Name: DRB3*01:67         Len:    801  Check: 4436  Weight: -1.00
+ Name: DRB3*01:68         Len:    801  Check: 4181  Weight: -1.00
+ Name: DRB3*01:69         Len:    801  Check: 4293  Weight: -1.00
+ Name: DRB3*01:70         Len:    801  Check: 4267  Weight: -1.00
+ Name: DRB3*01:71         Len:    801  Check: 4692  Weight: -1.00
+ Name: DRB3*01:72         Len:    801  Check: 4507  Weight: -1.00
+ Name: DRB3*01:74         Len:    801  Check: 4077  Weight: -1.00
+ Name: DRB3*01:75         Len:    801  Check: 4330  Weight: -1.00
+ Name: DRB3*01:76         Len:    801  Check: 4298  Weight: -1.00
  Name: DRB3*01:77N        Len:    801  Check: 9143  Weight: -1.00
- Name: DRB3*01:78         Len:    801  Check: 4389  Weight: -1.00
- Name: DRB3*01:79         Len:    801  Check: 5076  Weight: -1.00
- Name: DRB3*01:80         Len:    801  Check: 4453  Weight: -1.00
+ Name: DRB3*01:78         Len:    801  Check: 4321  Weight: -1.00
+ Name: DRB3*01:79         Len:    801  Check: 5008  Weight: -1.00
+ Name: DRB3*01:80         Len:    801  Check: 4385  Weight: -1.00
  Name: DRB3*01:81N        Len:    801  Check: 1748  Weight: -1.00
- Name: DRB3*01:82         Len:    801  Check: 3942  Weight: -1.00
- Name: DRB3*01:83         Len:    801  Check: 4355  Weight: -1.00
- Name: DRB3*01:84         Len:    801  Check: 4539  Weight: -1.00
- Name: DRB3*01:85         Len:    801  Check: 4199  Weight: -1.00
+ Name: DRB3*01:82         Len:    801  Check: 3874  Weight: -1.00
+ Name: DRB3*01:83         Len:    801  Check: 4287  Weight: -1.00
+ Name: DRB3*01:84         Len:    801  Check: 4471  Weight: -1.00
+ Name: DRB3*01:85         Len:    801  Check: 4131  Weight: -1.00
  Name: DRB3*02:01         Len:    801  Check: 4173  Weight: -1.00
  Name: DRB3*02:02:01:01   Len:    801  Check: 4452  Weight: -1.00
  Name: DRB3*02:02:01:02   Len:    801  Check: 4452  Weight: -1.00
@@ -287,57 +287,57 @@
  Name: DRB3*03:01:01:02   Len:    801  Check: 6746  Weight: -1.00
  Name: DRB3*03:01:01:03   Len:    801  Check: 6746  Weight: -1.00
  Name: DRB3*03:01:01:04   Len:    801  Check: 6746  Weight: -1.00
- Name: DRB3*03:01:02      Len:    801  Check: 6548  Weight: -1.00
+ Name: DRB3*03:01:02      Len:    801  Check: 6530  Weight: -1.00
  Name: DRB3*03:01:03:01   Len:    801  Check: 6407  Weight: -1.00
  Name: DRB3*03:01:03:02   Len:    801  Check: 6407  Weight: -1.00
  Name: DRB3*03:01:04      Len:    801  Check: 6404  Weight: -1.00
- Name: DRB3*03:01:05      Len:    801  Check: 6656  Weight: -1.00
+ Name: DRB3*03:01:05      Len:    801  Check: 6638  Weight: -1.00
  Name: DRB3*03:01:06      Len:    801  Check: 6602  Weight: -1.00
  Name: DRB3*03:01:07      Len:    801  Check: 6950  Weight: -1.00
  Name: DRB3*03:01:08      Len:    801  Check: 6656  Weight: -1.00
- Name: DRB3*03:01:09      Len:    801  Check: 6842  Weight: -1.00
- Name: DRB3*03:01:10      Len:    801  Check: 6684  Weight: -1.00
- Name: DRB3*03:02         Len:    801  Check: 6696  Weight: -1.00
- Name: DRB3*03:03         Len:    801  Check: 6915  Weight: -1.00
- Name: DRB3*03:04:01      Len:    801  Check: 6902  Weight: -1.00
- Name: DRB3*03:04:02      Len:    801  Check: 6341  Weight: -1.00
- Name: DRB3*03:05         Len:    801  Check: 6488  Weight: -1.00
- Name: DRB3*03:06         Len:    801  Check: 6777  Weight: -1.00
- Name: DRB3*03:07         Len:    801  Check: 7189  Weight: -1.00
- Name: DRB3*03:08         Len:    801  Check: 6572  Weight: -1.00
- Name: DRB3*03:09         Len:    801  Check: 6752  Weight: -1.00
- Name: DRB3*03:10         Len:    801  Check: 5795  Weight: -1.00
- Name: DRB3*03:11         Len:    801  Check: 6470  Weight: -1.00
- Name: DRB3*03:12         Len:    801  Check: 6652  Weight: -1.00
+ Name: DRB3*03:01:09      Len:    801  Check: 6485  Weight: -1.00
+ Name: DRB3*03:01:10      Len:    801  Check: 6327  Weight: -1.00
+ Name: DRB3*03:02         Len:    801  Check: 6678  Weight: -1.00
+ Name: DRB3*03:03         Len:    801  Check: 6558  Weight: -1.00
+ Name: DRB3*03:04:01      Len:    801  Check: 6884  Weight: -1.00
+ Name: DRB3*03:04:02      Len:    801  Check: 6323  Weight: -1.00
+ Name: DRB3*03:05         Len:    801  Check: 6470  Weight: -1.00
+ Name: DRB3*03:06         Len:    801  Check: 6759  Weight: -1.00
+ Name: DRB3*03:07         Len:    801  Check: 7171  Weight: -1.00
+ Name: DRB3*03:08         Len:    801  Check: 6554  Weight: -1.00
+ Name: DRB3*03:09         Len:    801  Check: 6734  Weight: -1.00
+ Name: DRB3*03:10         Len:    801  Check: 5777  Weight: -1.00
+ Name: DRB3*03:11         Len:    801  Check: 6452  Weight: -1.00
+ Name: DRB3*03:12         Len:    801  Check: 6634  Weight: -1.00
  Name: DRB3*03:13         Len:    801  Check: 7297  Weight: -1.00
- Name: DRB3*03:14         Len:    801  Check: 6434  Weight: -1.00
- Name: DRB3*03:15         Len:    801  Check: 6762  Weight: -1.00
- Name: DRB3*03:16         Len:    801  Check: 7028  Weight: -1.00
- Name: DRB3*03:17         Len:    801  Check: 6808  Weight: -1.00
- Name: DRB3*03:18         Len:    801  Check: 6560  Weight: -1.00
- Name: DRB3*03:19         Len:    801  Check: 6580  Weight: -1.00
+ Name: DRB3*03:14         Len:    801  Check: 6416  Weight: -1.00
+ Name: DRB3*03:15         Len:    801  Check: 6744  Weight: -1.00
+ Name: DRB3*03:16         Len:    801  Check: 7010  Weight: -1.00
+ Name: DRB3*03:17         Len:    801  Check: 6790  Weight: -1.00
+ Name: DRB3*03:18         Len:    801  Check: 6542  Weight: -1.00
+ Name: DRB3*03:19         Len:    801  Check: 6562  Weight: -1.00
  Name: DRB3*03:20         Len:    801  Check: 6590  Weight: -1.00
  Name: DRB3*03:21         Len:    801  Check: 6650  Weight: -1.00
- Name: DRB3*03:22         Len:    801  Check: 5709  Weight: -1.00
- Name: DRB3*03:23         Len:    801  Check: 6723  Weight: -1.00
- Name: DRB3*03:24         Len:    801  Check: 6768  Weight: -1.00
+ Name: DRB3*03:22         Len:    801  Check: 5352  Weight: -1.00
+ Name: DRB3*03:23         Len:    801  Check: 6705  Weight: -1.00
+ Name: DRB3*03:24         Len:    801  Check: 6750  Weight: -1.00
  Name: DRB3*03:25         Len:    801  Check: 7045  Weight: -1.00
- Name: DRB3*03:26         Len:    801  Check: 7828  Weight: -1.00
- Name: DRB3*03:27         Len:    801  Check: 6938  Weight: -1.00
+ Name: DRB3*03:26         Len:    801  Check: 7810  Weight: -1.00
+ Name: DRB3*03:27         Len:    801  Check: 6920  Weight: -1.00
  Name: DRB3*03:28         Len:    801  Check: 6918  Weight: -1.00
- Name: DRB3*03:29         Len:    801  Check: 6700  Weight: -1.00
+ Name: DRB3*03:29         Len:    801  Check: 6343  Weight: -1.00
  Name: DRB3*03:30N        Len:    801  Check: 9793  Weight: -1.00
  Name: DRB3*03:31         Len:    801  Check: 6866  Weight: -1.00
- Name: DRB3*03:32         Len:    801  Check: 7524  Weight: -1.00
- Name: DRB3*03:33         Len:    801  Check: 5586  Weight: -1.00
- Name: DRB3*03:34         Len:    801  Check: 7546  Weight: -1.00
- Name: DRB3*03:35         Len:    801  Check: 6270  Weight: -1.00
- Name: DRB3*03:36         Len:    801  Check: 6700  Weight: -1.00
+ Name: DRB3*03:32         Len:    801  Check: 7506  Weight: -1.00
+ Name: DRB3*03:33         Len:    801  Check: 5568  Weight: -1.00
+ Name: DRB3*03:34         Len:    801  Check: 7528  Weight: -1.00
+ Name: DRB3*03:35         Len:    801  Check: 6252  Weight: -1.00
+ Name: DRB3*03:36         Len:    801  Check: 6343  Weight: -1.00
  Name: DRB3*03:37         Len:    801  Check: 6967  Weight: -1.00
- Name: DRB3*03:38         Len:    801  Check: 6902  Weight: -1.00
+ Name: DRB3*03:38         Len:    801  Check: 6545  Weight: -1.00
  Name: DRB3*03:39         Len:    801  Check: 6524  Weight: -1.00
  Name: DRB3*03:40         Len:    801  Check: 6730  Weight: -1.00
- Name: DRB3*03:41         Len:    801  Check: 5777  Weight: -1.00
+ Name: DRB3*03:41         Len:    801  Check: 5420  Weight: -1.00
  Name: DRB3*03:42         Len:    801  Check: 7341  Weight: -1.00
  Name: DRB3*03:43         Len:    801  Check: 6882  Weight: -1.00
  Name: DRB3*03:44         Len:    801  Check: 7110  Weight: -1.00
@@ -519,7 +519,7 @@
  Name: DRB5*01:03         Len:    801  Check:  551  Weight: -1.00
  Name: DRB5*01:04         Len:    801  Check: 1466  Weight: -1.00
  Name: DRB5*01:05         Len:    801  Check:  727  Weight: -1.00
- Name: DRB5*01:06         Len:    801  Check:  263  Weight: -1.00
+ Name: DRB5*01:06         Len:    801  Check: 3029  Weight: -1.00
  Name: DRB5*01:07         Len:    801  Check: 1072  Weight: -1.00
  Name: DRB5*01:08:01N     Len:    801  Check: 5203  Weight: -1.00
  Name: DRB5*01:08:02N     Len:    801  Check:  263  Weight: -1.00
@@ -535,7 +535,7 @@
  Name: DRB5*01:18         Len:    801  Check:  999  Weight: -1.00
  Name: DRB5*01:19         Len:    801  Check:  967  Weight: -1.00
  Name: DRB5*01:20         Len:    801  Check: 1389  Weight: -1.00
- Name: DRB5*01:21         Len:    801  Check: 1045  Weight: -1.00
+ Name: DRB5*01:21         Len:    801  Check: 3811  Weight: -1.00
  Name: DRB5*01:22:01      Len:    801  Check: 1074  Weight: -1.00
  Name: DRB5*01:22:02      Len:    801  Check: 1103  Weight: -1.00
  Name: DRB5*01:23         Len:    801  Check:  919  Weight: -1.00
@@ -558,7 +558,7 @@
  Name: DRB5*01:40         Len:    801  Check: 1283  Weight: -1.00
  Name: DRB5*01:41         Len:    801  Check: 2172  Weight: -1.00
  Name: DRB5*01:42         Len:    801  Check: 1229  Weight: -1.00
- Name: DRB5*01:43         Len:    801  Check: 1064  Weight: -1.00
+ Name: DRB5*01:43         Len:    801  Check: 3830  Weight: -1.00
  Name: DRB5*01:44         Len:    801  Check:  126  Weight: -1.00
  Name: DRB5*01:45         Len:    801  Check:  935  Weight: -1.00
  Name: DRB5*01:46         Len:    801  Check:  588  Weight: -1.00
@@ -600,35 +600,35 @@
  Name: DRB5*01:87         Len:    801  Check: 1635  Weight: -1.00
  Name: DRB5*01:88         Len:    801  Check: 1271  Weight: -1.00
  Name: DRB5*02:02:01      Len:    801  Check: 3327  Weight: -1.00
- Name: DRB5*02:02:02      Len:    801  Check: 3184  Weight: -1.00
- Name: DRB5*02:02:03      Len:    801  Check: 2476  Weight: -1.00
- Name: DRB5*02:03         Len:    801  Check: 3273  Weight: -1.00
- Name: DRB5*02:04         Len:    801  Check:  580  Weight: -1.00
- Name: DRB5*02:05         Len:    801  Check:  541  Weight: -1.00
- Name: DRB5*02:06         Len:    801  Check: 2590  Weight: -1.00
- Name: DRB5*02:07         Len:    801  Check: 1120  Weight: -1.00
+ Name: DRB5*02:02:02      Len:    801  Check: 4143  Weight: -1.00
+ Name: DRB5*02:02:03      Len:    801  Check: 3435  Weight: -1.00
+ Name: DRB5*02:03         Len:    801  Check: 4292  Weight: -1.00
+ Name: DRB5*02:04         Len:    801  Check: 3346  Weight: -1.00
+ Name: DRB5*02:05         Len:    801  Check: 3307  Weight: -1.00
+ Name: DRB5*02:06         Len:    801  Check: 3549  Weight: -1.00
+ Name: DRB5*02:07         Len:    801  Check: 3886  Weight: -1.00
  Name: DRB5*02:08         Len:    801  Check:  424  Weight: -1.00
- Name: DRB5*02:09         Len:    801  Check: 1091  Weight: -1.00
- Name: DRB5*02:10         Len:    801  Check:  531  Weight: -1.00
- Name: DRB5*02:11         Len:    801  Check:  373  Weight: -1.00
+ Name: DRB5*02:09         Len:    801  Check: 3857  Weight: -1.00
+ Name: DRB5*02:10         Len:    801  Check: 3297  Weight: -1.00
+ Name: DRB5*02:11         Len:    801  Check: 3139  Weight: -1.00
  Name: DRB5*02:12         Len:    801  Check:  405  Weight: -1.00
- Name: DRB5*02:13         Len:    801  Check: 1513  Weight: -1.00
- Name: DRB5*02:14         Len:    801  Check: 1292  Weight: -1.00
- Name: DRB5*02:15         Len:    801  Check: 9872  Weight: -1.00
- Name: DRB5*02:16         Len:    801  Check:  637  Weight: -1.00
- Name: DRB5*02:17         Len:    801  Check: 1088  Weight: -1.00
- Name: DRB5*02:18         Len:    801  Check:  549  Weight: -1.00
+ Name: DRB5*02:13         Len:    801  Check: 4279  Weight: -1.00
+ Name: DRB5*02:14         Len:    801  Check: 4058  Weight: -1.00
+ Name: DRB5*02:15         Len:    801  Check: 2638  Weight: -1.00
+ Name: DRB5*02:16         Len:    801  Check: 3403  Weight: -1.00
+ Name: DRB5*02:17         Len:    801  Check: 3854  Weight: -1.00
+ Name: DRB5*02:18         Len:    801  Check: 3315  Weight: -1.00
  Name: DRB5*02:19N        Len:    801  Check:  682  Weight: -1.00
- Name: DRB5*02:20         Len:    801  Check: 1625  Weight: -1.00
- Name: DRB5*02:21         Len:    801  Check: 2368  Weight: -1.00
- Name: DRB5*02:22         Len:    801  Check: 2110  Weight: -1.00
- Name: DRB5*02:23         Len:    801  Check: 2589  Weight: -1.00
- Name: DRB5*02:24         Len:    801  Check: 2370  Weight: -1.00
+ Name: DRB5*02:20         Len:    801  Check: 4391  Weight: -1.00
+ Name: DRB5*02:21         Len:    801  Check: 3387  Weight: -1.00
+ Name: DRB5*02:22         Len:    801  Check: 3069  Weight: -1.00
+ Name: DRB5*02:23         Len:    801  Check: 3548  Weight: -1.00
+ Name: DRB5*02:24         Len:    801  Check: 3329  Weight: -1.00
  Name: DRB5*02:25N        Len:    801  Check: 7794  Weight: -1.00
  Name: DRB5*02:26N        Len:    801  Check: 9342  Weight: -1.00
- Name: DRB5*02:27         Len:    801  Check: 2068  Weight: -1.00
- Name: DRB5*02:28         Len:    801  Check: 2092  Weight: -1.00
- Name: DRB5*02:29         Len:    801  Check:  735  Weight: -1.00
+ Name: DRB5*02:27         Len:    801  Check: 3027  Weight: -1.00
+ Name: DRB5*02:28         Len:    801  Check: 3051  Weight: -1.00
+ Name: DRB5*02:29         Len:    801  Check: 3501  Weight: -1.00
 //
 
 DRB3*01:01:02:01   ATGGTGTGTC TGAAGCTCCC TGGAGGCTCC AGCTTGGCAG CGTTGACAGT
@@ -1148,7 +1148,7 @@ DRB5*01:02         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:03         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:04         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:05         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*01:06         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
+DRB5*01:06         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
 DRB5*01:07         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:08:01N     ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:08:02N     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
@@ -1164,7 +1164,7 @@ DRB5*01:17         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:18         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:19         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:20         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*01:21         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
+DRB5*01:21         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
 DRB5*01:22:01      ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:22:02      ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:23         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
@@ -1187,7 +1187,7 @@ DRB5*01:39         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:40         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:41         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:42         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*01:43         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
+DRB5*01:43         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
 DRB5*01:44         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:45         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:46         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
@@ -1229,35 +1229,35 @@ DRB5*01:86         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:87         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*01:88         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
 DRB5*02:02:01      ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
-DRB5*02:02:02      ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:02:03      ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:03         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:04         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:05         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:06         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:07         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
+DRB5*02:02:02      ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:02:03      ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:03         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:04         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:05         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:06         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:07         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
 DRB5*02:08         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:09         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:10         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:11         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
+DRB5*02:09         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:10         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:11         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
 DRB5*02:12         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:13         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:14         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:15         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:16         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:17         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:18         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
+DRB5*02:13         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:14         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:15         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:16         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:17         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:18         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
 DRB5*02:19N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB5*02:20         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:21         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:22         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:23         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:24         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
+DRB5*02:20         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:21         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:22         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:23         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:24         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
 DRB5*02:25N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB5*02:26N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB5*02:27         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:28         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
-DRB5*02:29         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAA AGCTGACAGT
+DRB5*02:27         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:28         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
+DRB5*02:29         ATGGTGTGTC TGAAGCTCCC TGGAGGTTCC TACATGGCAG TGCTGACAGT
 
 DRB3*01:01:02:01   GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:01:02:02   GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
@@ -1265,103 +1265,103 @@ DRB3*01:01:02:03   GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:01:02:04   GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:01:02:05   GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:01:02:06   GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:01:03      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:01:04      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:01:05      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:01:06      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:01:07      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:01:08      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:01:09      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:01:10      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:01:03      GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:01:04      GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:01:05      GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:01:06      GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:01:07      GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:01:08      GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:01:09      GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:01:10      GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:01:11      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:01:12      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:01:13      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:01:14      GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:02         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:03         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:04         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:05         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:06         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:02         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:03         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:04         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:05         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:06         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:07         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:08         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:09         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:10         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:11         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:12         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:13         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:14         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:15         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:16         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:17         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:18         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:19         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:20         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:21         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:22         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:23         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:24         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:25         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:08         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:09         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:10         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:11         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:12         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:13         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:14         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:15         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:16         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:17         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:18         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:19         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:20         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:21         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:22         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:23         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:24         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:25         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:26N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB3*01:27         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:28         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:29         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:30         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:31         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:32         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:33         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:34         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:35         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:36         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:37         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:38         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:39         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:27         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:28         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:29         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:30         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:31         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:32         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:33         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:34         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:35         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:36         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:37         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:38         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:39         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:40:01N     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB3*01:40:02N     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB3*01:41         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:42         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:43         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:44         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:45         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:46         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:47         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:48         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:49         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:50         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:51         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:52         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:53         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:54         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:55         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:56         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:57         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:58         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:59         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:60         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:61         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:41         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:42         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:43         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:44         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:45         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:46         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:47         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:48         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:49         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:50         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:51         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:52         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:53         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:54         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:55         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:56         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:57         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:58         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:59         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:60         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:61         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:62:01:01   GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:62:01:02   GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:63         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:64         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:65         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:66         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:67         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:68         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:69         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:70         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:71         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:72         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:74         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:75         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:76         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:63         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:64         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:65         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:66         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:67         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:68         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:69         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:70         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:71         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:72         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:74         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:75         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:76         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:77N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB3*01:78         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:79         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:80         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:78         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:79         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:80         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*01:81N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB3*01:82         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:83         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:84         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
-DRB3*01:85         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:82         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:83         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:84         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
+DRB3*01:85         GACACTGATG GTGCTGAGCT CCCCACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*02:01         GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*02:02:01:01   GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
 DRB3*02:02:01:02   GACACTGATG GTGCTGAGCT CCCGACTGGC TTTCGCTGGG GACACCCGAC
@@ -6800,7 +6800,7 @@ DRB5*01:02         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:03         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:04         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:05         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*01:06         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
+DRB5*01:06         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*01:07         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:08:01N     TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:08:02N     TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
@@ -6816,7 +6816,7 @@ DRB5*01:17         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:18         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:19         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:20         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*01:21         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
+DRB5*01:21         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*01:22:01      TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:22:02      TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:23         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
@@ -6839,7 +6839,7 @@ DRB5*01:39         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:40         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:41         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:42         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*01:43         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
+DRB5*01:43         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*01:44         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:45         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*01:46         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
@@ -6884,23 +6884,23 @@ DRB5*02:02:01      TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:02:02      TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:02:03      TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:03         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
-DRB5*02:04         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:05         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
+DRB5*02:04         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
+DRB5*02:05         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:06         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
-DRB5*02:07         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
+DRB5*02:07         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:08         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:09         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:10         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:11         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
+DRB5*02:09         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
+DRB5*02:10         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
+DRB5*02:11         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:12         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:13         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:14         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:15         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:16         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:17         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
-DRB5*02:18         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
+DRB5*02:13         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
+DRB5*02:14         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
+DRB5*02:15         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
+DRB5*02:16         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
+DRB5*02:17         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
+DRB5*02:18         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:19N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB5*02:20         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
+DRB5*02:20         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:21         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:22         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAAA
 DRB5*02:23         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
@@ -6909,7 +6909,7 @@ DRB5*02:25N        TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:26N        TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
 DRB5*02:27         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 DRB5*02:28         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
-DRB5*02:29         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACA GCCAGGAAGA
+DRB5*02:29         TTCTATCCAG GCAGCATTGA AGTCAGGTGG TTCCGGAACG GCCAGGAAGA
 
 DRB3*01:01:02:01   GAAGGCTGGG GTGGTGTCCA CGGGCCTGAT CCAGAATGGA GACTGGACCT
 DRB3*01:01:02:02   GAAGGCTGGG GTGGTGTCCA CGGGCCTGAT CCAGAATGGA GACTGGACCT
@@ -8056,7 +8056,7 @@ DRB5*01:02         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:03         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:04         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:05         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*01:06         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
+DRB5*01:06         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*01:07         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:08:01N     TCCAGACCCT GGTGATGCTG G......... .......... AGAGGTTTAC
 DRB5*01:08:02N     TCCAGACCCT GGTGATGCTG GAGA...... .......... ...GGTTTAC
@@ -8072,7 +8072,7 @@ DRB5*01:17         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:18         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:19         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:20         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*01:21         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
+DRB5*01:21         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*01:22:01      TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:22:02      TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:23         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
@@ -8095,7 +8095,7 @@ DRB5*01:39         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:40         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:41         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:42         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*01:43         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
+DRB5*01:43         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*01:44         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:45         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
 DRB5*01:46         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
@@ -8140,23 +8140,23 @@ DRB5*02:02:01      TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:02:02      TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:02:03      TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:03         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
-DRB5*02:04         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:05         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
+DRB5*02:04         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
+DRB5*02:05         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:06         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
-DRB5*02:07         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
+DRB5*02:07         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:08         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:09         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:10         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:11         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
+DRB5*02:09         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
+DRB5*02:10         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
+DRB5*02:11         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:12         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:13         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:14         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:15         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:16         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:17         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
-DRB5*02:18         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
+DRB5*02:13         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
+DRB5*02:14         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
+DRB5*02:15         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
+DRB5*02:16         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
+DRB5*02:17         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
+DRB5*02:18         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:19N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB5*02:20         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
+DRB5*02:20         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:21         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:22         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:23         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTTGGAGTGG AGAGGTTTAC
@@ -8165,7 +8165,7 @@ DRB5*02:25N        TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:26N        TCCAGACCCT GGTGATGCTG GAGA...... .......... ...GGTTTAC
 DRB5*02:27         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 DRB5*02:28         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
-DRB5*02:29         TCCAGACCCT GGTGATGCTG GAAACAGTTC CTCGAAGTGG AGAGGTTTAC
+DRB5*02:29         TCCAGATTCT GGTGATGCTG GAAACAGTTC CTCGGAGTGG AGAGGTTTAC
 
 DRB3*01:01:02:01   ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:01:02:02   ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
@@ -8192,7 +8192,7 @@ DRB3*01:05         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:06         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:07         ACCTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
 DRB3*01:08         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
-DRB3*01:09         ACCTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*01:09         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:10         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:11         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:12         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
@@ -8225,7 +8225,7 @@ DRB3*01:38         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:39         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:40:01N     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB3*01:40:02N     ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
-DRB3*01:41         ACCTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*01:41         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:42         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:43         ACTTGCCAAG TGGAGCACCC AAGCATAACG AGCGCTCTCA CAGTGGAATG
 DRB3*01:44         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCGCTCTCA CAGTGGAATG
@@ -8452,51 +8452,51 @@ DRB3*03:01:01:01   ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:01:02   ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:01:03   ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:01:04   ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
-DRB3*03:01:02      ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*03:01:02      ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:03:01   ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:03:02   ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:04      ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
-DRB3*03:01:05      ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*03:01:05      ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:06      ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:07      ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:08      ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:09      ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
 DRB3*03:01:10      ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:02         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*03:02         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:03         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:04:01      ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:04:02      ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:05         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:06         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:07         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:08         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:09         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:10         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:11         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:12         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*03:04:01      ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:04:02      ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:05         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:06         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:07         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:08         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:09         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:10         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:11         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:12         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:13         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
-DRB3*03:14         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:15         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:16         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:17         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:18         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:19         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*03:14         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:15         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:16         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:17         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:18         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:19         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:20         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:21         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:22         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:23         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:24         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*03:23         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:24         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:25         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
-DRB3*03:26         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:27         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*03:26         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:27         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:28         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:29         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
 DRB3*03:30N        ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
 DRB3*03:31         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
-DRB3*03:32         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:33         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:34         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
-DRB3*03:35         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
+DRB3*03:32         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:33         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:34         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
+DRB3*03:35         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:36         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
 DRB3*03:37         ACTTGCCAAG TGGAGCACCC AAGCGTAACA AGCCCTCTCA CAGTGGAATG
 DRB3*03:38         ACTTGCCAAG TGGAGCACCC AAGCGTAACG AGCCCTCTCA CAGTGGAATG
@@ -8820,7 +8820,7 @@ DRB3*01:05         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:06         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:07         GAGTGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:08         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB3*01:09         GAGTGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB3*01:09         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:10         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:11         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:12         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
@@ -8853,7 +8853,7 @@ DRB3*01:38         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:39         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:40:01N     ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB3*01:40:02N     GA~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB3*01:41         GAGTGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB3*01:41         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:42         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:43         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB3*01:44         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
@@ -9312,7 +9312,7 @@ DRB5*01:02         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:03         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:04         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:05         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*01:06         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*01:06         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 DRB5*01:07         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:08:01N     GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:08:02N     GA~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
@@ -9328,7 +9328,7 @@ DRB5*01:17         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:18         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:19         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:20         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*01:21         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*01:21         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 DRB5*01:22:01      GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:22:02      GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:23         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
@@ -9351,7 +9351,7 @@ DRB5*01:39         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:40         GAGAGCACGG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:41         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:42         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*01:43         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*01:43         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 DRB5*01:44         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:45         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:46         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
@@ -9393,35 +9393,35 @@ DRB5*01:86         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:87         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*01:88         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
 DRB5*02:02:01      GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
-DRB5*02:02:02      GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:02:03      GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*02:02:02      GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:02:03      GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 DRB5*02:03         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
-DRB5*02:04         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:05         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:06         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:07         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*02:04         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:05         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:06         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:07         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 DRB5*02:08         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:09         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:10         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:11         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*02:09         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:10         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:11         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 DRB5*02:12         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:13         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:14         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:15         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:16         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:17         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:18         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*02:13         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:14         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:15         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:16         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:17         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:18         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 DRB5*02:19N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB5*02:20         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*02:20         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 DRB5*02:21         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:22         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:23         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:24         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*02:22         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:23         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:24         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 DRB5*02:25N        GA~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB5*02:26N        GA~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB5*02:27         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:28         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
-DRB5*02:29         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAGTCGGGG
+DRB5*02:27         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:28         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
+DRB5*02:29         GAGAGCACAG TCTGAATCTG CACAGAGCAA GATGCTGAGT GGAATCGGGG
 
 DRB3*01:01:02:01   GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*01:01:02:02   GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
@@ -9716,10 +9716,10 @@ DRB3*03:01:05      GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:01:06      GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:01:07      GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:01:08      GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
-DRB3*03:01:09      GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
-DRB3*03:01:10      GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
+DRB3*03:01:09      GCTTCGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
+DRB3*03:01:10      GCTTCGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:02         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
-DRB3*03:03         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
+DRB3*03:03         GCTTCGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:04:01      GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:04:02      GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:05         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
@@ -9739,26 +9739,26 @@ DRB3*03:18         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:19         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:20         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:21         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
-DRB3*03:22         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
+DRB3*03:22         GCTTCGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:23         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:24         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:25         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:26         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:27         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:28         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
-DRB3*03:29         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
+DRB3*03:29         GCTTCGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:30N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB3*03:31         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:32         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:33         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:34         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:35         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
-DRB3*03:36         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
+DRB3*03:36         GCTTCGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:37         TCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
-DRB3*03:38         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
+DRB3*03:38         GCTTCGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:39         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:40         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
-DRB3*03:41         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
+DRB3*03:41         GCTTCGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:42         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:43         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC
 DRB3*03:44         GCTTTGTGCT GGGCCTGCTC TTCCTTGGGG CCGGGCTGTT CATCTACTTC

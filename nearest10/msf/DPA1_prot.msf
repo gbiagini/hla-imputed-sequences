@@ -1,6 +1,6 @@
 !!AA_MULTIPLE_ALIGNMENT 1.0
 
-    MSF: 262  Type: P  August 27, 2023 10:05  Check: 3027  ..
+    MSF: 262  Type: P  August 27, 2023 11:01  Check: 2969  ..
 
  Name: DPA1*01:03:01:01   Len:    262  Check: 5520  Weight: -1.00
  Name: DPA1*01:03:01:02   Len:    262  Check: 5520  Weight: -1.00
@@ -137,9 +137,9 @@
  Name: DPA1*02:02:02:10   Len:    262  Check: 5599  Weight: -1.00
  Name: DPA1*02:02:03      Len:    262  Check: 5599  Weight: -1.00
  Name: DPA1*02:02:04      Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1*02:02:05      Len:    262  Check: 5527  Weight: -1.00
+ Name: DPA1*02:02:05      Len:    262  Check: 5498  Weight: -1.00
  Name: DPA1*02:02:06      Len:    262  Check: 5599  Weight: -1.00
- Name: DPA1*02:02:07      Len:    262  Check: 5599  Weight: -1.00
+ Name: DPA1*02:02:07      Len:    262  Check: 5570  Weight: -1.00
  Name: DPA1*02:02:08      Len:    262  Check: 5599  Weight: -1.00
  Name: DPA1*02:02:09      Len:    262  Check: 5599  Weight: -1.00
  Name: DPA1*02:03         Len:    262  Check: 4461  Weight: -1.00
@@ -1302,9 +1302,9 @@ DPA1*02:02:02:09   RSGHDPRAQG PL
 DPA1*02:02:02:10   RSGHDPRAQG PL
 DPA1*02:02:03      RSGHDPRAQG PL
 DPA1*02:02:04      RSGHDPRAQG PL
-DPA1*02:02:05      RSGHDPRAQG PL
+DPA1*02:02:05      RSGHDPQAQG PL
 DPA1*02:02:06      RSGHDPRAQG PL
-DPA1*02:02:07      RSGHDPRAQG PL
+DPA1*02:02:07      RSGHDPQAQG PL
 DPA1*02:02:08      RSGHDPRAQG PL
 DPA1*02:02:09      RSGHDPRAQG PL
 DPA1*02:03         RSGHDPRAQG TL

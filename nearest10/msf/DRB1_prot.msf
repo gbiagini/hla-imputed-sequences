@@ -1,6 +1,6 @@
 !!AA_MULTIPLE_ALIGNMENT 1.0
 
-    MSF: 267  Type: P  August 27, 2023 08:54  Check: 9877  ..
+    MSF: 267  Type: P  August 27, 2023 11:00  Check: 1973  ..
 
  Name: DRB1*01:01:01:01  Len:    267  Check:  396  Weight: -1.00
  Name: DRB1*01:01:01:02  Len:    267  Check:  396  Weight: -1.00
@@ -770,7 +770,7 @@
  Name: DRB1*04:262       Len:    267  Check: 9821  Weight: -1.00
  Name: DRB1*04:263       Len:    267  Check:   52  Weight: -1.00
  Name: DRB1*04:264N      Len:    267  Check: 7867  Weight: -1.00
- Name: DRB1*04:265       Len:    267  Check:  305  Weight: -1.00
+ Name: DRB1*04:265       Len:    267  Check:  423  Weight: -1.00
  Name: DRB1*04:266N      Len:    267  Check:  403  Weight: -1.00
  Name: DRB1*04:268       Len:    267  Check: 9449  Weight: -1.00
  Name: DRB1*04:269       Len:    267  Check:  577  Weight: -1.00
@@ -945,10 +945,10 @@
  Name: DRB1*07:111       Len:    267  Check:  613  Weight: -1.00
  Name: DRB1*07:112       Len:    267  Check:  309  Weight: -1.00
  Name: DRB1*08:01:01     Len:    267  Check: 2616  Weight: -1.00
- Name: DRB1*08:01:02     Len:    267  Check: 2616  Weight: -1.00
- Name: DRB1*08:01:04     Len:    267  Check: 2616  Weight: -1.00
- Name: DRB1*08:01:05     Len:    267  Check: 2616  Weight: -1.00
- Name: DRB1*08:01:06     Len:    267  Check: 2616  Weight: -1.00
+ Name: DRB1*08:01:02     Len:    267  Check: 2498  Weight: -1.00
+ Name: DRB1*08:01:04     Len:    267  Check: 2498  Weight: -1.00
+ Name: DRB1*08:01:05     Len:    267  Check: 2498  Weight: -1.00
+ Name: DRB1*08:01:06     Len:    267  Check: 2498  Weight: -1.00
  Name: DRB1*08:01:07     Len:    267  Check: 2616  Weight: -1.00
  Name: DRB1*08:02:01:01  Len:    267  Check: 2166  Weight: -1.00
  Name: DRB1*08:02:01:02  Len:    267  Check: 2166  Weight: -1.00
@@ -958,7 +958,7 @@
  Name: DRB1*08:03:02:01  Len:    267  Check: 2736  Weight: -1.00
  Name: DRB1*08:03:02:02  Len:    267  Check: 2736  Weight: -1.00
  Name: DRB1*08:03:02:03  Len:    267  Check: 2736  Weight: -1.00
- Name: DRB1*08:03:03     Len:    267  Check: 2736  Weight: -1.00
+ Name: DRB1*08:03:03     Len:    267  Check: 2618  Weight: -1.00
  Name: DRB1*08:03:04     Len:    267  Check: 2736  Weight: -1.00
  Name: DRB1*08:03:05     Len:    267  Check: 2736  Weight: -1.00
  Name: DRB1*08:03:06     Len:    267  Check: 2736  Weight: -1.00
@@ -974,7 +974,7 @@
  Name: DRB1*08:04:05     Len:    267  Check: 2196  Weight: -1.00
  Name: DRB1*08:04:06     Len:    267  Check: 2196  Weight: -1.00
  Name: DRB1*08:04:07     Len:    267  Check: 2196  Weight: -1.00
- Name: DRB1*08:05        Len:    267  Check: 2099  Weight: -1.00
+ Name: DRB1*08:05        Len:    267  Check: 1981  Weight: -1.00
  Name: DRB1*08:06        Len:    267  Check: 2646  Weight: -1.00
  Name: DRB1*08:07        Len:    267  Check: 2706  Weight: -1.00
  Name: DRB1*08:08        Len:    267  Check: 1515  Weight: -1.00
@@ -987,7 +987,7 @@
  Name: DRB1*08:14        Len:    267  Check: 2652  Weight: -1.00
  Name: DRB1*08:15        Len:    267  Check: 1725  Weight: -1.00
  Name: DRB1*08:16        Len:    267  Check: 2406  Weight: -1.00
- Name: DRB1*08:17        Len:    267  Check: 2236  Weight: -1.00
+ Name: DRB1*08:17        Len:    267  Check: 2118  Weight: -1.00
  Name: DRB1*08:18        Len:    267  Check: 2219  Weight: -1.00
  Name: DRB1*08:19        Len:    267  Check: 2436  Weight: -1.00
  Name: DRB1*08:20        Len:    267  Check: 1930  Weight: -1.00
@@ -997,14 +997,14 @@
  Name: DRB1*08:24:01     Len:    267  Check: 1649  Weight: -1.00
  Name: DRB1*08:24:02     Len:    267  Check: 1649  Weight: -1.00
  Name: DRB1*08:25        Len:    267  Check: 2111  Weight: -1.00
- Name: DRB1*08:26        Len:    267  Check: 2286  Weight: -1.00
+ Name: DRB1*08:26        Len:    267  Check: 2168  Weight: -1.00
  Name: DRB1*08:27        Len:    267  Check: 2743  Weight: -1.00
  Name: DRB1*08:28        Len:    267  Check: 1816  Weight: -1.00
  Name: DRB1*08:29        Len:    267  Check: 2407  Weight: -1.00
  Name: DRB1*08:30:01     Len:    267  Check: 2286  Weight: -1.00
  Name: DRB1*08:30:02     Len:    267  Check: 2286  Weight: -1.00
  Name: DRB1*08:30:03     Len:    267  Check: 2286  Weight: -1.00
- Name: DRB1*08:31        Len:    267  Check: 1685  Weight: -1.00
+ Name: DRB1*08:31        Len:    267  Check: 1803  Weight: -1.00
  Name: DRB1*08:32        Len:    267  Check: 2697  Weight: -1.00
  Name: DRB1*08:33        Len:    267  Check: 2841  Weight: -1.00
  Name: DRB1*08:34        Len:    267  Check: 2628  Weight: -1.00
@@ -1013,24 +1013,24 @@
  Name: DRB1*08:36:02     Len:    267  Check: 2651  Weight: -1.00
  Name: DRB1*08:37        Len:    267  Check: 2356  Weight: -1.00
  Name: DRB1*08:38        Len:    267  Check: 2700  Weight: -1.00
- Name: DRB1*08:39        Len:    267  Check: 2596  Weight: -1.00
+ Name: DRB1*08:39        Len:    267  Check: 2478  Weight: -1.00
  Name: DRB1*08:40        Len:    267  Check: 1911  Weight: -1.00
  Name: DRB1*08:41        Len:    267  Check: 1773  Weight: -1.00
  Name: DRB1*08:42        Len:    267  Check: 2106  Weight: -1.00
- Name: DRB1*08:43        Len:    267  Check: 3645  Weight: -1.00
+ Name: DRB1*08:43        Len:    267  Check: 3527  Weight: -1.00
  Name: DRB1*08:44        Len:    267  Check: 1998  Weight: -1.00
  Name: DRB1*08:45:01     Len:    267  Check: 1906  Weight: -1.00
  Name: DRB1*08:45:02     Len:    267  Check: 1906  Weight: -1.00
  Name: DRB1*08:46        Len:    267  Check: 2760  Weight: -1.00
  Name: DRB1*08:47        Len:    267  Check: 2021  Weight: -1.00
- Name: DRB1*08:48        Len:    267  Check: 2856  Weight: -1.00
+ Name: DRB1*08:48        Len:    267  Check: 2738  Weight: -1.00
  Name: DRB1*08:49        Len:    267  Check: 2056  Weight: -1.00
- Name: DRB1*08:50        Len:    267  Check: 2672  Weight: -1.00
+ Name: DRB1*08:50        Len:    267  Check: 2554  Weight: -1.00
  Name: DRB1*08:51        Len:    267  Check: 2800  Weight: -1.00
  Name: DRB1*08:52        Len:    267  Check: 2508  Weight: -1.00
  Name: DRB1*08:53        Len:    267  Check: 2496  Weight: -1.00
  Name: DRB1*08:54        Len:    267  Check: 3564  Weight: -1.00
- Name: DRB1*08:55        Len:    267  Check: 2562  Weight: -1.00
+ Name: DRB1*08:55        Len:    267  Check: 2444  Weight: -1.00
  Name: DRB1*08:56        Len:    267  Check: 2536  Weight: -1.00
  Name: DRB1*08:57        Len:    267  Check: 1384  Weight: -1.00
  Name: DRB1*08:58        Len:    267  Check: 3059  Weight: -1.00
@@ -1039,7 +1039,7 @@
  Name: DRB1*08:61        Len:    267  Check: 2192  Weight: -1.00
  Name: DRB1*08:62        Len:    267  Check: 2718  Weight: -1.00
  Name: DRB1*08:63        Len:    267  Check: 2030  Weight: -1.00
- Name: DRB1*08:64        Len:    267  Check: 2667  Weight: -1.00
+ Name: DRB1*08:64        Len:    267  Check: 2549  Weight: -1.00
  Name: DRB1*08:65        Len:    267  Check: 2733  Weight: -1.00
  Name: DRB1*08:66        Len:    267  Check: 3011  Weight: -1.00
  Name: DRB1*08:67        Len:    267  Check: 1896  Weight: -1.00
@@ -1055,28 +1055,28 @@
  Name: DRB1*08:76        Len:    267  Check: 2508  Weight: -1.00
  Name: DRB1*08:77        Len:    267  Check: 2498  Weight: -1.00
  Name: DRB1*08:78N       Len:    267  Check:  633  Weight: -1.00
- Name: DRB1*08:79        Len:    267  Check: 2632  Weight: -1.00
+ Name: DRB1*08:79        Len:    267  Check: 2514  Weight: -1.00
  Name: DRB1*08:80        Len:    267  Check: 1414  Weight: -1.00
  Name: DRB1*08:81        Len:    267  Check: 2418  Weight: -1.00
  Name: DRB1*08:82        Len:    267  Check: 2283  Weight: -1.00
  Name: DRB1*08:83        Len:    267  Check: 2164  Weight: -1.00
  Name: DRB1*08:84        Len:    267  Check: 2010  Weight: -1.00
  Name: DRB1*08:85        Len:    267  Check: 2138  Weight: -1.00
- Name: DRB1*08:86        Len:    267  Check: 2684  Weight: -1.00
- Name: DRB1*08:87        Len:    267  Check: 2376  Weight: -1.00
- Name: DRB1*08:88        Len:    267  Check: 2752  Weight: -1.00
+ Name: DRB1*08:86        Len:    267  Check: 2566  Weight: -1.00
+ Name: DRB1*08:87        Len:    267  Check: 2258  Weight: -1.00
+ Name: DRB1*08:88        Len:    267  Check: 2634  Weight: -1.00
  Name: DRB1*08:89N       Len:    267  Check: 5354  Weight: -1.00
  Name: DRB1*08:90        Len:    267  Check: 3102  Weight: -1.00
  Name: DRB1*08:91        Len:    267  Check: 2684  Weight: -1.00
  Name: DRB1*08:92        Len:    267  Check: 1647  Weight: -1.00
- Name: DRB1*08:93        Len:    267  Check: 2736  Weight: -1.00
+ Name: DRB1*08:93        Len:    267  Check: 2618  Weight: -1.00
  Name: DRB1*08:94        Len:    267  Check: 2186  Weight: -1.00
  Name: DRB1*08:95        Len:    267  Check: 2816  Weight: -1.00
- Name: DRB1*08:96        Len:    267  Check: 2904  Weight: -1.00
+ Name: DRB1*08:96        Len:    267  Check: 2786  Weight: -1.00
  Name: DRB1*08:97        Len:    267  Check: 2687  Weight: -1.00
  Name: DRB1*08:98        Len:    267  Check: 1764  Weight: -1.00
  Name: DRB1*08:99        Len:    267  Check: 2086  Weight: -1.00
- Name: DRB1*08:100       Len:    267  Check: 2688  Weight: -1.00
+ Name: DRB1*08:100       Len:    267  Check: 2570  Weight: -1.00
  Name: DRB1*08:101       Len:    267  Check: 2111  Weight: -1.00
  Name: DRB1*08:102       Len:    267  Check: 2898  Weight: -1.00
  Name: DRB1*08:103       Len:    267  Check: 1786  Weight: -1.00
@@ -1140,55 +1140,55 @@
  Name: DRB1*10:01:01:01  Len:    267  Check:  536  Weight: -1.00
  Name: DRB1*10:01:01:02  Len:    267  Check:  536  Weight: -1.00
  Name: DRB1*10:01:01:03  Len:    267  Check:  536  Weight: -1.00
- Name: DRB1*10:01:02     Len:    267  Check:  373  Weight: -1.00
- Name: DRB1*10:01:03     Len:    267  Check:  478  Weight: -1.00
- Name: DRB1*10:01:04     Len:    267  Check:  373  Weight: -1.00
+ Name: DRB1*10:01:02     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:03     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:04     Len:    267  Check:  536  Weight: -1.00
  Name: DRB1*10:01:05     Len:    267  Check:  536  Weight: -1.00
- Name: DRB1*10:01:06     Len:    267  Check:  373  Weight: -1.00
- Name: DRB1*10:01:07     Len:    267  Check:  373  Weight: -1.00
- Name: DRB1*10:01:08     Len:    267  Check:  373  Weight: -1.00
- Name: DRB1*10:01:09     Len:    267  Check:  478  Weight: -1.00
- Name: DRB1*10:01:10     Len:    267  Check:  478  Weight: -1.00
- Name: DRB1*10:01:11     Len:    267  Check:  478  Weight: -1.00
- Name: DRB1*10:01:12     Len:    267  Check:  445  Weight: -1.00
- Name: DRB1*10:01:13     Len:    267  Check:  478  Weight: -1.00
- Name: DRB1*10:01:14     Len:    267  Check:  478  Weight: -1.00
- Name: DRB1*10:02        Len:    267  Check:  403  Weight: -1.00
- Name: DRB1*10:03        Len:    267  Check:  231  Weight: -1.00
- Name: DRB1*10:04        Len:    267  Check:  330  Weight: -1.00
- Name: DRB1*10:05        Len:    267  Check:  187  Weight: -1.00
- Name: DRB1*10:06        Len:    267  Check:  709  Weight: -1.00
- Name: DRB1*10:07        Len:    267  Check: 1291  Weight: -1.00
- Name: DRB1*10:08        Len:    267  Check:  142  Weight: -1.00
- Name: DRB1*10:09        Len:    267  Check:  673  Weight: -1.00
- Name: DRB1*10:10        Len:    267  Check:  253  Weight: -1.00
- Name: DRB1*10:11        Len:    267  Check:   73  Weight: -1.00
- Name: DRB1*10:12        Len:    267  Check:  361  Weight: -1.00
- Name: DRB1*10:13        Len:    267  Check: 9993  Weight: -1.00
- Name: DRB1*10:14        Len:    267  Check: 9926  Weight: -1.00
- Name: DRB1*10:15        Len:    267  Check: 9923  Weight: -1.00
- Name: DRB1*10:16        Len:    267  Check:  835  Weight: -1.00
- Name: DRB1*10:17        Len:    267  Check:  604  Weight: -1.00
- Name: DRB1*10:18        Len:    267  Check:  437  Weight: -1.00
- Name: DRB1*10:19        Len:    267  Check: 1090  Weight: -1.00
- Name: DRB1*10:20        Len:    267  Check: 1000  Weight: -1.00
- Name: DRB1*10:21        Len:    267  Check: 9812  Weight: -1.00
- Name: DRB1*10:22        Len:    267  Check:  639  Weight: -1.00
- Name: DRB1*10:23        Len:    267  Check:  497  Weight: -1.00
- Name: DRB1*10:24        Len:    267  Check:  412  Weight: -1.00
- Name: DRB1*10:25        Len:    267  Check:  434  Weight: -1.00
- Name: DRB1*10:26        Len:    267  Check:  442  Weight: -1.00
- Name: DRB1*10:27        Len:    267  Check: 1371  Weight: -1.00
- Name: DRB1*10:28        Len:    267  Check:  136  Weight: -1.00
- Name: DRB1*10:29        Len:    267  Check:  561  Weight: -1.00
- Name: DRB1*10:30        Len:    267  Check:  760  Weight: -1.00
- Name: DRB1*10:31        Len:    267  Check:  412  Weight: -1.00
- Name: DRB1*10:32        Len:    267  Check: 1278  Weight: -1.00
- Name: DRB1*10:33        Len:    267  Check:  218  Weight: -1.00
- Name: DRB1*10:34        Len:    267  Check:  723  Weight: -1.00
- Name: DRB1*10:35        Len:    267  Check:  484  Weight: -1.00
- Name: DRB1*10:36        Len:    267  Check:  457  Weight: -1.00
- Name: DRB1*10:37        Len:    267  Check:  419  Weight: -1.00
+ Name: DRB1*10:01:06     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:07     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:08     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:09     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:10     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:11     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:12     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:13     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:01:14     Len:    267  Check:  536  Weight: -1.00
+ Name: DRB1*10:02        Len:    267  Check:  566  Weight: -1.00
+ Name: DRB1*10:03        Len:    267  Check:  289  Weight: -1.00
+ Name: DRB1*10:04        Len:    267  Check:  493  Weight: -1.00
+ Name: DRB1*10:05        Len:    267  Check:  986  Weight: -1.00
+ Name: DRB1*10:06        Len:    267  Check:  872  Weight: -1.00
+ Name: DRB1*10:07        Len:    267  Check: 1454  Weight: -1.00
+ Name: DRB1*10:08        Len:    267  Check:  305  Weight: -1.00
+ Name: DRB1*10:09        Len:    267  Check:  836  Weight: -1.00
+ Name: DRB1*10:10        Len:    267  Check:  416  Weight: -1.00
+ Name: DRB1*10:11        Len:    267  Check:  236  Weight: -1.00
+ Name: DRB1*10:12        Len:    267  Check:  524  Weight: -1.00
+ Name: DRB1*10:13        Len:    267  Check:  156  Weight: -1.00
+ Name: DRB1*10:14        Len:    267  Check:  707  Weight: -1.00
+ Name: DRB1*10:15        Len:    267  Check:   86  Weight: -1.00
+ Name: DRB1*10:16        Len:    267  Check:  998  Weight: -1.00
+ Name: DRB1*10:17        Len:    267  Check:  767  Weight: -1.00
+ Name: DRB1*10:18        Len:    267  Check:  600  Weight: -1.00
+ Name: DRB1*10:19        Len:    267  Check: 1148  Weight: -1.00
+ Name: DRB1*10:20        Len:    267  Check: 1163  Weight: -1.00
+ Name: DRB1*10:21        Len:    267  Check: 9975  Weight: -1.00
+ Name: DRB1*10:22        Len:    267  Check:  802  Weight: -1.00
+ Name: DRB1*10:23        Len:    267  Check:  660  Weight: -1.00
+ Name: DRB1*10:24        Len:    267  Check:  575  Weight: -1.00
+ Name: DRB1*10:25        Len:    267  Check:  492  Weight: -1.00
+ Name: DRB1*10:26        Len:    267  Check:  500  Weight: -1.00
+ Name: DRB1*10:27        Len:    267  Check: 1429  Weight: -1.00
+ Name: DRB1*10:28        Len:    267  Check:  194  Weight: -1.00
+ Name: DRB1*10:29        Len:    267  Check:  724  Weight: -1.00
+ Name: DRB1*10:30        Len:    267  Check:  818  Weight: -1.00
+ Name: DRB1*10:31        Len:    267  Check:  470  Weight: -1.00
+ Name: DRB1*10:32        Len:    267  Check: 1336  Weight: -1.00
+ Name: DRB1*10:33        Len:    267  Check:  276  Weight: -1.00
+ Name: DRB1*10:34        Len:    267  Check:  781  Weight: -1.00
+ Name: DRB1*10:35        Len:    267  Check:  542  Weight: -1.00
+ Name: DRB1*10:36        Len:    267  Check:  515  Weight: -1.00
+ Name: DRB1*10:37        Len:    267  Check:  510  Weight: -1.00
  Name: DRB1*11:01:01:01  Len:    267  Check: 1009  Weight: -1.00
  Name: DRB1*11:01:01:02  Len:    267  Check: 1009  Weight: -1.00
  Name: DRB1*11:01:01:03  Len:    267  Check: 1009  Weight: -1.00
@@ -1289,9 +1289,9 @@
  Name: DRB1*11:19:01     Len:    267  Check: 1129  Weight: -1.00
  Name: DRB1*11:19:02     Len:    267  Check: 1129  Weight: -1.00
  Name: DRB1*11:19:03     Len:    267  Check: 1129  Weight: -1.00
- Name: DRB1*11:20        Len:    267  Check:  362  Weight: -1.00
+ Name: DRB1*11:20        Len:    267  Check:  336  Weight: -1.00
  Name: DRB1*11:21        Len:    267  Check:  566  Weight: -1.00
- Name: DRB1*11:22        Len:    267  Check: 9961  Weight: -1.00
+ Name: DRB1*11:22        Len:    267  Check: 8894  Weight: -1.00
  Name: DRB1*11:23:01     Len:    267  Check: 1526  Weight: -1.00
  Name: DRB1*11:23:02     Len:    267  Check: 1526  Weight: -1.00
  Name: DRB1*11:24:01     Len:    267  Check:  799  Weight: -1.00
@@ -1488,8 +1488,8 @@
  Name: DRB1*11:190       Len:    267  Check:  764  Weight: -1.00
  Name: DRB1*11:191       Len:    267  Check:  939  Weight: -1.00
  Name: DRB1*11:192       Len:    267  Check: 1459  Weight: -1.00
- Name: DRB1*11:193:01    Len:    267  Check: 1275  Weight: -1.00
- Name: DRB1*11:193:02    Len:    267  Check: 1275  Weight: -1.00
+ Name: DRB1*11:193:01    Len:    267  Check: 1393  Weight: -1.00
+ Name: DRB1*11:193:02    Len:    267  Check: 1393  Weight: -1.00
  Name: DRB1*11:194       Len:    267  Check: 1237  Weight: -1.00
  Name: DRB1*11:195       Len:    267  Check:  874  Weight: -1.00
  Name: DRB1*11:196       Len:    267  Check:  739  Weight: -1.00
@@ -1713,17 +1713,17 @@
  Name: DRB1*13:02:01:03  Len:    267  Check:  238  Weight: -1.00
  Name: DRB1*13:02:01:04  Len:    267  Check:  238  Weight: -1.00
  Name: DRB1*13:02:01:05  Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:02     Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:03     Len:    267  Check:  238  Weight: -1.00
+ Name: DRB1*13:02:02     Len:    267  Check:  212  Weight: -1.00
+ Name: DRB1*13:02:03     Len:    267  Check:  212  Weight: -1.00
  Name: DRB1*13:02:04     Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:05     Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:06     Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:07     Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:08     Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:09     Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:10     Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:11     Len:    267  Check:  238  Weight: -1.00
- Name: DRB1*13:02:12     Len:    267  Check:  238  Weight: -1.00
+ Name: DRB1*13:02:05     Len:    267  Check:  212  Weight: -1.00
+ Name: DRB1*13:02:06     Len:    267  Check:  212  Weight: -1.00
+ Name: DRB1*13:02:07     Len:    267  Check:  212  Weight: -1.00
+ Name: DRB1*13:02:08     Len:    267  Check:  212  Weight: -1.00
+ Name: DRB1*13:02:09     Len:    267  Check:  212  Weight: -1.00
+ Name: DRB1*13:02:10     Len:    267  Check:  212  Weight: -1.00
+ Name: DRB1*13:02:11     Len:    267  Check:  212  Weight: -1.00
+ Name: DRB1*13:02:12     Len:    267  Check:  212  Weight: -1.00
  Name: DRB1*13:02:13     Len:    267  Check:  238  Weight: -1.00
  Name: DRB1*13:02:14     Len:    267  Check:  238  Weight: -1.00
  Name: DRB1*13:02:15     Len:    267  Check:  238  Weight: -1.00
@@ -1754,12 +1754,12 @@
  Name: DRB1*13:12:02     Len:    267  Check: 1835  Weight: -1.00
  Name: DRB1*13:12:03     Len:    267  Check: 1835  Weight: -1.00
  Name: DRB1*13:12:04     Len:    267  Check: 1835  Weight: -1.00
- Name: DRB1*13:13        Len:    267  Check: 2470  Weight: -1.00
+ Name: DRB1*13:13        Len:    267  Check: 2352  Weight: -1.00
  Name: DRB1*13:14:01     Len:    267  Check:  885  Weight: -1.00
  Name: DRB1*13:14:02     Len:    267  Check:  885  Weight: -1.00
  Name: DRB1*13:14:03     Len:    267  Check:  885  Weight: -1.00
  Name: DRB1*13:15        Len:    267  Check:  269  Weight: -1.00
- Name: DRB1*13:16        Len:    267  Check:  232  Weight: -1.00
+ Name: DRB1*13:16        Len:    267  Check:  206  Weight: -1.00
  Name: DRB1*13:17        Len:    267  Check:  729  Weight: -1.00
  Name: DRB1*13:18        Len:    267  Check: 1237  Weight: -1.00
  Name: DRB1*13:19        Len:    267  Check:  569  Weight: -1.00
@@ -1780,19 +1780,19 @@
  Name: DRB1*13:28:02     Len:    267  Check:  895  Weight: -1.00
  Name: DRB1*13:29        Len:    267  Check:  358  Weight: -1.00
  Name: DRB1*13:30        Len:    267  Check: 1455  Weight: -1.00
- Name: DRB1*13:31        Len:    267  Check:  778  Weight: -1.00
+ Name: DRB1*13:31        Len:    267  Check:  752  Weight: -1.00
  Name: DRB1*13:32        Len:    267  Check: 1098  Weight: -1.00
  Name: DRB1*13:33:01     Len:    267  Check: 1227  Weight: -1.00
  Name: DRB1*13:33:02     Len:    267  Check: 1227  Weight: -1.00
  Name: DRB1*13:33:03     Len:    267  Check: 1227  Weight: -1.00
- Name: DRB1*13:34        Len:    267  Check:  128  Weight: -1.00
+ Name: DRB1*13:34        Len:    267  Check:  102  Weight: -1.00
  Name: DRB1*13:35        Len:    267  Check:  142  Weight: -1.00
  Name: DRB1*13:36        Len:    267  Check:  618  Weight: -1.00
  Name: DRB1*13:37        Len:    267  Check: 1077  Weight: -1.00
  Name: DRB1*13:38        Len:    267  Check: 1263  Weight: -1.00
- Name: DRB1*13:39        Len:    267  Check:   40  Weight: -1.00
+ Name: DRB1*13:39        Len:    267  Check:   14  Weight: -1.00
  Name: DRB1*13:40        Len:    267  Check:  648  Weight: -1.00
- Name: DRB1*13:41        Len:    267  Check: 1302  Weight: -1.00
+ Name: DRB1*13:41        Len:    267  Check: 1276  Weight: -1.00
  Name: DRB1*13:42:01     Len:    267  Check:  720  Weight: -1.00
  Name: DRB1*13:42:02     Len:    267  Check:  720  Weight: -1.00
  Name: DRB1*13:43        Len:    267  Check: 9737  Weight: -1.00
@@ -1809,7 +1809,7 @@
  Name: DRB1*13:52        Len:    267  Check:  378  Weight: -1.00
  Name: DRB1*13:53        Len:    267  Check:  649  Weight: -1.00
  Name: DRB1*13:54        Len:    267  Check:  685  Weight: -1.00
- Name: DRB1*13:55        Len:    267  Check: 2350  Weight: -1.00
+ Name: DRB1*13:55        Len:    267  Check: 2232  Weight: -1.00
  Name: DRB1*13:56        Len:    267  Check:  930  Weight: -1.00
  Name: DRB1*13:57        Len:    267  Check:  189  Weight: -1.00
  Name: DRB1*13:58        Len:    267  Check: 1844  Weight: -1.00
@@ -1818,19 +1818,19 @@
  Name: DRB1*13:61:01     Len:    267  Check: 9968  Weight: -1.00
  Name: DRB1*13:61:02     Len:    267  Check: 9968  Weight: -1.00
  Name: DRB1*13:62        Len:    267  Check:  565  Weight: -1.00
- Name: DRB1*13:63        Len:    267  Check:  118  Weight: -1.00
+ Name: DRB1*13:63        Len:    267  Check:   92  Weight: -1.00
  Name: DRB1*13:64        Len:    267  Check:   78  Weight: -1.00
  Name: DRB1*13:65        Len:    267  Check: 1068  Weight: -1.00
  Name: DRB1*13:66:01     Len:    267  Check: 1147  Weight: -1.00
  Name: DRB1*13:66:02     Len:    267  Check: 1147  Weight: -1.00
- Name: DRB1*13:67        Len:    267  Check: 9053  Weight: -1.00
+ Name: DRB1*13:67        Len:    267  Check: 9027  Weight: -1.00
  Name: DRB1*13:68        Len:    267  Check:  168  Weight: -1.00
  Name: DRB1*13:69        Len:    267  Check:  353  Weight: -1.00
  Name: DRB1*13:70        Len:    267  Check:  843  Weight: -1.00
  Name: DRB1*13:71        Len:    267  Check: 1452  Weight: -1.00
  Name: DRB1*13:72        Len:    267  Check:  982  Weight: -1.00
- Name: DRB1*13:73        Len:    267  Check: 9908  Weight: -1.00
- Name: DRB1*13:74        Len:    267  Check:  484  Weight: -1.00
+ Name: DRB1*13:73        Len:    267  Check: 9882  Weight: -1.00
+ Name: DRB1*13:74        Len:    267  Check:  458  Weight: -1.00
  Name: DRB1*13:75        Len:    267  Check:  793  Weight: -1.00
  Name: DRB1*13:76        Len:    267  Check:  756  Weight: -1.00
  Name: DRB1*13:77        Len:    267  Check: 1182  Weight: -1.00
@@ -1854,22 +1854,22 @@
  Name: DRB1*13:94:01     Len:    267  Check: 1257  Weight: -1.00
  Name: DRB1*13:94:02     Len:    267  Check: 1257  Weight: -1.00
  Name: DRB1*13:95        Len:    267  Check: 1863  Weight: -1.00
- Name: DRB1*13:96:01     Len:    267  Check: 9938  Weight: -1.00
- Name: DRB1*13:96:02     Len:    267  Check: 9938  Weight: -1.00
- Name: DRB1*13:97:01     Len:    267  Check:  348  Weight: -1.00
- Name: DRB1*13:97:02     Len:    267  Check:  348  Weight: -1.00
+ Name: DRB1*13:96:01     Len:    267  Check: 9912  Weight: -1.00
+ Name: DRB1*13:96:02     Len:    267  Check: 9912  Weight: -1.00
+ Name: DRB1*13:97:01     Len:    267  Check:  322  Weight: -1.00
+ Name: DRB1*13:97:02     Len:    267  Check:  322  Weight: -1.00
  Name: DRB1*13:98        Len:    267  Check:  250  Weight: -1.00
- Name: DRB1*13:99        Len:    267  Check:   22  Weight: -1.00
+ Name: DRB1*13:99        Len:    267  Check: 9996  Weight: -1.00
  Name: DRB1*13:100       Len:    267  Check: 1227  Weight: -1.00
  Name: DRB1*13:101       Len:    267  Check: 1509  Weight: -1.00
  Name: DRB1*13:102       Len:    267  Check:  996  Weight: -1.00
- Name: DRB1*13:103       Len:    267  Check: 9944  Weight: -1.00
+ Name: DRB1*13:103       Len:    267  Check: 9918  Weight: -1.00
  Name: DRB1*13:104       Len:    267  Check:  239  Weight: -1.00
  Name: DRB1*13:105       Len:    267  Check:  259  Weight: -1.00
  Name: DRB1*13:106       Len:    267  Check:  147  Weight: -1.00
- Name: DRB1*13:107       Len:    267  Check:  158  Weight: -1.00
+ Name: DRB1*13:107       Len:    267  Check:  132  Weight: -1.00
  Name: DRB1*13:108       Len:    267  Check: 1745  Weight: -1.00
- Name: DRB1*13:109       Len:    267  Check:  235  Weight: -1.00
+ Name: DRB1*13:109       Len:    267  Check:  209  Weight: -1.00
  Name: DRB1*13:110       Len:    267  Check:  493  Weight: -1.00
  Name: DRB1*13:111       Len:    267  Check:  148  Weight: -1.00
  Name: DRB1*13:112       Len:    267  Check: 9728  Weight: -1.00
@@ -1883,12 +1883,12 @@
  Name: DRB1*13:120       Len:    267  Check: 1332  Weight: -1.00
  Name: DRB1*13:121       Len:    267  Check: 9428  Weight: -1.00
  Name: DRB1*13:122       Len:    267  Check: 1591  Weight: -1.00
- Name: DRB1*13:123       Len:    267  Check:  283  Weight: -1.00
- Name: DRB1*13:124       Len:    267  Check:  139  Weight: -1.00
+ Name: DRB1*13:123       Len:    267  Check:  257  Weight: -1.00
+ Name: DRB1*13:124       Len:    267  Check:  113  Weight: -1.00
  Name: DRB1*13:125       Len:    267  Check:  318  Weight: -1.00
- Name: DRB1*13:126       Len:    267  Check:  862  Weight: -1.00
+ Name: DRB1*13:126       Len:    267  Check:  836  Weight: -1.00
  Name: DRB1*13:127       Len:    267  Check:  857  Weight: -1.00
- Name: DRB1*13:128       Len:    267  Check: 9698  Weight: -1.00
+ Name: DRB1*13:128       Len:    267  Check: 9672  Weight: -1.00
  Name: DRB1*13:129       Len:    267  Check: 1715  Weight: -1.00
  Name: DRB1*13:130       Len:    267  Check:  428  Weight: -1.00
  Name: DRB1*13:131       Len:    267  Check:  220  Weight: -1.00
@@ -1899,23 +1899,23 @@
  Name: DRB1*13:136       Len:    267  Check:  580  Weight: -1.00
  Name: DRB1*13:137N      Len:    267  Check:  189  Weight: -1.00
  Name: DRB1*13:138       Len:    267  Check:  543  Weight: -1.00
- Name: DRB1*13:139       Len:    267  Check:  688  Weight: -1.00
- Name: DRB1*13:140       Len:    267  Check:  402  Weight: -1.00
+ Name: DRB1*13:139       Len:    267  Check:  662  Weight: -1.00
+ Name: DRB1*13:140       Len:    267  Check:  376  Weight: -1.00
  Name: DRB1*13:141       Len:    267  Check:  543  Weight: -1.00
  Name: DRB1*13:142N      Len:    267  Check:  189  Weight: -1.00
- Name: DRB1*13:143       Len:    267  Check:  222  Weight: -1.00
+ Name: DRB1*13:143       Len:    267  Check:  196  Weight: -1.00
  Name: DRB1*13:144       Len:    267  Check: 2301  Weight: -1.00
- Name: DRB1*13:145       Len:    267  Check:  574  Weight: -1.00
+ Name: DRB1*13:145       Len:    267  Check:  548  Weight: -1.00
  Name: DRB1*13:146       Len:    267  Check:  785  Weight: -1.00
- Name: DRB1*13:147       Len:    267  Check:  262  Weight: -1.00
+ Name: DRB1*13:147       Len:    267  Check:  236  Weight: -1.00
  Name: DRB1*13:148       Len:    267  Check:   98  Weight: -1.00
  Name: DRB1*13:149       Len:    267  Check:  963  Weight: -1.00
  Name: DRB1*13:150       Len:    267  Check:  867  Weight: -1.00
  Name: DRB1*13:151       Len:    267  Check: 1417  Weight: -1.00
  Name: DRB1*13:152       Len:    267  Check: 1337  Weight: -1.00
  Name: DRB1*13:153       Len:    267  Check:  807  Weight: -1.00
- Name: DRB1*13:154       Len:    267  Check: 2090  Weight: -1.00
- Name: DRB1*13:155       Len:    267  Check:  250  Weight: -1.00
+ Name: DRB1*13:154       Len:    267  Check: 1972  Weight: -1.00
+ Name: DRB1*13:155       Len:    267  Check:  224  Weight: -1.00
  Name: DRB1*13:156       Len:    267  Check: 1357  Weight: -1.00
  Name: DRB1*13:157       Len:    267  Check:  810  Weight: -1.00
  Name: DRB1*13:158       Len:    267  Check: 1207  Weight: -1.00
@@ -1925,22 +1925,22 @@
  Name: DRB1*13:162       Len:    267  Check:  805  Weight: -1.00
  Name: DRB1*13:163       Len:    267  Check:  621  Weight: -1.00
  Name: DRB1*13:164       Len:    267  Check: 2380  Weight: -1.00
- Name: DRB1*13:165       Len:    267  Check:  430  Weight: -1.00
+ Name: DRB1*13:165       Len:    267  Check:  404  Weight: -1.00
  Name: DRB1*13:166       Len:    267  Check:  250  Weight: -1.00
  Name: DRB1*13:167       Len:    267  Check: 2420  Weight: -1.00
- Name: DRB1*13:168       Len:    267  Check:  185  Weight: -1.00
+ Name: DRB1*13:168       Len:    267  Check:  159  Weight: -1.00
  Name: DRB1*13:169       Len:    267  Check: 1365  Weight: -1.00
- Name: DRB1*13:170       Len:    267  Check:  502  Weight: -1.00
- Name: DRB1*13:171:01    Len:    267  Check:  148  Weight: -1.00
- Name: DRB1*13:171:02    Len:    267  Check:  148  Weight: -1.00
- Name: DRB1*13:172       Len:    267  Check:  587  Weight: -1.00
+ Name: DRB1*13:170       Len:    267  Check:  476  Weight: -1.00
+ Name: DRB1*13:171:01    Len:    267  Check:  122  Weight: -1.00
+ Name: DRB1*13:171:02    Len:    267  Check:  122  Weight: -1.00
+ Name: DRB1*13:172       Len:    267  Check:  561  Weight: -1.00
  Name: DRB1*13:173       Len:    267  Check:  490  Weight: -1.00
  Name: DRB1*13:174       Len:    267  Check: 1287  Weight: -1.00
  Name: DRB1*13:175       Len:    267  Check:  454  Weight: -1.00
  Name: DRB1*13:176       Len:    267  Check: 1596  Weight: -1.00
  Name: DRB1*13:177       Len:    267  Check:  247  Weight: -1.00
  Name: DRB1*13:178       Len:    267  Check:  575  Weight: -1.00
- Name: DRB1*13:179       Len:    267  Check: 9587  Weight: -1.00
+ Name: DRB1*13:179       Len:    267  Check: 9561  Weight: -1.00
  Name: DRB1*13:180       Len:    267  Check: 1737  Weight: -1.00
  Name: DRB1*13:181       Len:    267  Check:  642  Weight: -1.00
  Name: DRB1*13:182       Len:    267  Check:  538  Weight: -1.00
@@ -1956,24 +1956,24 @@
  Name: DRB1*13:192       Len:    267  Check:  771  Weight: -1.00
  Name: DRB1*13:193       Len:    267  Check: 1399  Weight: -1.00
  Name: DRB1*13:194       Len:    267  Check: 2067  Weight: -1.00
- Name: DRB1*13:195       Len:    267  Check: 8974  Weight: -1.00
+ Name: DRB1*13:195       Len:    267  Check: 8948  Weight: -1.00
  Name: DRB1*13:196       Len:    267  Check: 1061  Weight: -1.00
  Name: DRB1*13:197       Len:    267  Check:  795  Weight: -1.00
  Name: DRB1*13:198       Len:    267  Check:  619  Weight: -1.00
  Name: DRB1*13:199       Len:    267  Check:  250  Weight: -1.00
  Name: DRB1*13:200N      Len:    267  Check:  109  Weight: -1.00
  Name: DRB1*13:201       Len:    267  Check: 1308  Weight: -1.00
- Name: DRB1*13:202       Len:    267  Check: 9752  Weight: -1.00
+ Name: DRB1*13:202       Len:    267  Check: 9726  Weight: -1.00
  Name: DRB1*13:203       Len:    267  Check:  807  Weight: -1.00
  Name: DRB1*13:204       Len:    267  Check:  163  Weight: -1.00
  Name: DRB1*13:205       Len:    267  Check: 1048  Weight: -1.00
  Name: DRB1*13:206       Len:    267  Check: 1902  Weight: -1.00
- Name: DRB1*13:207       Len:    267  Check:   70  Weight: -1.00
+ Name: DRB1*13:207       Len:    267  Check:   44  Weight: -1.00
  Name: DRB1*13:208       Len:    267  Check: 9944  Weight: -1.00
- Name: DRB1*13:209       Len:    267  Check: 1156  Weight: -1.00
- Name: DRB1*13:210       Len:    267  Check: 1066  Weight: -1.00
- Name: DRB1*13:211       Len:    267  Check: 1112  Weight: -1.00
- Name: DRB1*13:212       Len:    267  Check:  128  Weight: -1.00
+ Name: DRB1*13:209       Len:    267  Check: 1130  Weight: -1.00
+ Name: DRB1*13:210       Len:    267  Check: 1040  Weight: -1.00
+ Name: DRB1*13:211       Len:    267  Check: 1086  Weight: -1.00
+ Name: DRB1*13:212       Len:    267  Check:  102  Weight: -1.00
  Name: DRB1*13:213       Len:    267  Check:  313  Weight: -1.00
  Name: DRB1*13:214       Len:    267  Check:  534  Weight: -1.00
  Name: DRB1*13:215       Len:    267  Check:  259  Weight: -1.00
@@ -1981,12 +1981,12 @@
  Name: DRB1*13:217       Len:    267  Check: 9617  Weight: -1.00
  Name: DRB1*13:218       Len:    267  Check: 9908  Weight: -1.00
  Name: DRB1*13:219       Len:    267  Check: 1515  Weight: -1.00
- Name: DRB1*13:220       Len:    267  Check:   85  Weight: -1.00
+ Name: DRB1*13:220       Len:    267  Check:   59  Weight: -1.00
  Name: DRB1*13:221       Len:    267  Check:  158  Weight: -1.00
  Name: DRB1*13:222       Len:    267  Check: 1142  Weight: -1.00
  Name: DRB1*13:223       Len:    267  Check:  311  Weight: -1.00
  Name: DRB1*13:224       Len:    267  Check: 1125  Weight: -1.00
- Name: DRB1*13:225       Len:    267  Check:  166  Weight: -1.00
+ Name: DRB1*13:225       Len:    267  Check:  140  Weight: -1.00
  Name: DRB1*13:226       Len:    267  Check: 1161  Weight: -1.00
  Name: DRB1*13:227       Len:    267  Check: 1478  Weight: -1.00
  Name: DRB1*13:228       Len:    267  Check: 2219  Weight: -1.00
@@ -2001,25 +2001,25 @@
  Name: DRB1*13:237       Len:    267  Check:  184  Weight: -1.00
  Name: DRB1*13:238       Len:    267  Check:  125  Weight: -1.00
  Name: DRB1*13:239       Len:    267  Check: 9732  Weight: -1.00
- Name: DRB1*13:240       Len:    267  Check:  138  Weight: -1.00
- Name: DRB1*13:241       Len:    267  Check: 9006  Weight: -1.00
+ Name: DRB1*13:240       Len:    267  Check:  112  Weight: -1.00
+ Name: DRB1*13:241       Len:    267  Check: 8980  Weight: -1.00
  Name: DRB1*13:242:01    Len:    267  Check:  247  Weight: -1.00
  Name: DRB1*13:242:02    Len:    267  Check:  247  Weight: -1.00
  Name: DRB1*13:243       Len:    267  Check:  187  Weight: -1.00
- Name: DRB1*13:244       Len:    267  Check:  252  Weight: -1.00
+ Name: DRB1*13:244       Len:    267  Check:  226  Weight: -1.00
  Name: DRB1*13:245       Len:    267  Check:  730  Weight: -1.00
  Name: DRB1*13:246       Len:    267  Check: 1295  Weight: -1.00
  Name: DRB1*13:247       Len:    267  Check:  313  Weight: -1.00
  Name: DRB1*13:248       Len:    267  Check: 9752  Weight: -1.00
  Name: DRB1*13:249N      Len:    267  Check:  189  Weight: -1.00
- Name: DRB1*13:250       Len:    267  Check:   48  Weight: -1.00
+ Name: DRB1*13:250       Len:    267  Check:   22  Weight: -1.00
  Name: DRB1*13:251       Len:    267  Check:  413  Weight: -1.00
  Name: DRB1*13:252N      Len:    267  Check:  189  Weight: -1.00
  Name: DRB1*13:253       Len:    267  Check: 1377  Weight: -1.00
  Name: DRB1*13:254       Len:    267  Check: 1180  Weight: -1.00
  Name: DRB1*13:255N      Len:    267  Check:  189  Weight: -1.00
  Name: DRB1*13:256       Len:    267  Check:  172  Weight: -1.00
- Name: DRB1*13:257       Len:    267  Check: 1131  Weight: -1.00
+ Name: DRB1*13:257       Len:    267  Check: 1105  Weight: -1.00
  Name: DRB1*13:258       Len:    267  Check:  215  Weight: -1.00
  Name: DRB1*13:259       Len:    267  Check:  196  Weight: -1.00
  Name: DRB1*13:260       Len:    267  Check:  808  Weight: -1.00
@@ -2048,7 +2048,7 @@
  Name: DRB1*13:283       Len:    267  Check: 9778  Weight: -1.00
  Name: DRB1*13:284       Len:    267  Check:  894  Weight: -1.00
  Name: DRB1*13:285       Len:    267  Check:   62  Weight: -1.00
- Name: DRB1*13:286       Len:    267  Check: 1402  Weight: -1.00
+ Name: DRB1*13:286       Len:    267  Check: 1520  Weight: -1.00
  Name: DRB1*13:287       Len:    267  Check:  313  Weight: -1.00
  Name: DRB1*13:288       Len:    267  Check:  136  Weight: -1.00
  Name: DRB1*13:290       Len:    267  Check:  226  Weight: -1.00
@@ -3830,55 +3830,55 @@ DRB1*09:44        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTQPRFLKQ DKFECHFFNG
 DRB1*10:01:01:01  ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
 DRB1*10:01:01:02  ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
 DRB1*10:01:01:03  ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:02     ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:03     ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:04     ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:02     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:03     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:04     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
 DRB1*10:01:05     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:06     ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:07     ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:08     ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:09     ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:10     ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:11     ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:12     ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:13     ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:01:14     ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:02        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:03        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:04        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:05        ~MVCLKFPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:06        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:07        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:08        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:09        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:10        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:11        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:12        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:13        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:14        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:15        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:16        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:17        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:18        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:19        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:20        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:21        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:22        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:23        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:24        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:25        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:26        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:27        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:28        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:29        ~MVCLKLPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:30        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHLFNG
-DRB1*10:31        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:32        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNW
-DRB1*10:33        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:34        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:35        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:36        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
-DRB1*10:37        ~MVCLKLPGG SCMTALTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:06     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:07     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:08     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:09     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:10     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:11     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:12     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:13     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:01:14     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:02        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:03        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:04        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:05        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:06        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:07        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:08        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:09        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:10        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:11        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:12        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:13        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:14        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:15        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:16        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:17        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:18        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:19        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:20        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:21        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:22        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:23        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:24        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:25        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:26        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:27        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:28        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:29        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:30        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHLFNG
+DRB1*10:31        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:32        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNW
+DRB1*10:33        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:34        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:35        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:36        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
+DRB1*10:37        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEE VKFECHFFNG
 DRB1*11:01:01:01  ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
 DRB1*11:01:01:02  ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
 DRB1*11:01:01:03  ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
@@ -3981,7 +3981,7 @@ DRB1*11:19:02     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
 DRB1*11:19:03     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
 DRB1*11:20        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
 DRB1*11:21        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
-DRB1*11:22        ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEQ VKHECHFFNG
+DRB1*11:22        ~MVCLKFPGG SCMAALTVTL MVLSSPLALA GDTRPRFLEQ VKHECHFFNG
 DRB1*11:23:01     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
 DRB1*11:23:02     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
 DRB1*11:24:01     ~MVCLRLPGG SCMAVLTVTL MVLSSPLALA GDTRPRFLEY STSECHFFNG
@@ -9208,47 +9208,47 @@ DRB1*09:44        RRAEVDTVCR HNYGVGESFT VQRRVHPEVT VYPAKTQPLQ HHNLLVCSVS
 DRB1*10:01:01:01  RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:01:02  RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:01:03  RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:01:02     RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:01:02     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:03     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:01:04     RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:01:04     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:05     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:01:06     RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:01:07     RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:01:08     RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:01:06     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:01:07     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:01:08     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:09     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:10     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:11     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:12     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:13     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:01:14     RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:02        RRAAVDTYCR HNYGVVESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:02        RRAAVDTYCR HNYGVVESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:03        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:04        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:05        RRAAVDTYCR HNYGVGESFT VQRRVYPEVT VYPAKTQPLQ HHNLLVCSVN
-DRB1*10:06        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:07        RRAAVDTYCR YNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:08        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:09        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:10        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:11        RRAAVDNYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:12        RRAAVDTYCR HNYGVAESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:13        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:14        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVS
-DRB1*10:15        RHAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:16        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:17        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:18        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:04        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:05        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:06        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:07        RRAAVDTYCR YNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:08        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:09        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:10        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:11        RRAAVDNYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:12        RRAAVDTYCR HNYGVAESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:13        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:14        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:15        RHAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:16        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:17        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:18        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:19        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:20        RRAAVDTYCR HNYRVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:21        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:22        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:23        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
-DRB1*10:24        RRAAVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:20        RRAAVDTYCR HNYRVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:21        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:22        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:23        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:24        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:25        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:26        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:27        RRATVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:28        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VFPSKTQPLQ HHNLLVCSVN
-DRB1*10:29        RRAEVDTYCR HNYGVGESFT VQRRVEPKVT VYPSKTQPLQ HHNLLVCSVN
+DRB1*10:29        RRAEVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:30        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:31        RRAAVDTYCR HNYGVGESFI VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
 DRB1*10:32        RRAAVDTYCR HNYGVGESFT VQRRVQPKVT VYPSKTQPLQ HHNLLVCSVN
@@ -9359,7 +9359,7 @@ DRB1*11:19:02     RRAAVDTYCR HNYGVGESFT VQRRVHPKVT VYPSKTQPLQ HHNLLVCSVS
 DRB1*11:19:03     RRAAVDTYCR HNYGVGESFT VQRRVHPKVT VYPSKTQPLQ HHNLLVCSVS
 DRB1*11:20        ERAAVDTYCR HNYGVGESFT VQRRVHPKVT VYPSKTQPLQ HHNLLVCSVS
 DRB1*11:21        ERAAVDTYCR HNYGAVESFT VQRRVHPKVT VYPSKTQPLQ HHNLLVCSVS
-DRB1*11:22        RRAAVDTYCR HNYGVGESFT VQRRVHPKVT VYPSKTQPLQ HHNLLVCSVS
+DRB1*11:22        RRAAVDTYCR HNYGVGESFT VQRRVYPEVT VYPAKTQPLQ HHNLLVCSVN
 DRB1*11:23:01     RRALVDTYCR HNYGVGESFT VQRRVHPKVT VYPSKTQPLQ HHNLLVCSVS
 DRB1*11:23:02     RRALVDTYCR HNYGVGESFT VQRRVHPKVT VYPSKTQPLQ HHNLLVCSVS
 DRB1*11:24:01     RRAAVDTYCR HNYGVGESFT VQRRVHPKVT VYPSKTQPLQ HHNLLVCSVS
@@ -11897,47 +11897,47 @@ DRB1*09:44        GFYPGSIEVR WFRNGQEEKA GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
 DRB1*10:01:01:01  GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:01:02  GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:01:03  GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
-DRB1*10:01:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
+DRB1*10:01:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:03     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
-DRB1*10:01:04     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
+DRB1*10:01:04     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:05     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
-DRB1*10:01:06     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:01:07     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:01:08     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
+DRB1*10:01:06     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:01:07     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:01:08     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:09     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:10     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:11     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:12     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:13     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:01:14     GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
-DRB1*10:02        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
+DRB1*10:02        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:03        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
-DRB1*10:04        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:05        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:06        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:07        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:08        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:09        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:10        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:11        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:12        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:13        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:14        GFYPGSIEVR WFRNGQEEKA GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:15        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:16        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:17        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:18        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
+DRB1*10:04        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:05        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:06        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:07        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:08        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:09        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:10        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:11        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:12        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:13        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:14        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:15        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:16        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:17        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:18        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:19        GFYPGSIEVR WFRNSQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
-DRB1*10:20        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:21        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:22        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:23        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
-DRB1*10:24        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
+DRB1*10:20        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:21        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:22        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:23        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
+DRB1*10:24        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:25        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LERVPQSGEV
 DRB1*10:26        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:27        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:28        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
-DRB1*10:29        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
+DRB1*10:29        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:30        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:31        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
 DRB1*10:32        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPQSGEV
@@ -12046,9 +12046,9 @@ DRB1*11:18        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*11:19:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*11:19:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*11:19:03     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*11:20        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*11:20        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*11:21        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*11:22        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*11:22        GFYPGSIEVR WFRNGQEEKT GVVSTGLIQN GDWTFQTLVM LETVPRSGEV
 DRB1*11:23:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*11:23:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*11:24:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12470,17 +12470,17 @@ DRB1*13:02:01:02  GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:02:01:03  GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:02:01:04  GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:02:01:05  GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:03     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:02:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:02:03     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:02:04     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:05     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:06     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:07     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:08     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:09     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:10     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:11     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:02:12     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:02:05     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:02:06     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:02:07     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:02:08     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:02:09     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:02:10     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:02:11     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:02:12     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:02:13     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:02:14     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:02:15     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12516,7 +12516,7 @@ DRB1*13:14:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:14:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:14:03     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:15        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:16        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:16        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:17        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:18        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:19        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12537,19 +12537,19 @@ DRB1*13:28:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:28:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:29        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:30        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:31        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:31        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:32        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:33:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:33:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:33:03     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:34        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:34        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:35        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:36        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:37        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:38        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:39        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:39        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:40        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:41        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:41        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:42:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:42:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:43        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12575,19 +12575,19 @@ DRB1*13:60        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:61:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:61:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:62        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:63        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:63        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:64        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:65        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:66:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:66:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:67        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:67        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:68        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:69        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:70        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:71        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:72        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:73        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:74        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:73        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:74        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:75        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:76        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:77        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12611,22 +12611,22 @@ DRB1*13:93        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:94:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:94:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:95        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:96:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:96:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:97:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:97:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:96:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:96:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:97:01     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:97:02     GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:98        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:99        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:99        GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:100       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:101       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:102       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:103       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:103       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:104       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:105       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:106       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:107       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:107       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:108       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:109       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:109       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:110       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:111       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:112       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12640,12 +12640,12 @@ DRB1*13:119       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:120       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:121       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:122       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:123       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:124       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:123       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:124       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:125       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:126       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:126       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:127       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:128       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:128       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:129       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:130       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:131       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12656,15 +12656,15 @@ DRB1*13:135       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:136       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:137N      .......... .......... .......... .......... ..........
 DRB1*13:138       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:139       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:140       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:139       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:140       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:141       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:142N      .......... .......... .......... .......... ..........
-DRB1*13:143       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:143       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:144       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:145       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:145       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:146       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:147       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:147       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:148       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:149       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:150       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12672,7 +12672,7 @@ DRB1*13:151       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:152       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:153       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:154       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:155       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:155       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:156       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:157       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:158       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12682,22 +12682,22 @@ DRB1*13:161       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:162       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:163       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:164       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:165       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:165       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:166       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:167       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:168       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:168       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:169       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:170       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:171:01    GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:171:02    GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:172       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:170       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:171:01    GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:171:02    GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:172       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:173       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:174       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:175       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:176       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:177       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:178       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:179       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:179       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:180       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:181       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:182       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12713,24 +12713,24 @@ DRB1*13:191       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:192       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:193       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:194       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:195       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:195       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:196       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:197       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:198       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:199       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:200N      .......... .......... .......... .......... ..........
 DRB1*13:201       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:202       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:202       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:203       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:204       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:205       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:206       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:207       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:207       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:208       GFYPGSIEVR WFLNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:209       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:210       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:211       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:212       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:209       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:210       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:211       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:212       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:213       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:214       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:215       GFYPGSIEVR WFRNGQEEKT GMVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12738,12 +12738,12 @@ DRB1*13:216       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:217       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:218       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:219       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:220       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:220       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:221       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:222       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:223       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:224       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:225       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:225       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:226       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:227       GFYPGSIEVR WFQNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:228       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -12758,25 +12758,25 @@ DRB1*13:236       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:237       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:238       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:239       GFYPGSIEVG WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:240       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:241       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:240       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
+DRB1*13:241       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:242:01    GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:242:02    GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:243       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
-DRB1*13:244       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:244       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:245       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:246       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:247       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:248       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:249N      .......... .......... .......... .......... ..........
-DRB1*13:250       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:250       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:251       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:252N      .......... .......... .......... .......... ..........
 DRB1*13:253       GFYPGSIEVR WFRKGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:254       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:255N      .......... .......... .......... .......... ..........
 DRB1*13:256       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQNLVM LETVPRSGEV
-DRB1*13:257       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
+DRB1*13:257       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRRGEV
 DRB1*13:258       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:259       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
 DRB1*13:260       GFYPGSIEVR WFRNGQEEKT GVVSTGLIHN GDWTFQTLVM LETVPRSGEV
@@ -14216,7 +14216,7 @@ DRB1*04:261       YTCQVEHPSL TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*04:262       YTCQVEHPSL MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*04:263       YTCQVEHPSL TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*04:264N      .......... .CASTATWGS TGR~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB1*04:265       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*04:265       YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*04:266N      .......... .CASTATWGS TGR~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB1*04:268       YTCQVEHPSL TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*04:269       YTCQVEHPSL TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14391,10 +14391,10 @@ DRB1*07:110       YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*07:111       YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*07:112       YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:01:01     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:01:02     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:01:04     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:01:05     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:01:06     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:01:02     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:01:04     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:01:05     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:01:06     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:01:07     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:02:01:01  YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:02:01:02  YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14404,7 +14404,7 @@ DRB1*08:02:04     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:03:02:01  YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:03:02:02  YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:03:02:03  YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:03:03     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:03:03     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:03:04     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:03:05     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:03:06     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14420,7 +14420,7 @@ DRB1*08:04:04     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:04:05     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:04:06     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:04:07     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:05        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:05        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:06        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:07        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:08        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14433,7 +14433,7 @@ DRB1*08:13        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:14        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:15        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:16        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:17        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:17        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:18        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:19        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:20        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14443,14 +14443,14 @@ DRB1*08:23        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:24:01     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:24:02     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:25        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:26        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:26        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:27        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:28        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:29        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:30:01     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:30:02     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:30:03     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:31        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:31        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:32        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:33        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:34        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14459,24 +14459,24 @@ DRB1*08:36:01     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:36:02     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:37        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:38        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:39        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:39        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:40        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:41        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:42        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:43        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:43        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:44        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:45:01     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:45:02     YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:46        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:47        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:48        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:48        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:49        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:50        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:50        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:51        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:52        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:53        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:54        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:55        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:55        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:56        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:57        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:58        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14485,7 +14485,7 @@ DRB1*08:60N       .......... .CASTATWGS TGR~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB1*08:61        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:62        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:63        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:64        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:64        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:65        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:66        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:67        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14501,28 +14501,28 @@ DRB1*08:75        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:76        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:77        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:78N       .......... .CASTATWGS TGR~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DRB1*08:79        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:79        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:80        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:81        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:82        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:83        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:84        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:85        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:86        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:87        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:88        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:86        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:87        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:88        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:89N       ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DRB1*08:90        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:91        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:92        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:93        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:93        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:94        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:95        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:96        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:96        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:97        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:98        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:99        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*08:100       YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*08:100       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:101       YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:102       YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*08:103       YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14586,47 +14586,47 @@ DRB1*09:44        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:01:01  YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:01:02  YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:01:03  YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:01:02     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:01:02     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:03     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:01:04     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:01:04     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:05     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:01:06     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:01:07     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:01:08     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:01:06     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:01:07     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:01:08     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:09     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:10     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:11     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:12     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:13     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:01:14     YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:02        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:02        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:03        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:04        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:05        YTCQVEHPSL TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:06        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:07        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:08        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:09        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:10        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:11        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:12        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:13        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:14        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:15        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:16        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:17        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:18        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:04        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:05        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:06        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:07        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:08        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:09        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:10        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:11        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:12        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:13        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:14        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:15        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:16        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:17        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:18        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:19        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:20        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:21        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:22        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:23        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:24        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:20        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:21        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:22        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:23        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:24        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:25        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:26        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:27        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:28        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*10:29        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*10:29        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:30        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:31        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*10:32        YTCQVEHPSV MSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14737,7 +14737,7 @@ DRB1*11:19:02     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:19:03     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:20        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:21        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*11:22        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*11:22        YTCQVEHPSL TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:23:01     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:23:02     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:24:01     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -14934,8 +14934,8 @@ DRB1*11:189       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:190       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:191       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:192       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*11:193:01    YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*11:193:02    YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*11:193:01    YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*11:193:02    YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:194       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:195       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*11:196       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -15200,7 +15200,7 @@ DRB1*13:12:01     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:12:02     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:12:03     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:12:04     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*13:13        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*13:13        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:14:01     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:14:02     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:14:03     YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -15255,7 +15255,7 @@ DRB1*13:51        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:52        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:53        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:54        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*13:55        YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*13:55        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:56        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:57        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:58        YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -15360,7 +15360,7 @@ DRB1*13:150       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:151       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:152       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:153       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*13:154       YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*13:154       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:155       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:156       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:157       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -15494,7 +15494,7 @@ DRB1*13:282       YTCQVEHPIV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:283       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:284       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:285       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
-DRB1*13:286       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
+DRB1*13:286       YTCQVEHPSV TSPLTVEWSA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:287       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:288       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
 DRB1*13:290       YTCQVEHPSV TSPLTVEWRA RSESAQSKML SGVGGFVLGL LFLGAGLFIY
@@ -16905,7 +16905,7 @@ DRB1*04:261       FRNQKGHSGL QPTGFLS
 DRB1*04:262       FRNQKGHSGL QPTGFLS
 DRB1*04:263       FRNQKGHSGL QPTGFLS
 DRB1*04:264N      ~~~~~~~~~~ ~~~~~~~
-DRB1*04:265       FRNQKGHSGL QPRGFLS
+DRB1*04:265       FRNQKGHSGL QPTGFLS
 DRB1*04:266N      ~~~~~~~~~~ ~~~~~~~
 DRB1*04:268       FRNQKGHSGL QPTGFLS
 DRB1*04:269       FRNQKGHSGL QPTGFLS
@@ -17080,10 +17080,10 @@ DRB1*07:110       FRNQKGHSGL QPTGFLS
 DRB1*07:111       FRNQKGHSGL QPTGFLS
 DRB1*07:112       FRNQKGHSGL QPTGFLS
 DRB1*08:01:01     FRNQKGHSGL QPTGFLS
-DRB1*08:01:02     FRNQKGHSGL QPTGFLS
-DRB1*08:01:04     FRNQKGHSGL QPTGFLS
-DRB1*08:01:05     FRNQKGHSGL QPTGFLS
-DRB1*08:01:06     FRNQKGHSGL QPTGFLS
+DRB1*08:01:02     FRNQKGHSGL QPRGFLS
+DRB1*08:01:04     FRNQKGHSGL QPRGFLS
+DRB1*08:01:05     FRNQKGHSGL QPRGFLS
+DRB1*08:01:06     FRNQKGHSGL QPRGFLS
 DRB1*08:01:07     FRNQKGHSGL QPTGFLS
 DRB1*08:02:01:01  FRNQKGHSGL QPTGFLS
 DRB1*08:02:01:02  FRNQKGHSGL QPTGFLS
@@ -17093,7 +17093,7 @@ DRB1*08:02:04     FRNQKGHSGL QPTGFLS
 DRB1*08:03:02:01  FRNQKGHSGL QPTGFLS
 DRB1*08:03:02:02  FRNQKGHSGL QPTGFLS
 DRB1*08:03:02:03  FRNQKGHSGL QPTGFLS
-DRB1*08:03:03     FRNQKGHSGL QPTGFLS
+DRB1*08:03:03     FRNQKGHSGL QPRGFLS
 DRB1*08:03:04     FRNQKGHSGL QPTGFLS
 DRB1*08:03:05     FRNQKGHSGL QPTGFLS
 DRB1*08:03:06     FRNQKGHSGL QPTGFLS
@@ -17109,7 +17109,7 @@ DRB1*08:04:04     FRNQKGHSGL QPTGFLS
 DRB1*08:04:05     FRNQKGHSGL QPTGFLS
 DRB1*08:04:06     FRNQKGHSGL QPTGFLS
 DRB1*08:04:07     FRNQKGHSGL QPTGFLS
-DRB1*08:05        FRNQKGHSGL QPTGFLS
+DRB1*08:05        FRNQKGHSGL QPRGFLS
 DRB1*08:06        FRNQKGHSGL QPTGFLS
 DRB1*08:07        FRNQKGHSGL QPTGFLS
 DRB1*08:08        FRNQKGHSGL QPTGFLS
@@ -17122,7 +17122,7 @@ DRB1*08:13        FRNQKGHSGL QPTGFLS
 DRB1*08:14        FRNQKGHSGL QPTGFLS
 DRB1*08:15        FRNQKGHSGL QPTGFLS
 DRB1*08:16        FRNQKGHSGL QPTGFLS
-DRB1*08:17        FRNQKGHSGL QPTGFLS
+DRB1*08:17        FRNQKGHSGL QPRGFLS
 DRB1*08:18        FRNQKGHSGL QPTGFLS
 DRB1*08:19        FRNQKGHSGL QPTGFLS
 DRB1*08:20        FRNQKGHSGL QPTGFLS
@@ -17132,14 +17132,14 @@ DRB1*08:23        FRNQKGHSGL QPTGFLS
 DRB1*08:24:01     FRNQKGHSGL QPTGFLS
 DRB1*08:24:02     FRNQKGHSGL QPTGFLS
 DRB1*08:25        FRNQKGHSGL QPTGFLS
-DRB1*08:26        FRNQKGHSGL QPTGFLS
+DRB1*08:26        FRNQKGHSGL QPRGFLS
 DRB1*08:27        FRNQKGHSGL QPTGFLS
 DRB1*08:28        FRNQKGHSGL QPTGFLS
 DRB1*08:29        FRNQKGHSGL QPTGFLS
 DRB1*08:30:01     FRNQKGHSGL QPTGFLS
 DRB1*08:30:02     FRNQKGHSGL QPTGFLS
 DRB1*08:30:03     FRNQKGHSGL QPTGFLS
-DRB1*08:31        FRNQKGHSGL QPRGFLS
+DRB1*08:31        FRNQKGHSGL QPTGFLS
 DRB1*08:32        FRNQKGHSGL QPTGFLS
 DRB1*08:33        FRNQKGHSGL QPTGFLS
 DRB1*08:34        FRNQKGHSGL QPTGFLS
@@ -17148,24 +17148,24 @@ DRB1*08:36:01     FRNQKGHSGL QPTGFLS
 DRB1*08:36:02     FRNQKGHSGL QPTGFLS
 DRB1*08:37        FRNQKGHSGL QPTGFLS
 DRB1*08:38        FRNQKGHSGL QPTGFLS
-DRB1*08:39        FRNQKGHSGL QPTGFLS
+DRB1*08:39        FRNQKGHSGL QPRGFLS
 DRB1*08:40        FRNQKGHSGL QPTGFLS
 DRB1*08:41        FRNQKGHSGL QPTGFLS
 DRB1*08:42        FRNQKGHSGL QPTGFLS
-DRB1*08:43        FRNQKGHSGL QPTGFLS
+DRB1*08:43        FRNQKGHSGL QPRGFLS
 DRB1*08:44        FRNQKGHSGL QPTGFLS
 DRB1*08:45:01     FRNQKGHSGL QPTGFLS
 DRB1*08:45:02     FRNQKGHSGL QPTGFLS
 DRB1*08:46        FRNQKGHSGL QPTGFLS
 DRB1*08:47        FRNQKGHSGL QPTGFLS
-DRB1*08:48        FRNQKGHSGL QPTGFLS
+DRB1*08:48        FRNQKGHSGL QPRGFLS
 DRB1*08:49        FRNQKGHSGL QPTGFLS
-DRB1*08:50        FRNQKGHSGL QPTGFLS
+DRB1*08:50        FRNQKGHSGL QPRGFLS
 DRB1*08:51        FRNQKGHSGL QPTGFLS
 DRB1*08:52        FRNQKGHSGL QPTGFLS
 DRB1*08:53        FRNQKGHSGL QPTGFLS
 DRB1*08:54        FRNQKGHSGL QPTGFLS
-DRB1*08:55        FRNQKGHSGL QPTGFLS
+DRB1*08:55        FRNQKGHSGL QPRGFLS
 DRB1*08:56        FRNQKGHSGL QPTGFLS
 DRB1*08:57        FRNQKGHSGL QPTGFLS
 DRB1*08:58        FRNQKGHSGL QPTGFLS
@@ -17174,7 +17174,7 @@ DRB1*08:60N       ~~~~~~~~~~ ~~~~~~~
 DRB1*08:61        FRNQKGHSGL QPTGFLS
 DRB1*08:62        FRNQKGHSGL QPTGFLS
 DRB1*08:63        FRNQKGHSGL QPTGFLS
-DRB1*08:64        FRNQKGHSGL QPTGFLS
+DRB1*08:64        FRNQKGHSGL QPRGFLS
 DRB1*08:65        FRNQKGHSGL QPTGFLS
 DRB1*08:66        FRNQKGHSGL QPTGFLS
 DRB1*08:67        FRNQKGHSGL QPTGFLS
@@ -17190,28 +17190,28 @@ DRB1*08:75        FRNQKGHSGL QPTGFLS
 DRB1*08:76        FRNQKGHSGL QPTGFLS
 DRB1*08:77        FRNQKGHSGL QPRGFLS
 DRB1*08:78N       ~~~~~~~~~~ ~~~~~~~
-DRB1*08:79        FRNQKGHSGL QPTGFLS
+DRB1*08:79        FRNQKGHSGL QPRGFLS
 DRB1*08:80        FRNQKGHSGL QPTGFLS
 DRB1*08:81        FRNQKGHSGL QPTGFLS
 DRB1*08:82        FRNQKGHSGL QPTGFLS
 DRB1*08:83        FRNQKGHSGL QPTGFLS
 DRB1*08:84        FRNQKGHSGL QPTGFLS
 DRB1*08:85        FRNQKGHSGL QPTGFLS
-DRB1*08:86        FRNQKGHSGL QPTGFLS
-DRB1*08:87        FRNQKGHSGL QPTGFLS
-DRB1*08:88        FRNQKGHSGL QPTGFLS
+DRB1*08:86        FRNQKGHSGL QPRGFLS
+DRB1*08:87        FRNQKGHSGL QPRGFLS
+DRB1*08:88        FRNQKGHSGL QPRGFLS
 DRB1*08:89N       ~~~~~~~~~~ ~~~~~~~
 DRB1*08:90        FRNQKGHSGL QPTGFLS
 DRB1*08:91        FRNQKGHSGL QPTGFLS
 DRB1*08:92        FRNQKGHSGL QPTGFLS
-DRB1*08:93        FRNQKGHSGL QPTGFLS
+DRB1*08:93        FRNQKGHSGL QPRGFLS
 DRB1*08:94        FRNQKGHSGL QPTGFLS
 DRB1*08:95        FRNQKGHSGL QPTGFLS
-DRB1*08:96        FRNQKGHSGL QPTGFLS
+DRB1*08:96        FRNQKGHSGL QPRGFLS
 DRB1*08:97        FRNQKGHSGL QPTGFLS
 DRB1*08:98        FRNQKGHSGL QPTGFLS
 DRB1*08:99        FRNQKGHSGL QPTGFLS
-DRB1*08:100       FRNQKGHSGL QPTGFLS
+DRB1*08:100       FRNQKGHSGL QPRGFLS
 DRB1*08:101       FRNQKGHSGL QPTGFLS
 DRB1*08:102       FRNQKGHSGL QPTGFLS
 DRB1*08:103       FRNQKGHSGL QPTGFLS
@@ -17275,54 +17275,54 @@ DRB1*09:44        FRNQKGHSGL QPTGFLS
 DRB1*10:01:01:01  FRNQKGHSGL PPTGFLS
 DRB1*10:01:01:02  FRNQKGHSGL PPTGFLS
 DRB1*10:01:01:03  FRNQKGHSGL PPTGFLS
-DRB1*10:01:02     FRNQKGHSGL QPTGFLS
-DRB1*10:01:03     FRNQKGHSGL QPTGFLS
-DRB1*10:01:04     FRNQKGHSGL QPTGFLS
+DRB1*10:01:02     FRNQKGHSGL PPTGFLS
+DRB1*10:01:03     FRNQKGHSGL PPTGFLS
+DRB1*10:01:04     FRNQKGHSGL PPTGFLS
 DRB1*10:01:05     FRNQKGHSGL PPTGFLS
-DRB1*10:01:06     FRNQKGHSGL QPTGFLS
-DRB1*10:01:07     FRNQKGHSGL QPTGFLS
-DRB1*10:01:08     FRNQKGHSGL QPTGFLS
-DRB1*10:01:09     FRNQKGHSGL QPTGFLS
-DRB1*10:01:10     FRNQKGHSGL QPTGFLS
-DRB1*10:01:11     FRNQKGHSGL QPTGFLS
+DRB1*10:01:06     FRNQKGHSGL PPTGFLS
+DRB1*10:01:07     FRNQKGHSGL PPTGFLS
+DRB1*10:01:08     FRNQKGHSGL PPTGFLS
+DRB1*10:01:09     FRNQKGHSGL PPTGFLS
+DRB1*10:01:10     FRNQKGHSGL PPTGFLS
+DRB1*10:01:11     FRNQKGHSGL PPTGFLS
 DRB1*10:01:12     FRNQKGHSGL PPTGFLS
-DRB1*10:01:13     FRNQKGHSGL QPTGFLS
-DRB1*10:01:14     FRNQKGHSGL QPTGFLS
-DRB1*10:02        FRNQKGHSGL QPTGFLS
-DRB1*10:03        FRNQKGHSGL QPTGFLS
-DRB1*10:04        FRNQKGHSGL QPTGFLS
-DRB1*10:05        FRNQKGHSGL QPTGFLS
-DRB1*10:06        FRNQKGHSGL QPTGFLS
-DRB1*10:07        FRNQKGHSGL QPTGFLS
-DRB1*10:08        FRNQKGHSGL QPTGFLS
-DRB1*10:09        FRNQKGHSGL QPTGFLS
-DRB1*10:10        FRNQKGHSGL QPTGFLS
-DRB1*10:11        FRNQKGHSGL QPTGFLS
-DRB1*10:12        FRNQKGHSGL QPTGFLS
-DRB1*10:13        FRNQKGHSGL QPTGFLS
-DRB1*10:14        FRNQKGHSGL QPTGFLS
-DRB1*10:15        FRNQKGHSGL QPTGFLS
-DRB1*10:16        FRNQKGHSGL QPTGFLS
-DRB1*10:17        FRNQKGHSGL QPTGFLS
-DRB1*10:18        FRNQKGHSGL QPTGFLS
-DRB1*10:19        FRNQKGHSGL QPTGFLS
-DRB1*10:20        FRNQKGHSGL QPTGFLS
-DRB1*10:21        FRNQKGHSGL QPTGFLS
-DRB1*10:22        FRNQKGHSGL QPTGFLS
-DRB1*10:23        FRNQKGHSGL QPTGFLS
-DRB1*10:24        FRNQKGHSGL QPTGFLS
-DRB1*10:25        FRNQKGHSGL QPTGFLS
-DRB1*10:26        FRNQKGHSGL QPTGFLS
-DRB1*10:27        FRNQKGHSGL QPTGFLS
-DRB1*10:28        FRNQKGHSGL QPTGFLS
-DRB1*10:29        FRNQKGHSGL QPTGFLS
-DRB1*10:30        FRNQKGHSGL QPTGFLS
-DRB1*10:31        FRNQKGHSGL QPTGFLS
-DRB1*10:32        FRNQKGHSGL QPTGFLS
-DRB1*10:33        FRNQKGHSGL QPTGFLS
-DRB1*10:34        FRNQKGHSGL QPTGFLS
-DRB1*10:35        FRNQKGHSGL QPTGFLS
-DRB1*10:36        FRNQKGHSGL QPTGFLS
+DRB1*10:01:13     FRNQKGHSGL PPTGFLS
+DRB1*10:01:14     FRNQKGHSGL PPTGFLS
+DRB1*10:02        FRNQKGHSGL PPTGFLS
+DRB1*10:03        FRNQKGHSGL PPTGFLS
+DRB1*10:04        FRNQKGHSGL PPTGFLS
+DRB1*10:05        FRNQKGHSGL PPTGFLS
+DRB1*10:06        FRNQKGHSGL PPTGFLS
+DRB1*10:07        FRNQKGHSGL PPTGFLS
+DRB1*10:08        FRNQKGHSGL PPTGFLS
+DRB1*10:09        FRNQKGHSGL PPTGFLS
+DRB1*10:10        FRNQKGHSGL PPTGFLS
+DRB1*10:11        FRNQKGHSGL PPTGFLS
+DRB1*10:12        FRNQKGHSGL PPTGFLS
+DRB1*10:13        FRNQKGHSGL PPTGFLS
+DRB1*10:14        FRNQKGHSGL PPTGFLS
+DRB1*10:15        FRNQKGHSGL PPTGFLS
+DRB1*10:16        FRNQKGHSGL PPTGFLS
+DRB1*10:17        FRNQKGHSGL PPTGFLS
+DRB1*10:18        FRNQKGHSGL PPTGFLS
+DRB1*10:19        FRNQKGHSGL PPTGFLS
+DRB1*10:20        FRNQKGHSGL PPTGFLS
+DRB1*10:21        FRNQKGHSGL PPTGFLS
+DRB1*10:22        FRNQKGHSGL PPTGFLS
+DRB1*10:23        FRNQKGHSGL PPTGFLS
+DRB1*10:24        FRNQKGHSGL PPTGFLS
+DRB1*10:25        FRNQKGHSGL PPTGFLS
+DRB1*10:26        FRNQKGHSGL PPTGFLS
+DRB1*10:27        FRNQKGHSGL PPTGFLS
+DRB1*10:28        FRNQKGHSGL PPTGFLS
+DRB1*10:29        FRNQKGHSGL PPTGFLS
+DRB1*10:30        FRNQKGHSGL PPTGFLS
+DRB1*10:31        FRNQKGHSGL PPTGFLS
+DRB1*10:32        FRNQKGHSGL PPTGFLS
+DRB1*10:33        FRNQKGHSGL PPTGFLS
+DRB1*10:34        FRNQKGHSGL PPTGFLS
+DRB1*10:35        FRNQKGHSGL PPTGFLS
+DRB1*10:36        FRNQKGHSGL PPTGFLS
 DRB1*10:37        FRNQKGHSGL PPTGFLS
 DRB1*11:01:01:01  FRNQKGHSGL QPRGFLS
 DRB1*11:01:01:02  FRNQKGHSGL QPRGFLS
@@ -17426,7 +17426,7 @@ DRB1*11:19:02     FRNQKGHSGL QPRGFLS
 DRB1*11:19:03     FRNQKGHSGL QPRGFLS
 DRB1*11:20        FRNQKGHSGL QPRGFLS
 DRB1*11:21        FRNQKGHSGL QPRGFLS
-DRB1*11:22        FRNQKGHSGL QPRGFLS
+DRB1*11:22        FRNQKGHSGL QPTGFLS
 DRB1*11:23:01     FRNQKGHSGL QPRGFLS
 DRB1*11:23:02     FRNQKGHSGL QPRGFLS
 DRB1*11:24:01     FRNQKGHSGL QPRGFLS
@@ -17623,8 +17623,8 @@ DRB1*11:189       FRNQKGHSGL QPRGFLS
 DRB1*11:190       FRNQKGHSGL QPRGFLS
 DRB1*11:191       FRNQKGHSGL QPRGFLS
 DRB1*11:192       FRNQKGHSGL QPRGFLS
-DRB1*11:193:01    FRNQKGHSGL QPRGFLS
-DRB1*11:193:02    FRNQKGHSGL QPRGFLS
+DRB1*11:193:01    FRNQKGHSGL QPTGFLS
+DRB1*11:193:02    FRNQKGHSGL QPTGFLS
 DRB1*11:194       FRNQKGHSGL QPRGFLS
 DRB1*11:195       FRNQKGHSGL QPRGFLS
 DRB1*11:196       FRNQKGHSGL QPRGFLS
@@ -17889,7 +17889,7 @@ DRB1*13:12:01     FRNQKGHSGL QPRGFLS
 DRB1*13:12:02     FRNQKGHSGL QPRGFLS
 DRB1*13:12:03     FRNQKGHSGL QPRGFLS
 DRB1*13:12:04     FRNQKGHSGL QPRGFLS
-DRB1*13:13        FRNQKGHSGL QPTGFLS
+DRB1*13:13        FRNQKGHSGL QPRGFLS
 DRB1*13:14:01     FRNQKGHSGL QPRGFLS
 DRB1*13:14:02     FRNQKGHSGL QPRGFLS
 DRB1*13:14:03     FRNQKGHSGL QPRGFLS
@@ -17944,7 +17944,7 @@ DRB1*13:51        FRNQKGHSGL QPRGFLS
 DRB1*13:52        FRNQKGHSGL QPRGFLS
 DRB1*13:53        FRNQKGHSGL QPRGFLS
 DRB1*13:54        FRNQKGHSGL QPRGFLS
-DRB1*13:55        FRNQKGHSGL QPTGFLS
+DRB1*13:55        FRNQKGHSGL QPRGFLS
 DRB1*13:56        FRNQKGHSGL QPRGFLS
 DRB1*13:57        FRNQKGHSGL QPRGFLS
 DRB1*13:58        FRNQKGHSGL QPRGFLS
@@ -18049,7 +18049,7 @@ DRB1*13:150       FRNQKGHSGL QPRGFLS
 DRB1*13:151       FRNQKGHSGL QPRGFLS
 DRB1*13:152       FRNQKGHSGL QPRGFLS
 DRB1*13:153       FRNQKGHSGL QPRGFLS
-DRB1*13:154       FRNQKGHSGL QPTGFLS
+DRB1*13:154       FRNQKGHSGL QPRGFLS
 DRB1*13:155       FRNQKGHSGL QPRGFLS
 DRB1*13:156       FRNQKGHSGL QPRGFLS
 DRB1*13:157       FRNQKGHSGL QPRGFLS
@@ -18183,7 +18183,7 @@ DRB1*13:282       FRNQKGHSGL QPRGFLS
 DRB1*13:283       FRNQKGHSGL QPRGFLS
 DRB1*13:284       FRNQKGHSGL QPRGFLS
 DRB1*13:285       FRNQKGHSGL QPRGFLS
-DRB1*13:286       FRNQKGHSGL QPRGFLS
+DRB1*13:286       FRNQKGHSGL QPTGFLS
 DRB1*13:287       FRNQKGHSGL QPRGFLS
 DRB1*13:288       FRNQKGHSGL QPRGFLS
 DRB1*13:290       FRNQKGHSGL QPRGFLS
