@@ -1,6 +1,6 @@
 !!AA_MULTIPLE_ALIGNMENT 1.0
 
-    MSF: 275  Type: P  August 27, 2023 16:02  Check: 7199  ..
+    MSF: 275  Type: P  August 26, 2023 21:20  Check: 7691  ..
 
  Name: DQB1*05:01:01:01    Len:    275  Check:  990  Weight: -1.00
  Name: DQB1*05:01:01:02    Len:    275  Check:  990  Weight: -1.00
@@ -96,18 +96,18 @@
  Name: DQB1*05:02:01:13    Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:01:14    Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:01:15    Len:    275  Check:  426  Weight: -1.00
- Name: DQB1*05:02:02       Len:    275  Check:  456  Weight: -1.00
+ Name: DQB1*05:02:02       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:03       Len:    275  Check:  426  Weight: -1.00
- Name: DQB1*05:02:04       Len:    275  Check:  456  Weight: -1.00
+ Name: DQB1*05:02:04       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:05       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:06       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:07       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:08       Len:    275  Check:  426  Weight: -1.00
- Name: DQB1*05:02:09       Len:    275  Check:  456  Weight: -1.00
- Name: DQB1*05:02:10       Len:    275  Check:  456  Weight: -1.00
+ Name: DQB1*05:02:09       Len:    275  Check:  426  Weight: -1.00
+ Name: DQB1*05:02:10       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:11       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:12       Len:    275  Check:  426  Weight: -1.00
- Name: DQB1*05:02:13       Len:    275  Check:  456  Weight: -1.00
+ Name: DQB1*05:02:13       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:14       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:15       Len:    275  Check:  426  Weight: -1.00
  Name: DQB1*05:02:16       Len:    275  Check:  426  Weight: -1.00
@@ -128,17 +128,17 @@
  Name: DQB1*05:03:04       Len:    275  Check:  414  Weight: -1.00
  Name: DQB1*05:03:05       Len:    275  Check:  414  Weight: -1.00
  Name: DQB1*05:03:06       Len:    275  Check:  414  Weight: -1.00
- Name: DQB1*05:03:07       Len:    275  Check:  414  Weight: -1.00
- Name: DQB1*05:03:08       Len:    275  Check:  414  Weight: -1.00
+ Name: DQB1*05:03:07       Len:    275  Check: 9946  Weight: -1.00
+ Name: DQB1*05:03:08       Len:    275  Check: 9946  Weight: -1.00
  Name: DQB1*05:03:09       Len:    275  Check:  414  Weight: -1.00
  Name: DQB1*05:03:10       Len:    275  Check:  414  Weight: -1.00
  Name: DQB1*05:03:11       Len:    275  Check:  414  Weight: -1.00
- Name: DQB1*05:03:12       Len:    275  Check:  414  Weight: -1.00
- Name: DQB1*05:03:13       Len:    275  Check:  414  Weight: -1.00
+ Name: DQB1*05:03:12       Len:    275  Check: 9946  Weight: -1.00
+ Name: DQB1*05:03:13       Len:    275  Check: 9946  Weight: -1.00
  Name: DQB1*05:03:14       Len:    275  Check:  414  Weight: -1.00
- Name: DQB1*05:03:15       Len:    275  Check:  414  Weight: -1.00
- Name: DQB1*05:03:16       Len:    275  Check:  414  Weight: -1.00
- Name: DQB1*05:03:17       Len:    275  Check:  414  Weight: -1.00
+ Name: DQB1*05:03:15       Len:    275  Check: 9946  Weight: -1.00
+ Name: DQB1*05:03:16       Len:    275  Check: 9946  Weight: -1.00
+ Name: DQB1*05:03:17       Len:    275  Check: 9946  Weight: -1.00
  Name: DQB1*05:03:18       Len:    275  Check:  414  Weight: -1.00
  Name: DQB1*05:03:19       Len:    275  Check:  414  Weight: -1.00
  Name: DQB1*05:03:21       Len:    275  Check:  414  Weight: -1.00
@@ -146,16 +146,16 @@
  Name: DQB1*05:03:24       Len:    275  Check:  414  Weight: -1.00
  Name: DQB1*05:03:30       Len:    275  Check:  414  Weight: -1.00
  Name: DQB1*05:04          Len:    275  Check: 9972  Weight: -1.00
- Name: DQB1*05:05:01       Len:    275  Check:  183  Weight: -1.00
+ Name: DQB1*05:05:01       Len:    275  Check:  153  Weight: -1.00
  Name: DQB1*05:05:02       Len:    275  Check:  153  Weight: -1.00
- Name: DQB1*05:06:01       Len:    275  Check:  504  Weight: -1.00
- Name: DQB1*05:06:02       Len:    275  Check:  504  Weight: -1.00
+ Name: DQB1*05:06:01       Len:    275  Check:   36  Weight: -1.00
+ Name: DQB1*05:06:02       Len:    275  Check:   36  Weight: -1.00
  Name: DQB1*05:07          Len:    275  Check:  850  Weight: -1.00
- Name: DQB1*05:09          Len:    275  Check:  162  Weight: -1.00
+ Name: DQB1*05:09          Len:    275  Check: 9694  Weight: -1.00
  Name: DQB1*05:11:01       Len:    275  Check:  717  Weight: -1.00
  Name: DQB1*05:11:02       Len:    275  Check:  717  Weight: -1.00
  Name: DQB1*05:12          Len:    275  Check:  430  Weight: -1.00
- Name: DQB1*05:13          Len:    275  Check:  260  Weight: -1.00
+ Name: DQB1*05:13          Len:    275  Check: 9792  Weight: -1.00
  Name: DQB1*05:14          Len:    275  Check:  424  Weight: -1.00
  Name: DQB1*05:15          Len:    275  Check:  407  Weight: -1.00
  Name: DQB1*05:16          Len:    275  Check:  429  Weight: -1.00
@@ -167,11 +167,11 @@
  Name: DQB1*05:20:02       Len:    275  Check: 1562  Weight: -1.00
  Name: DQB1*05:21          Len:    275  Check:  933  Weight: -1.00
  Name: DQB1*05:22          Len:    275  Check:  932  Weight: -1.00
- Name: DQB1*05:24          Len:    275  Check:  576  Weight: -1.00
+ Name: DQB1*05:24          Len:    275  Check:  108  Weight: -1.00
  Name: DQB1*05:25          Len:    275  Check: 1030  Weight: -1.00
- Name: DQB1*05:26          Len:    275  Check: 9896  Weight: -1.00
+ Name: DQB1*05:26          Len:    275  Check: 9866  Weight: -1.00
  Name: DQB1*05:27          Len:    275  Check:  902  Weight: -1.00
- Name: DQB1*05:28          Len:    275  Check:  297  Weight: -1.00
+ Name: DQB1*05:28          Len:    275  Check: 9829  Weight: -1.00
  Name: DQB1*05:29          Len:    275  Check:  738  Weight: -1.00
  Name: DQB1*05:30          Len:    275  Check: 1008  Weight: -1.00
  Name: DQB1*05:31          Len:    275  Check: 1110  Weight: -1.00
@@ -197,22 +197,22 @@
  Name: DQB1*05:50          Len:    275  Check:  274  Weight: -1.00
  Name: DQB1*05:51          Len:    275  Check: 1036  Weight: -1.00
  Name: DQB1*05:52          Len:    275  Check:  544  Weight: -1.00
- Name: DQB1*05:53          Len:    275  Check:  447  Weight: -1.00
+ Name: DQB1*05:53          Len:    275  Check:  417  Weight: -1.00
  Name: DQB1*05:54          Len:    275  Check:  957  Weight: -1.00
  Name: DQB1*05:55          Len:    275  Check: 1105  Weight: -1.00
  Name: DQB1*05:56          Len:    275  Check:   54  Weight: -1.00
  Name: DQB1*05:57          Len:    275  Check:  586  Weight: -1.00
- Name: DQB1*05:58          Len:    275  Check:  734  Weight: -1.00
- Name: DQB1*05:59          Len:    275  Check:  416  Weight: -1.00
- Name: DQB1*05:60          Len:    275  Check:   72  Weight: -1.00
+ Name: DQB1*05:58          Len:    275  Check:  266  Weight: -1.00
+ Name: DQB1*05:59          Len:    275  Check:  386  Weight: -1.00
+ Name: DQB1*05:60          Len:    275  Check: 9604  Weight: -1.00
  Name: DQB1*05:61          Len:    275  Check:  619  Weight: -1.00
  Name: DQB1*05:62          Len:    275  Check:  211  Weight: -1.00
  Name: DQB1*05:63          Len:    275  Check:  950  Weight: -1.00
- Name: DQB1*05:64          Len:    275  Check:  909  Weight: -1.00
- Name: DQB1*05:65          Len:    275  Check:  372  Weight: -1.00
+ Name: DQB1*05:64          Len:    275  Check:  441  Weight: -1.00
+ Name: DQB1*05:65          Len:    275  Check:  342  Weight: -1.00
  Name: DQB1*05:66:01       Len:    275  Check:  141  Weight: -1.00
- Name: DQB1*05:66:02       Len:    275  Check:  141  Weight: -1.00
- Name: DQB1*05:67          Len:    275  Check:  496  Weight: -1.00
+ Name: DQB1*05:66:02       Len:    275  Check: 9673  Weight: -1.00
+ Name: DQB1*05:67          Len:    275  Check:   28  Weight: -1.00
  Name: DQB1*05:68          Len:    275  Check: 1170  Weight: -1.00
  Name: DQB1*05:69          Len:    275  Check: 2359  Weight: -1.00
  Name: DQB1*05:70          Len:    275  Check:  846  Weight: -1.00
@@ -223,57 +223,57 @@
  Name: DQB1*05:75          Len:    275  Check:  871  Weight: -1.00
  Name: DQB1*05:76          Len:    275  Check: 1140  Weight: -1.00
  Name: DQB1*05:77          Len:    275  Check: 9999  Weight: -1.00
- Name: DQB1*05:79          Len:    275  Check:   96  Weight: -1.00
+ Name: DQB1*05:79          Len:    275  Check:   66  Weight: -1.00
  Name: DQB1*05:80          Len:    275  Check: 1032  Weight: -1.00
  Name: DQB1*05:81          Len:    275  Check: 1212  Weight: -1.00
  Name: DQB1*05:82          Len:    275  Check: 1002  Weight: -1.00
- Name: DQB1*05:83          Len:    275  Check:  486  Weight: -1.00
+ Name: DQB1*05:83          Len:    275  Check:  456  Weight: -1.00
  Name: DQB1*05:84          Len:    275  Check:  988  Weight: -1.00
- Name: DQB1*05:85          Len:    275  Check:  524  Weight: -1.00
- Name: DQB1*05:86          Len:    275  Check:  228  Weight: -1.00
+ Name: DQB1*05:85          Len:    275  Check:   56  Weight: -1.00
+ Name: DQB1*05:86          Len:    275  Check:  198  Weight: -1.00
  Name: DQB1*05:87Q         Len:    275  Check: 3314  Weight: -1.00
  Name: DQB1*05:88          Len:    275  Check:  882  Weight: -1.00
  Name: DQB1*05:89:01       Len:    275  Check:  967  Weight: -1.00
  Name: DQB1*05:89:02       Len:    275  Check:  967  Weight: -1.00
  Name: DQB1*05:90N         Len:    275  Check: 3314  Weight: -1.00
- Name: DQB1*05:91          Len:    275  Check:  225  Weight: -1.00
+ Name: DQB1*05:91          Len:    275  Check: 9757  Weight: -1.00
  Name: DQB1*05:92          Len:    275  Check: 1020  Weight: -1.00
  Name: DQB1*05:93          Len:    275  Check: 1485  Weight: -1.00
- Name: DQB1*05:94          Len:    275  Check:  438  Weight: -1.00
+ Name: DQB1*05:94          Len:    275  Check:  408  Weight: -1.00
  Name: DQB1*05:95          Len:    275  Check:  605  Weight: -1.00
  Name: DQB1*05:97          Len:    275  Check: 1053  Weight: -1.00
- Name: DQB1*05:98          Len:    275  Check:  262  Weight: -1.00
+ Name: DQB1*05:98          Len:    275  Check: 9794  Weight: -1.00
  Name: DQB1*05:99          Len:    275  Check:  956  Weight: -1.00
- Name: DQB1*05:100         Len:    275  Check:  316  Weight: -1.00
- Name: DQB1*05:101         Len:    275  Check: 1242  Weight: -1.00
+ Name: DQB1*05:100         Len:    275  Check:  286  Weight: -1.00
+ Name: DQB1*05:101         Len:    275  Check:  774  Weight: -1.00
  Name: DQB1*05:102         Len:    275  Check:  706  Weight: -1.00
  Name: DQB1*05:103         Len:    275  Check:  934  Weight: -1.00
  Name: DQB1*05:104         Len:    275  Check:  375  Weight: -1.00
  Name: DQB1*05:105         Len:    275  Check:  987  Weight: -1.00
  Name: DQB1*05:106         Len:    275  Check:  309  Weight: -1.00
  Name: DQB1*05:107         Len:    275  Check: 1449  Weight: -1.00
- Name: DQB1*05:109         Len:    275  Check:  444  Weight: -1.00
+ Name: DQB1*05:109         Len:    275  Check: 9976  Weight: -1.00
  Name: DQB1*05:110N        Len:    275  Check: 3314  Weight: -1.00
  Name: DQB1*05:111         Len:    275  Check: 1078  Weight: -1.00
  Name: DQB1*05:112         Len:    275  Check:  612  Weight: -1.00
- Name: DQB1*05:113         Len:    275  Check: 9906  Weight: -1.00
+ Name: DQB1*05:113         Len:    275  Check: 9876  Weight: -1.00
  Name: DQB1*05:114         Len:    275  Check: 1020  Weight: -1.00
  Name: DQB1*05:115         Len:    275  Check:  801  Weight: -1.00
- Name: DQB1*05:116         Len:    275  Check:  304  Weight: -1.00
- Name: DQB1*05:117         Len:    275  Check:  302  Weight: -1.00
- Name: DQB1*05:118         Len:    275  Check:   78  Weight: -1.00
- Name: DQB1*05:119         Len:    275  Check: 9681  Weight: -1.00
+ Name: DQB1*05:116         Len:    275  Check:  274  Weight: -1.00
+ Name: DQB1*05:117         Len:    275  Check:  272  Weight: -1.00
+ Name: DQB1*05:118         Len:    275  Check:   48  Weight: -1.00
+ Name: DQB1*05:119         Len:    275  Check: 9213  Weight: -1.00
  Name: DQB1*05:120         Len:    275  Check:  293  Weight: -1.00
- Name: DQB1*05:121         Len:    275  Check: 9881  Weight: -1.00
+ Name: DQB1*05:121         Len:    275  Check: 9413  Weight: -1.00
  Name: DQB1*05:122         Len:    275  Check:  766  Weight: -1.00
- Name: DQB1*05:123         Len:    275  Check: 1028  Weight: -1.00
+ Name: DQB1*05:123         Len:    275  Check:  998  Weight: -1.00
  Name: DQB1*05:124         Len:    275  Check:  964  Weight: -1.00
  Name: DQB1*05:125         Len:    275  Check:  472  Weight: -1.00
  Name: DQB1*05:126         Len:    275  Check:  513  Weight: -1.00
  Name: DQB1*05:127         Len:    275  Check: 1864  Weight: -1.00
  Name: DQB1*05:128N        Len:    275  Check: 3314  Weight: -1.00
- Name: DQB1*05:129         Len:    275  Check:  290  Weight: -1.00
- Name: DQB1*05:130         Len:    275  Check:  524  Weight: -1.00
+ Name: DQB1*05:129         Len:    275  Check: 9822  Weight: -1.00
+ Name: DQB1*05:130         Len:    275  Check:   56  Weight: -1.00
  Name: DQB1*05:131         Len:    275  Check:  354  Weight: -1.00
  Name: DQB1*05:132Q        Len:    275  Check: 9811  Weight: -1.00
  Name: DQB1*05:133         Len:    275  Check: 1332  Weight: -1.00
@@ -282,14 +282,14 @@
  Name: DQB1*05:137         Len:    275  Check: 1420  Weight: -1.00
  Name: DQB1*05:138         Len:    275  Check: 1137  Weight: -1.00
  Name: DQB1*05:139         Len:    275  Check:  654  Weight: -1.00
- Name: DQB1*05:140         Len:    275  Check:  708  Weight: -1.00
+ Name: DQB1*05:140         Len:    275  Check:  240  Weight: -1.00
  Name: DQB1*05:141         Len:    275  Check:  574  Weight: -1.00
- Name: DQB1*05:142         Len:    275  Check:  504  Weight: -1.00
- Name: DQB1*05:143         Len:    275  Check: 1041  Weight: -1.00
+ Name: DQB1*05:142         Len:    275  Check:  474  Weight: -1.00
+ Name: DQB1*05:143         Len:    275  Check:  573  Weight: -1.00
  Name: DQB1*05:144         Len:    275  Check:  942  Weight: -1.00
- Name: DQB1*05:145         Len:    275  Check: 1284  Weight: -1.00
- Name: DQB1*05:146         Len:    275  Check:  541  Weight: -1.00
- Name: DQB1*05:147         Len:    275  Check: 9589  Weight: -1.00
+ Name: DQB1*05:145         Len:    275  Check: 1254  Weight: -1.00
+ Name: DQB1*05:146         Len:    275  Check:  511  Weight: -1.00
+ Name: DQB1*05:147         Len:    275  Check: 9121  Weight: -1.00
  Name: DQB1*05:148         Len:    275  Check: 1014  Weight: -1.00
  Name: DQB1*05:150         Len:    275  Check: 1857  Weight: -1.00
  Name: DQB1*05:151         Len:    275  Check:  918  Weight: -1.00
@@ -340,7 +340,7 @@
  Name: DQB1*05:197         Len:    275  Check:  773  Weight: -1.00
  Name: DQB1*05:198         Len:    275  Check:  385  Weight: -1.00
  Name: DQB1*05:199         Len:    275  Check:  686  Weight: -1.00
- Name: DQB1*05:200         Len:    275  Check:  396  Weight: -1.00
+ Name: DQB1*05:200         Len:    275  Check: 9928  Weight: -1.00
  Name: DQB1*05:201         Len:    275  Check:  714  Weight: -1.00
  Name: DQB1*05:202         Len:    275  Check: 1281  Weight: -1.00
  Name: DQB1*05:203         Len:    275  Check:  332  Weight: -1.00
@@ -380,17 +380,17 @@
  Name: DQB1*05:241         Len:    275  Check:  396  Weight: -1.00
  Name: DQB1*05:242         Len:    275  Check:  756  Weight: -1.00
  Name: DQB1*05:243         Len:    275  Check:  442  Weight: -1.00
- Name: DQB1*05:244         Len:    275  Check:  386  Weight: -1.00
- Name: DQB1*05:245         Len:    275  Check:  468  Weight: -1.00
+ Name: DQB1*05:244         Len:    275  Check: 9918  Weight: -1.00
+ Name: DQB1*05:245         Len:    275  Check:    0  Weight: -1.00
  Name: DQB1*05:246         Len:    275  Check:  549  Weight: -1.00
- Name: DQB1*05:247         Len:    275  Check:  476  Weight: -1.00
+ Name: DQB1*05:247         Len:    275  Check:  446  Weight: -1.00
  Name: DQB1*05:248         Len:    275  Check:  705  Weight: -1.00
  Name: DQB1*05:249         Len:    275  Check: 1010  Weight: -1.00
  Name: DQB1*05:250         Len:    275  Check:  456  Weight: -1.00
  Name: DQB1*05:251         Len:    275  Check: 9871  Weight: -1.00
  Name: DQB1*05:252         Len:    275  Check:  850  Weight: -1.00
  Name: DQB1*05:253         Len:    275  Check:  298  Weight: -1.00
- Name: DQB1*05:254         Len:    275  Check:  732  Weight: -1.00
+ Name: DQB1*05:254         Len:    275  Check:  702  Weight: -1.00
  Name: DQB1*05:255         Len:    275  Check: 1225  Weight: -1.00
  Name: DQB1*05:256         Len:    275  Check: 1090  Weight: -1.00
  Name: DQB1*05:257         Len:    275  Check:  231  Weight: -1.00
@@ -433,7 +433,7 @@
  Name: DQB1*05:301         Len:    275  Check: 1288  Weight: -1.00
  Name: DQB1*05:302         Len:    275  Check:  430  Weight: -1.00
  Name: DQB1*05:303         Len:    275  Check:  786  Weight: -1.00
- Name: DQB1*05:304         Len:    275  Check:  423  Weight: -1.00
+ Name: DQB1*05:304         Len:    275  Check:  393  Weight: -1.00
  Name: DQB1*05:307         Len:    275  Check: 1020  Weight: -1.00
  Name: DQB1*05:308         Len:    275  Check: 1270  Weight: -1.00
  Name: DQB1*05:309         Len:    275  Check:  380  Weight: -1.00
@@ -444,7 +444,7 @@
  Name: DQB1*05:316N        Len:    275  Check: 9089  Weight: -1.00
  Name: DQB1*05:317         Len:    275  Check: 1190  Weight: -1.00
  Name: DQB1*05:319         Len:    275  Check:  810  Weight: -1.00
- Name: DQB1*05:320         Len:    275  Check:  912  Weight: -1.00
+ Name: DQB1*05:320         Len:    275  Check:  882  Weight: -1.00
  Name: DQB1*05:321         Len:    275  Check:  379  Weight: -1.00
  Name: DQB1*05:322         Len:    275  Check:  220  Weight: -1.00
  Name: DQB1*05:323         Len:    275  Check: 1116  Weight: -1.00
@@ -453,7 +453,7 @@
  Name: DQB1*06:01:06       Len:    275  Check: 6413  Weight: -1.00
  Name: DQB1*06:01:07       Len:    275  Check: 6413  Weight: -1.00
  Name: DQB1*06:01:09       Len:    275  Check: 6413  Weight: -1.00
- Name: DQB1*06:01:12       Len:    275  Check: 8675  Weight: -1.00
+ Name: DQB1*06:01:12       Len:    275  Check: 6413  Weight: -1.00
  Name: DQB1*06:01:13       Len:    275  Check: 6413  Weight: -1.00
  Name: DQB1*06:01:14       Len:    275  Check: 6413  Weight: -1.00
  Name: DQB1*06:01:15       Len:    275  Check: 6413  Weight: -1.00
@@ -503,28 +503,28 @@
  Name: DQB1*06:02:01:33    Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:01:34    Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:02       Len:    275  Check: 8757  Weight: -1.00
- Name: DQB1*06:02:03       Len:    275  Check: 8701  Weight: -1.00
- Name: DQB1*06:02:04       Len:    275  Check: 8701  Weight: -1.00
- Name: DQB1*06:02:05       Len:    275  Check: 8701  Weight: -1.00
- Name: DQB1*06:02:06       Len:    275  Check: 8701  Weight: -1.00
+ Name: DQB1*06:02:03       Len:    275  Check: 8757  Weight: -1.00
+ Name: DQB1*06:02:04       Len:    275  Check: 8757  Weight: -1.00
+ Name: DQB1*06:02:05       Len:    275  Check: 8757  Weight: -1.00
+ Name: DQB1*06:02:06       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:07       Len:    275  Check: 8757  Weight: -1.00
- Name: DQB1*06:02:08       Len:    275  Check: 8701  Weight: -1.00
- Name: DQB1*06:02:09       Len:    275  Check: 8701  Weight: -1.00
- Name: DQB1*06:02:10       Len:    275  Check: 8701  Weight: -1.00
+ Name: DQB1*06:02:08       Len:    275  Check: 8757  Weight: -1.00
+ Name: DQB1*06:02:09       Len:    275  Check: 8757  Weight: -1.00
+ Name: DQB1*06:02:10       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:11       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:12       Len:    275  Check: 8757  Weight: -1.00
- Name: DQB1*06:02:13       Len:    275  Check: 8701  Weight: -1.00
- Name: DQB1*06:02:14       Len:    275  Check: 8701  Weight: -1.00
+ Name: DQB1*06:02:13       Len:    275  Check: 8757  Weight: -1.00
+ Name: DQB1*06:02:14       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:15       Len:    275  Check: 8757  Weight: -1.00
- Name: DQB1*06:02:16       Len:    275  Check: 8701  Weight: -1.00
+ Name: DQB1*06:02:16       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:17       Len:    275  Check: 8757  Weight: -1.00
- Name: DQB1*06:02:18       Len:    275  Check: 8701  Weight: -1.00
- Name: DQB1*06:02:19       Len:    275  Check: 8701  Weight: -1.00
- Name: DQB1*06:02:20       Len:    275  Check: 8701  Weight: -1.00
- Name: DQB1*06:02:21       Len:    275  Check: 8701  Weight: -1.00
+ Name: DQB1*06:02:18       Len:    275  Check: 8757  Weight: -1.00
+ Name: DQB1*06:02:19       Len:    275  Check: 8757  Weight: -1.00
+ Name: DQB1*06:02:20       Len:    275  Check: 8757  Weight: -1.00
+ Name: DQB1*06:02:21       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:22       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:23       Len:    275  Check: 8757  Weight: -1.00
- Name: DQB1*06:02:24       Len:    275  Check: 8701  Weight: -1.00
+ Name: DQB1*06:02:24       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:25       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:26       Len:    275  Check: 8757  Weight: -1.00
  Name: DQB1*06:02:27       Len:    275  Check: 8757  Weight: -1.00
@@ -582,23 +582,23 @@
  Name: DQB1*06:03:01:20    Len:    275  Check: 9451  Weight: -1.00
  Name: DQB1*06:03:01:21    Len:    275  Check: 9451  Weight: -1.00
  Name: DQB1*06:03:02       Len:    275  Check: 9451  Weight: -1.00
- Name: DQB1*06:03:03       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:04       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:05       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:06       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:07       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:08       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:09       Len:    275  Check: 8577  Weight: -1.00
+ Name: DQB1*06:03:03       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:04       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:05       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:06       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:07       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:08       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:09       Len:    275  Check: 9451  Weight: -1.00
  Name: DQB1*06:03:10       Len:    275  Check: 9451  Weight: -1.00
  Name: DQB1*06:03:11       Len:    275  Check: 9451  Weight: -1.00
  Name: DQB1*06:03:12       Len:    275  Check: 9451  Weight: -1.00
- Name: DQB1*06:03:13       Len:    275  Check: 8577  Weight: -1.00
+ Name: DQB1*06:03:13       Len:    275  Check: 9451  Weight: -1.00
  Name: DQB1*06:03:14       Len:    275  Check: 9451  Weight: -1.00
- Name: DQB1*06:03:15       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:16       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:17       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:18       Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:03:19       Len:    275  Check: 8577  Weight: -1.00
+ Name: DQB1*06:03:15       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:16       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:17       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:18       Len:    275  Check: 9451  Weight: -1.00
+ Name: DQB1*06:03:19       Len:    275  Check: 9451  Weight: -1.00
  Name: DQB1*06:03:20       Len:    275  Check: 9451  Weight: -1.00
  Name: DQB1*06:03:21       Len:    275  Check: 9451  Weight: -1.00
  Name: DQB1*06:03:22       Len:    275  Check: 9451  Weight: -1.00
@@ -637,11 +637,11 @@
  Name: DQB1*06:04:01:07    Len:    275  Check:  660  Weight: -1.00
  Name: DQB1*06:04:02       Len:    275  Check:  660  Weight: -1.00
  Name: DQB1*06:04:03       Len:    275  Check:  660  Weight: -1.00
- Name: DQB1*06:04:04       Len:    275  Check:  444  Weight: -1.00
+ Name: DQB1*06:04:04       Len:    275  Check:  660  Weight: -1.00
  Name: DQB1*06:04:05       Len:    275  Check:  660  Weight: -1.00
  Name: DQB1*06:04:06       Len:    275  Check:  660  Weight: -1.00
  Name: DQB1*06:04:07       Len:    275  Check:  660  Weight: -1.00
- Name: DQB1*06:04:08       Len:    275  Check:  444  Weight: -1.00
+ Name: DQB1*06:04:08       Len:    275  Check:  660  Weight: -1.00
  Name: DQB1*06:04:09       Len:    275  Check:  660  Weight: -1.00
  Name: DQB1*06:04:10       Len:    275  Check:  660  Weight: -1.00
  Name: DQB1*06:04:11       Len:    275  Check:  660  Weight: -1.00
@@ -662,7 +662,7 @@
  Name: DQB1*06:07:02       Len:    275  Check:   84  Weight: -1.00
  Name: DQB1*06:08:01       Len:    275  Check:   27  Weight: -1.00
  Name: DQB1*06:08:02       Len:    275  Check:   27  Weight: -1.00
- Name: DQB1*06:08:03       Len:    275  Check: 9971  Weight: -1.00
+ Name: DQB1*06:08:03       Len:    275  Check:   27  Weight: -1.00
  Name: DQB1*06:09:01:01    Len:    275  Check:  745  Weight: -1.00
  Name: DQB1*06:09:01:02    Len:    275  Check:  745  Weight: -1.00
  Name: DQB1*06:09:01:03    Len:    275  Check:  745  Weight: -1.00
@@ -680,8 +680,8 @@
  Name: DQB1*06:10          Len:    275  Check: 9237  Weight: -1.00
  Name: DQB1*06:11:01:01    Len:    275  Check: 9536  Weight: -1.00
  Name: DQB1*06:11:01:02    Len:    275  Check: 9536  Weight: -1.00
- Name: DQB1*06:11:02       Len:    275  Check: 8662  Weight: -1.00
- Name: DQB1*06:11:03       Len:    275  Check: 8662  Weight: -1.00
+ Name: DQB1*06:11:02       Len:    275  Check: 9536  Weight: -1.00
+ Name: DQB1*06:11:03       Len:    275  Check: 9536  Weight: -1.00
  Name: DQB1*06:11:04       Len:    275  Check: 9536  Weight: -1.00
  Name: DQB1*06:12          Len:    275  Check:  250  Weight: -1.00
  Name: DQB1*06:13:01       Len:    275  Check: 9333  Weight: -1.00
@@ -703,26 +703,26 @@
  Name: DQB1*06:22:01       Len:    275  Check: 9966  Weight: -1.00
  Name: DQB1*06:22:02       Len:    275  Check: 9966  Weight: -1.00
  Name: DQB1*06:22:03       Len:    275  Check: 9966  Weight: -1.00
- Name: DQB1*06:23          Len:    275  Check: 8696  Weight: -1.00
- Name: DQB1*06:24          Len:    275  Check: 7827  Weight: -1.00
+ Name: DQB1*06:23          Len:    275  Check: 8752  Weight: -1.00
+ Name: DQB1*06:24          Len:    275  Check: 7883  Weight: -1.00
  Name: DQB1*06:25          Len:    275  Check:  564  Weight: -1.00
  Name: DQB1*06:26N         Len:    275  Check: 3324  Weight: -1.00
  Name: DQB1*06:27:01       Len:    275  Check:  522  Weight: -1.00
  Name: DQB1*06:27:02       Len:    275  Check:  466  Weight: -1.00
  Name: DQB1*06:28          Len:    275  Check: 9724  Weight: -1.00
- Name: DQB1*06:29          Len:    275  Check: 8545  Weight: -1.00
- Name: DQB1*06:30          Len:    275  Check: 7703  Weight: -1.00
- Name: DQB1*06:31          Len:    275  Check: 8531  Weight: -1.00
- Name: DQB1*06:32:01       Len:    275  Check: 9072  Weight: -1.00
+ Name: DQB1*06:29          Len:    275  Check: 8601  Weight: -1.00
+ Name: DQB1*06:30          Len:    275  Check: 8577  Weight: -1.00
+ Name: DQB1*06:31          Len:    275  Check: 9405  Weight: -1.00
+ Name: DQB1*06:32:01       Len:    275  Check: 9946  Weight: -1.00
  Name: DQB1*06:32:02       Len:    275  Check: 9946  Weight: -1.00
  Name: DQB1*06:33          Len:    275  Check: 9015  Weight: -1.00
  Name: DQB1*06:34          Len:    275  Check:  690  Weight: -1.00
- Name: DQB1*06:35          Len:    275  Check: 8495  Weight: -1.00
+ Name: DQB1*06:35          Len:    275  Check: 6233  Weight: -1.00
  Name: DQB1*06:36          Len:    275  Check:  597  Weight: -1.00
  Name: DQB1*06:37          Len:    275  Check: 9141  Weight: -1.00
  Name: DQB1*06:38          Len:    275  Check:  658  Weight: -1.00
  Name: DQB1*06:39          Len:    275  Check:  716  Weight: -1.00
- Name: DQB1*06:40          Len:    275  Check: 8655  Weight: -1.00
+ Name: DQB1*06:40          Len:    275  Check: 9529  Weight: -1.00
  Name: DQB1*06:41:01:01    Len:    275  Check: 9395  Weight: -1.00
  Name: DQB1*06:41:01:02    Len:    275  Check: 9395  Weight: -1.00
  Name: DQB1*06:41:01:03    Len:    275  Check: 9395  Weight: -1.00
@@ -735,62 +735,62 @@
  Name: DQB1*06:48:01       Len:    275  Check: 9252  Weight: -1.00
  Name: DQB1*06:48:02       Len:    275  Check: 9252  Weight: -1.00
  Name: DQB1*06:49          Len:    275  Check: 9432  Weight: -1.00
- Name: DQB1*06:50          Len:    275  Check: 8917  Weight: -1.00
+ Name: DQB1*06:50          Len:    275  Check: 8973  Weight: -1.00
  Name: DQB1*06:51:01       Len:    275  Check: 8255  Weight: -1.00
  Name: DQB1*06:51:02       Len:    275  Check: 8665  Weight: -1.00
- Name: DQB1*06:52          Len:    275  Check:  180  Weight: -1.00
+ Name: DQB1*06:52          Len:    275  Check:  396  Weight: -1.00
  Name: DQB1*06:53:01       Len:    275  Check: 6373  Weight: -1.00
- Name: DQB1*06:53:02       Len:    275  Check: 8635  Weight: -1.00
+ Name: DQB1*06:53:02       Len:    275  Check: 6373  Weight: -1.00
  Name: DQB1*06:54N         Len:    275  Check: 3606  Weight: -1.00
  Name: DQB1*06:55          Len:    275  Check: 8511  Weight: -1.00
- Name: DQB1*06:56          Len:    275  Check: 8927  Weight: -1.00
+ Name: DQB1*06:56          Len:    275  Check: 6665  Weight: -1.00
  Name: DQB1*06:57:01       Len:    275  Check: 5588  Weight: -1.00
  Name: DQB1*06:57:02       Len:    275  Check: 5588  Weight: -1.00
  Name: DQB1*06:58          Len:    275  Check:  390  Weight: -1.00
- Name: DQB1*06:59          Len:    275  Check: 8600  Weight: -1.00
- Name: DQB1*06:60          Len:    275  Check: 8793  Weight: -1.00
- Name: DQB1*06:61          Len:    275  Check: 8192  Weight: -1.00
+ Name: DQB1*06:59          Len:    275  Check: 9474  Weight: -1.00
+ Name: DQB1*06:60          Len:    275  Check: 9667  Weight: -1.00
+ Name: DQB1*06:61          Len:    275  Check: 9066  Weight: -1.00
  Name: DQB1*06:62          Len:    275  Check: 8945  Weight: -1.00
- Name: DQB1*06:63          Len:    275  Check: 8281  Weight: -1.00
- Name: DQB1*06:64          Len:    275  Check: 8232  Weight: -1.00
- Name: DQB1*06:65          Len:    275  Check: 8523  Weight: -1.00
+ Name: DQB1*06:63          Len:    275  Check: 9155  Weight: -1.00
+ Name: DQB1*06:64          Len:    275  Check: 9106  Weight: -1.00
+ Name: DQB1*06:65          Len:    275  Check: 9397  Weight: -1.00
  Name: DQB1*06:66          Len:    275  Check: 9969  Weight: -1.00
- Name: DQB1*06:67          Len:    275  Check: 7722  Weight: -1.00
+ Name: DQB1*06:67          Len:    275  Check: 8596  Weight: -1.00
  Name: DQB1*06:68          Len:    275  Check: 9079  Weight: -1.00
  Name: DQB1*06:69:01       Len:    275  Check: 9881  Weight: -1.00
  Name: DQB1*06:69:02       Len:    275  Check: 9881  Weight: -1.00
- Name: DQB1*06:70          Len:    275  Check: 8767  Weight: -1.00
- Name: DQB1*06:71          Len:    275  Check: 8533  Weight: -1.00
- Name: DQB1*06:72          Len:    275  Check: 8623  Weight: -1.00
+ Name: DQB1*06:70          Len:    275  Check: 8823  Weight: -1.00
+ Name: DQB1*06:71          Len:    275  Check: 8589  Weight: -1.00
+ Name: DQB1*06:72          Len:    275  Check: 8679  Weight: -1.00
  Name: DQB1*06:73          Len:    275  Check: 8703  Weight: -1.00
  Name: DQB1*06:74          Len:    275  Check: 8772  Weight: -1.00
  Name: DQB1*06:75N         Len:    275  Check: 3984  Weight: -1.00
- Name: DQB1*06:76          Len:    275  Check: 8794  Weight: -1.00
+ Name: DQB1*06:76          Len:    275  Check: 8850  Weight: -1.00
  Name: DQB1*06:77N         Len:    275  Check: 3283  Weight: -1.00
  Name: DQB1*06:78          Len:    275  Check: 8731  Weight: -1.00
  Name: DQB1*06:79:01       Len:    275  Check: 9030  Weight: -1.00
- Name: DQB1*06:79:02       Len:    275  Check: 8974  Weight: -1.00
- Name: DQB1*06:80          Len:    275  Check: 8723  Weight: -1.00
- Name: DQB1*06:81          Len:    275  Check: 8683  Weight: -1.00
- Name: DQB1*06:82          Len:    275  Check: 8714  Weight: -1.00
- Name: DQB1*06:83          Len:    275  Check: 9115  Weight: -1.00
+ Name: DQB1*06:79:02       Len:    275  Check: 9030  Weight: -1.00
+ Name: DQB1*06:80          Len:    275  Check: 8779  Weight: -1.00
+ Name: DQB1*06:81          Len:    275  Check: 8739  Weight: -1.00
+ Name: DQB1*06:82          Len:    275  Check: 8770  Weight: -1.00
+ Name: DQB1*06:83          Len:    275  Check: 9171  Weight: -1.00
  Name: DQB1*06:84:01:01    Len:    275  Check: 8701  Weight: -1.00
  Name: DQB1*06:84:01:02    Len:    275  Check: 8701  Weight: -1.00
  Name: DQB1*06:85          Len:    275  Check:  525  Weight: -1.00
- Name: DQB1*06:86          Len:    275  Check: 9938  Weight: -1.00
+ Name: DQB1*06:86          Len:    275  Check:  154  Weight: -1.00
  Name: DQB1*06:87          Len:    275  Check: 9251  Weight: -1.00
  Name: DQB1*06:88:01:01    Len:    275  Check:  801  Weight: -1.00
  Name: DQB1*06:88:01:02    Len:    275  Check:  801  Weight: -1.00
  Name: DQB1*06:89          Len:    275  Check:  933  Weight: -1.00
  Name: DQB1*06:90          Len:    275  Check: 8947  Weight: -1.00
- Name: DQB1*06:91          Len:    275  Check: 8457  Weight: -1.00
+ Name: DQB1*06:91          Len:    275  Check: 9331  Weight: -1.00
  Name: DQB1*06:92:02       Len:    275  Check: 9645  Weight: -1.00
  Name: DQB1*06:93          Len:    275  Check:  480  Weight: -1.00
  Name: DQB1*06:94          Len:    275  Check:  949  Weight: -1.00
- Name: DQB1*06:95          Len:    275  Check: 8476  Weight: -1.00
- Name: DQB1*06:96:01       Len:    275  Check: 8641  Weight: -1.00
- Name: DQB1*06:96:02       Len:    275  Check: 8641  Weight: -1.00
- Name: DQB1*06:97          Len:    275  Check: 8491  Weight: -1.00
+ Name: DQB1*06:95          Len:    275  Check: 8532  Weight: -1.00
+ Name: DQB1*06:96:01       Len:    275  Check: 8697  Weight: -1.00
+ Name: DQB1*06:96:02       Len:    275  Check: 8697  Weight: -1.00
+ Name: DQB1*06:97          Len:    275  Check: 8547  Weight: -1.00
  Name: DQB1*06:98          Len:    275  Check: 6303  Weight: -1.00
  Name: DQB1*06:99:01       Len:    275  Check: 6392  Weight: -1.00
  Name: DQB1*06:99:03       Len:    275  Check: 6392  Weight: -1.00
@@ -820,104 +820,104 @@
  Name: DQB1*06:121         Len:    275  Check:  651  Weight: -1.00
  Name: DQB1*06:122         Len:    275  Check: 8487  Weight: -1.00
  Name: DQB1*06:123         Len:    275  Check: 7458  Weight: -1.00
- Name: DQB1*06:124         Len:    275  Check: 8591  Weight: -1.00
+ Name: DQB1*06:124         Len:    275  Check: 8647  Weight: -1.00
  Name: DQB1*06:125         Len:    275  Check: 8719  Weight: -1.00
- Name: DQB1*06:126         Len:    275  Check: 7876  Weight: -1.00
+ Name: DQB1*06:126         Len:    275  Check: 7932  Weight: -1.00
  Name: DQB1*06:127         Len:    275  Check: 8649  Weight: -1.00
- Name: DQB1*06:128         Len:    275  Check: 8393  Weight: -1.00
+ Name: DQB1*06:128         Len:    275  Check: 9267  Weight: -1.00
  Name: DQB1*06:129         Len:    275  Check:  703  Weight: -1.00
  Name: DQB1*06:130         Len:    275  Check: 9027  Weight: -1.00
- Name: DQB1*06:131         Len:    275  Check: 7861  Weight: -1.00
+ Name: DQB1*06:131         Len:    275  Check: 7917  Weight: -1.00
  Name: DQB1*06:132         Len:    275  Check: 6296  Weight: -1.00
- Name: DQB1*06:133         Len:    275  Check: 8897  Weight: -1.00
- Name: DQB1*06:134         Len:    275  Check: 9107  Weight: -1.00
+ Name: DQB1*06:133         Len:    275  Check: 9771  Weight: -1.00
+ Name: DQB1*06:134         Len:    275  Check: 9981  Weight: -1.00
  Name: DQB1*06:135         Len:    275  Check:  450  Weight: -1.00
- Name: DQB1*06:136         Len:    275  Check: 8106  Weight: -1.00
- Name: DQB1*06:137         Len:    275  Check: 8197  Weight: -1.00
- Name: DQB1*06:138         Len:    275  Check: 8356  Weight: -1.00
+ Name: DQB1*06:136         Len:    275  Check: 8162  Weight: -1.00
+ Name: DQB1*06:137         Len:    275  Check: 8253  Weight: -1.00
+ Name: DQB1*06:138         Len:    275  Check: 8412  Weight: -1.00
  Name: DQB1*06:139         Len:    275  Check: 8956  Weight: -1.00
- Name: DQB1*06:140         Len:    275  Check: 8855  Weight: -1.00
- Name: DQB1*06:141         Len:    275  Check: 8423  Weight: -1.00
+ Name: DQB1*06:140         Len:    275  Check: 6593  Weight: -1.00
+ Name: DQB1*06:141         Len:    275  Check: 9297  Weight: -1.00
  Name: DQB1*06:142         Len:    275  Check:  158  Weight: -1.00
- Name: DQB1*06:143         Len:    275  Check: 8199  Weight: -1.00
+ Name: DQB1*06:143         Len:    275  Check: 9073  Weight: -1.00
  Name: DQB1*06:144N        Len:    275  Check: 3324  Weight: -1.00
- Name: DQB1*06:145:01      Len:    275  Check: 8537  Weight: -1.00
+ Name: DQB1*06:145:01      Len:    275  Check: 9411  Weight: -1.00
  Name: DQB1*06:145:02      Len:    275  Check: 9411  Weight: -1.00
  Name: DQB1*06:146:01      Len:    275  Check: 8909  Weight: -1.00
- Name: DQB1*06:146:02      Len:    275  Check: 8853  Weight: -1.00
- Name: DQB1*06:147         Len:    275  Check: 8789  Weight: -1.00
+ Name: DQB1*06:146:02      Len:    275  Check: 8909  Weight: -1.00
+ Name: DQB1*06:147         Len:    275  Check: 8845  Weight: -1.00
  Name: DQB1*06:148         Len:    275  Check: 9181  Weight: -1.00
  Name: DQB1*06:149         Len:    275  Check:  439  Weight: -1.00
- Name: DQB1*06:150         Len:    275  Check: 8724  Weight: -1.00
- Name: DQB1*06:151         Len:    275  Check: 8131  Weight: -1.00
- Name: DQB1*06:152         Len:    275  Check: 7926  Weight: -1.00
+ Name: DQB1*06:150         Len:    275  Check: 8780  Weight: -1.00
+ Name: DQB1*06:151         Len:    275  Check: 8187  Weight: -1.00
+ Name: DQB1*06:152         Len:    275  Check: 7982  Weight: -1.00
  Name: DQB1*06:153:01      Len:    275  Check: 9262  Weight: -1.00
  Name: DQB1*06:153:02      Len:    275  Check: 7000  Weight: -1.00
- Name: DQB1*06:154         Len:    275  Check: 8835  Weight: -1.00
+ Name: DQB1*06:154         Len:    275  Check: 9709  Weight: -1.00
  Name: DQB1*06:155         Len:    275  Check:  345  Weight: -1.00
  Name: DQB1*06:156         Len:    275  Check: 8621  Weight: -1.00
  Name: DQB1*06:157         Len:    275  Check: 6473  Weight: -1.00
  Name: DQB1*06:158N        Len:    275  Check: 3324  Weight: -1.00
  Name: DQB1*06:159         Len:    275  Check: 8457  Weight: -1.00
  Name: DQB1*06:160         Len:    275  Check: 1200  Weight: -1.00
- Name: DQB1*06:161         Len:    275  Check: 9735  Weight: -1.00
+ Name: DQB1*06:161         Len:    275  Check: 9791  Weight: -1.00
  Name: DQB1*06:162         Len:    275  Check: 8667  Weight: -1.00
  Name: DQB1*06:163         Len:    275  Check: 8509  Weight: -1.00
  Name: DQB1*06:164         Len:    275  Check:  637  Weight: -1.00
  Name: DQB1*06:165         Len:    275  Check: 9448  Weight: -1.00
- Name: DQB1*06:166         Len:    275  Check: 8036  Weight: -1.00
+ Name: DQB1*06:166         Len:    275  Check: 8092  Weight: -1.00
  Name: DQB1*06:167         Len:    275  Check: 5558  Weight: -1.00
  Name: DQB1*06:168         Len:    275  Check: 8577  Weight: -1.00
- Name: DQB1*06:169         Len:    275  Check: 8572  Weight: -1.00
- Name: DQB1*06:170         Len:    275  Check: 8781  Weight: -1.00
+ Name: DQB1*06:169         Len:    275  Check: 9446  Weight: -1.00
+ Name: DQB1*06:170         Len:    275  Check: 9655  Weight: -1.00
  Name: DQB1*06:171         Len:    275  Check:  524  Weight: -1.00
  Name: DQB1*06:172         Len:    275  Check: 9884  Weight: -1.00
- Name: DQB1*06:173         Len:    275  Check: 8811  Weight: -1.00
- Name: DQB1*06:174         Len:    275  Check: 7846  Weight: -1.00
- Name: DQB1*06:175         Len:    275  Check: 8833  Weight: -1.00
- Name: DQB1*06:176         Len:    275  Check: 8341  Weight: -1.00
+ Name: DQB1*06:173         Len:    275  Check: 8867  Weight: -1.00
+ Name: DQB1*06:174         Len:    275  Check: 7902  Weight: -1.00
+ Name: DQB1*06:175         Len:    275  Check: 8889  Weight: -1.00
+ Name: DQB1*06:176         Len:    275  Check: 8397  Weight: -1.00
  Name: DQB1*06:177         Len:    275  Check: 6367  Weight: -1.00
- Name: DQB1*06:178         Len:    275  Check: 9020  Weight: -1.00
+ Name: DQB1*06:178         Len:    275  Check: 9076  Weight: -1.00
  Name: DQB1*06:179N        Len:    275  Check: 3283  Weight: -1.00
  Name: DQB1*06:180         Len:    275  Check:  648  Weight: -1.00
  Name: DQB1*06:181         Len:    275  Check: 6223  Weight: -1.00
- Name: DQB1*06:182         Len:    275  Check: 7966  Weight: -1.00
- Name: DQB1*06:183         Len:    275  Check: 8896  Weight: -1.00
- Name: DQB1*06:184         Len:    275  Check: 8437  Weight: -1.00
+ Name: DQB1*06:182         Len:    275  Check: 8022  Weight: -1.00
+ Name: DQB1*06:183         Len:    275  Check: 8952  Weight: -1.00
+ Name: DQB1*06:184         Len:    275  Check: 9311  Weight: -1.00
  Name: DQB1*06:185         Len:    275  Check: 9424  Weight: -1.00
  Name: DQB1*06:186         Len:    275  Check:  508  Weight: -1.00
  Name: DQB1*06:187         Len:    275  Check: 9425  Weight: -1.00
  Name: DQB1*06:188         Len:    275  Check: 8704  Weight: -1.00
  Name: DQB1*06:189         Len:    275  Check:  685  Weight: -1.00
  Name: DQB1*06:190:01      Len:    275  Check: 9311  Weight: -1.00
- Name: DQB1*06:190:02      Len:    275  Check: 8437  Weight: -1.00
- Name: DQB1*06:191         Len:    275  Check: 7625  Weight: -1.00
- Name: DQB1*06:192         Len:    275  Check: 8191  Weight: -1.00
+ Name: DQB1*06:190:02      Len:    275  Check: 9311  Weight: -1.00
+ Name: DQB1*06:191         Len:    275  Check: 8499  Weight: -1.00
+ Name: DQB1*06:192         Len:    275  Check: 8247  Weight: -1.00
  Name: DQB1*06:193N        Len:    275  Check: 3324  Weight: -1.00
  Name: DQB1*06:194         Len:    275  Check: 6328  Weight: -1.00
- Name: DQB1*06:195         Len:    275  Check: 9117  Weight: -1.00
- Name: DQB1*06:196         Len:    275  Check: 8406  Weight: -1.00
- Name: DQB1*06:197         Len:    275  Check: 8797  Weight: -1.00
- Name: DQB1*06:198         Len:    275  Check: 9421  Weight: -1.00
- Name: DQB1*06:199         Len:    275  Check: 8729  Weight: -1.00
+ Name: DQB1*06:195         Len:    275  Check: 9991  Weight: -1.00
+ Name: DQB1*06:196         Len:    275  Check: 9280  Weight: -1.00
+ Name: DQB1*06:197         Len:    275  Check: 8853  Weight: -1.00
+ Name: DQB1*06:198         Len:    275  Check: 9477  Weight: -1.00
+ Name: DQB1*06:199         Len:    275  Check: 9603  Weight: -1.00
  Name: DQB1*06:200         Len:    275  Check: 8707  Weight: -1.00
- Name: DQB1*06:201         Len:    275  Check: 8975  Weight: -1.00
+ Name: DQB1*06:201         Len:    275  Check: 9031  Weight: -1.00
  Name: DQB1*06:202         Len:    275  Check: 1694  Weight: -1.00
- Name: DQB1*06:203         Len:    275  Check: 8698  Weight: -1.00
+ Name: DQB1*06:203         Len:    275  Check: 9572  Weight: -1.00
  Name: DQB1*06:204         Len:    275  Check:  810  Weight: -1.00
  Name: DQB1*06:205         Len:    275  Check: 6443  Weight: -1.00
  Name: DQB1*06:206:01      Len:    275  Check: 9248  Weight: -1.00
  Name: DQB1*06:206:02      Len:    275  Check: 9192  Weight: -1.00
  Name: DQB1*06:207         Len:    275  Check:  691  Weight: -1.00
- Name: DQB1*06:208:01      Len:    275  Check: 8661  Weight: -1.00
+ Name: DQB1*06:208:01      Len:    275  Check: 8717  Weight: -1.00
  Name: DQB1*06:208:02      Len:    275  Check: 8717  Weight: -1.00
  Name: DQB1*06:209         Len:    275  Check: 6353  Weight: -1.00
- Name: DQB1*06:210         Len:    275  Check: 8811  Weight: -1.00
- Name: DQB1*06:211         Len:    275  Check: 8721  Weight: -1.00
+ Name: DQB1*06:210         Len:    275  Check: 9685  Weight: -1.00
+ Name: DQB1*06:211         Len:    275  Check: 8777  Weight: -1.00
  Name: DQB1*06:212         Len:    275  Check:  175  Weight: -1.00
- Name: DQB1*06:213         Len:    275  Check: 8692  Weight: -1.00
- Name: DQB1*06:214         Len:    275  Check: 9155  Weight: -1.00
- Name: DQB1*06:215         Len:    275  Check: 8448  Weight: -1.00
+ Name: DQB1*06:213         Len:    275  Check: 8748  Weight: -1.00
+ Name: DQB1*06:214         Len:    275  Check: 6893  Weight: -1.00
+ Name: DQB1*06:215         Len:    275  Check: 8504  Weight: -1.00
  Name: DQB1*06:216N        Len:    275  Check: 2492  Weight: -1.00
  Name: DQB1*06:217         Len:    275  Check:  764  Weight: -1.00
  Name: DQB1*06:218         Len:    275  Check: 8577  Weight: -1.00
@@ -931,43 +931,43 @@
  Name: DQB1*06:227         Len:    275  Check: 8753  Weight: -1.00
  Name: DQB1*06:228         Len:    275  Check: 8661  Weight: -1.00
  Name: DQB1*06:229         Len:    275  Check: 6452  Weight: -1.00
- Name: DQB1*06:230         Len:    275  Check: 9084  Weight: -1.00
+ Name: DQB1*06:230         Len:    275  Check: 9958  Weight: -1.00
  Name: DQB1*06:231         Len:    275  Check:  345  Weight: -1.00
- Name: DQB1*06:232         Len:    275  Check: 8851  Weight: -1.00
- Name: DQB1*06:233         Len:    275  Check: 8960  Weight: -1.00
- Name: DQB1*06:234         Len:    275  Check: 8553  Weight: -1.00
- Name: DQB1*06:235         Len:    275  Check: 8690  Weight: -1.00
- Name: DQB1*06:236         Len:    275  Check: 8745  Weight: -1.00
+ Name: DQB1*06:232         Len:    275  Check: 8907  Weight: -1.00
+ Name: DQB1*06:233         Len:    275  Check: 9016  Weight: -1.00
+ Name: DQB1*06:234         Len:    275  Check: 9427  Weight: -1.00
+ Name: DQB1*06:235         Len:    275  Check: 8746  Weight: -1.00
+ Name: DQB1*06:236         Len:    275  Check: 8801  Weight: -1.00
  Name: DQB1*06:237         Len:    275  Check: 8826  Weight: -1.00
- Name: DQB1*06:238         Len:    275  Check: 8423  Weight: -1.00
+ Name: DQB1*06:238         Len:    275  Check: 9297  Weight: -1.00
  Name: DQB1*06:239         Len:    275  Check: 6371  Weight: -1.00
  Name: DQB1*06:240         Len:    275  Check: 8251  Weight: -1.00
  Name: DQB1*06:241         Len:    275  Check:  618  Weight: -1.00
  Name: DQB1*06:242         Len:    275  Check: 8586  Weight: -1.00
- Name: DQB1*06:244         Len:    275  Check: 7880  Weight: -1.00
+ Name: DQB1*06:244         Len:    275  Check: 8754  Weight: -1.00
  Name: DQB1*06:245         Len:    275  Check: 6415  Weight: -1.00
  Name: DQB1*06:246         Len:    275  Check: 6317  Weight: -1.00
  Name: DQB1*06:247         Len:    275  Check: 9838  Weight: -1.00
  Name: DQB1*06:248         Len:    275  Check: 9584  Weight: -1.00
- Name: DQB1*06:249         Len:    275  Check: 8224  Weight: -1.00
+ Name: DQB1*06:249         Len:    275  Check: 8280  Weight: -1.00
  Name: DQB1*06:250         Len:    275  Check: 8836  Weight: -1.00
  Name: DQB1*06:251         Len:    275  Check: 6367  Weight: -1.00
  Name: DQB1*06:252N        Len:    275  Check: 4962  Weight: -1.00
  Name: DQB1*06:253         Len:    275  Check: 8945  Weight: -1.00
- Name: DQB1*06:254         Len:    275  Check:   34  Weight: -1.00
+ Name: DQB1*06:254         Len:    275  Check:  250  Weight: -1.00
  Name: DQB1*06:255         Len:    275  Check: 8767  Weight: -1.00
  Name: DQB1*06:256         Len:    275  Check: 8679  Weight: -1.00
  Name: DQB1*06:257         Len:    275  Check: 5863  Weight: -1.00
  Name: DQB1*06:258         Len:    275  Check: 6269  Weight: -1.00
  Name: DQB1*06:259         Len:    275  Check: 9829  Weight: -1.00
  Name: DQB1*06:260         Len:    275  Check: 5843  Weight: -1.00
- Name: DQB1*06:261         Len:    275  Check:  435  Weight: -1.00
+ Name: DQB1*06:261         Len:    275  Check:  651  Weight: -1.00
  Name: DQB1*06:262         Len:    275  Check: 8769  Weight: -1.00
  Name: DQB1*06:263         Len:    275  Check: 6491  Weight: -1.00
  Name: DQB1*06:264         Len:    275  Check: 8037  Weight: -1.00
- Name: DQB1*06:265         Len:    275  Check:  564  Weight: -1.00
- Name: DQB1*06:266         Len:    275  Check:  766  Weight: -1.00
- Name: DQB1*06:267         Len:    275  Check: 1149  Weight: -1.00
+ Name: DQB1*06:265         Len:    275  Check:  780  Weight: -1.00
+ Name: DQB1*06:266         Len:    275  Check:  982  Weight: -1.00
+ Name: DQB1*06:267         Len:    275  Check: 1365  Weight: -1.00
  Name: DQB1*06:268         Len:    275  Check: 6283  Weight: -1.00
  Name: DQB1*06:269         Len:    275  Check: 8834  Weight: -1.00
  Name: DQB1*06:270:01      Len:    275  Check: 9003  Weight: -1.00
@@ -978,7 +978,7 @@
  Name: DQB1*06:274         Len:    275  Check: 6033  Weight: -1.00
  Name: DQB1*06:275         Len:    275  Check: 9674  Weight: -1.00
  Name: DQB1*06:276         Len:    275  Check: 9835  Weight: -1.00
- Name: DQB1*06:277         Len:    275  Check: 9187  Weight: -1.00
+ Name: DQB1*06:277         Len:    275  Check: 6925  Weight: -1.00
  Name: DQB1*06:278         Len:    275  Check: 8648  Weight: -1.00
  Name: DQB1*06:279         Len:    275  Check: 9480  Weight: -1.00
  Name: DQB1*06:280         Len:    275  Check:  400  Weight: -1.00
@@ -992,7 +992,7 @@
  Name: DQB1*06:288         Len:    275  Check: 9880  Weight: -1.00
  Name: DQB1*06:289         Len:    275  Check: 8393  Weight: -1.00
  Name: DQB1*06:290         Len:    275  Check: 8517  Weight: -1.00
- Name: DQB1*06:291         Len:    275  Check:  294  Weight: -1.00
+ Name: DQB1*06:291         Len:    275  Check:  510  Weight: -1.00
  Name: DQB1*06:292         Len:    275  Check:  737  Weight: -1.00
  Name: DQB1*06:293         Len:    275  Check: 8497  Weight: -1.00
  Name: DQB1*06:294         Len:    275  Check: 8727  Weight: -1.00
@@ -1002,7 +1002,7 @@
  Name: DQB1*06:298         Len:    275  Check: 8799  Weight: -1.00
  Name: DQB1*06:299         Len:    275  Check: 1125  Weight: -1.00
  Name: DQB1*06:300         Len:    275  Check: 9471  Weight: -1.00
- Name: DQB1*06:301         Len:    275  Check:  679  Weight: -1.00
+ Name: DQB1*06:301         Len:    275  Check:  895  Weight: -1.00
  Name: DQB1*06:302         Len:    275  Check: 5918  Weight: -1.00
  Name: DQB1*06:303N        Len:    275  Check: 3324  Weight: -1.00
  Name: DQB1*06:304N        Len:    275  Check: 7928  Weight: -1.00
@@ -1072,13 +1072,13 @@
  Name: DQB1*06:368         Len:    275  Check: 9743  Weight: -1.00
  Name: DQB1*06:369         Len:    275  Check:  716  Weight: -1.00
  Name: DQB1*06:370         Len:    275  Check: 8387  Weight: -1.00
- Name: DQB1*06:371         Len:    275  Check: 8367  Weight: -1.00
+ Name: DQB1*06:371         Len:    275  Check: 9241  Weight: -1.00
  Name: DQB1*06:372         Len:    275  Check: 8382  Weight: -1.00
  Name: DQB1*06:373         Len:    275  Check: 9955  Weight: -1.00
- Name: DQB1*06:374         Len:    275  Check: 8590  Weight: -1.00
+ Name: DQB1*06:374         Len:    275  Check: 8646  Weight: -1.00
  Name: DQB1*06:375         Len:    275  Check:  701  Weight: -1.00
  Name: DQB1*06:376         Len:    275  Check: 8451  Weight: -1.00
- Name: DQB1*06:378         Len:    275  Check: 7675  Weight: -1.00
+ Name: DQB1*06:378         Len:    275  Check: 8549  Weight: -1.00
  Name: DQB1*06:379N        Len:    275  Check: 4812  Weight: -1.00
  Name: DQB1*06:380         Len:    275  Check: 8541  Weight: -1.00
  Name: DQB1*06:381         Len:    275  Check:  517  Weight: -1.00
@@ -1092,7 +1092,7 @@
  Name: DQB1*06:390         Len:    275  Check: 8901  Weight: -1.00
  Name: DQB1*06:391         Len:    275  Check: 9418  Weight: -1.00
  Name: DQB1*06:392         Len:    275  Check: 9061  Weight: -1.00
- Name: DQB1*06:393         Len:    275  Check: 8557  Weight: -1.00
+ Name: DQB1*06:393         Len:    275  Check: 9431  Weight: -1.00
  Name: DQB1*06:394N        Len:    275  Check: 3324  Weight: -1.00
  Name: DQB1*06:395         Len:    275  Check: 8573  Weight: -1.00
  Name: DQB1*06:396         Len:    275  Check: 9308  Weight: -1.00
@@ -1133,7 +1133,7 @@
  Name: DQB1*06:437         Len:    275  Check: 8655  Weight: -1.00
  Name: DQB1*06:438         Len:    275  Check: 8433  Weight: -1.00
  Name: DQB1*06:439Q        Len:    275  Check: 3324  Weight: -1.00
- Name: DQB1*06:440         Len:    275  Check: 8570  Weight: -1.00
+ Name: DQB1*06:440         Len:    275  Check: 9444  Weight: -1.00
  Name: DQB1*06:441         Len:    275  Check:  980  Weight: -1.00
  Name: DQB1*06:442         Len:    275  Check: 9490  Weight: -1.00
  Name: DQB1*06:443         Len:    275  Check: 9412  Weight: -1.00
@@ -1157,15 +1157,15 @@
  Name: DQB1*06:462         Len:    275  Check: 6503  Weight: -1.00
  Name: DQB1*06:463         Len:    275  Check: 6315  Weight: -1.00
  Name: DQB1*06:464         Len:    275  Check: 6941  Weight: -1.00
- Name: DQB1*06:465         Len:    275  Check:  496  Weight: -1.00
+ Name: DQB1*06:465         Len:    275  Check:  712  Weight: -1.00
  Name: DQB1*06:467         Len:    275  Check:  105  Weight: -1.00
  Name: DQB1*06:468         Len:    275  Check: 8614  Weight: -1.00
  Name: DQB1*06:469         Len:    275  Check: 6421  Weight: -1.00
  Name: DQB1*06:470         Len:    275  Check: 9345  Weight: -1.00
- Name: DQB1*06:471         Len:    275  Check: 8869  Weight: -1.00
+ Name: DQB1*06:471         Len:    275  Check: 6607  Weight: -1.00
  Name: DQB1*06:473         Len:    275  Check:  688  Weight: -1.00
  Name: DQB1*06:474         Len:    275  Check: 9477  Weight: -1.00
- Name: DQB1*06:475         Len:    275  Check: 8435  Weight: -1.00
+ Name: DQB1*06:475         Len:    275  Check: 6173  Weight: -1.00
  Name: DQB1*02:01:01:01    Len:    275  Check: 7604  Weight: -1.00
  Name: DQB1*02:01:01:02    Len:    275  Check: 7604  Weight: -1.00
  Name: DQB1*02:01:01:03    Len:    275  Check: 7604  Weight: -1.00
@@ -1345,7 +1345,7 @@
  Name: DQB1*02:74          Len:    275  Check: 7622  Weight: -1.00
  Name: DQB1*02:75          Len:    275  Check: 7574  Weight: -1.00
  Name: DQB1*02:76          Len:    275  Check: 7281  Weight: -1.00
- Name: DQB1*02:77          Len:    275  Check: 7832  Weight: -1.00
+ Name: DQB1*02:77          Len:    275  Check: 7820  Weight: -1.00
  Name: DQB1*02:78          Len:    275  Check: 8858  Weight: -1.00
  Name: DQB1*02:79          Len:    275  Check: 7614  Weight: -1.00
  Name: DQB1*02:80          Len:    275  Check: 8048  Weight: -1.00
@@ -1620,22 +1620,22 @@
  Name: DQB1*03:02:02:01    Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:02:02    Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:03       Len:    275  Check: 9118  Weight: -1.00
- Name: DQB1*03:02:04       Len:    275  Check: 8970  Weight: -1.00
+ Name: DQB1*03:02:04       Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:05       Len:    275  Check: 9118  Weight: -1.00
- Name: DQB1*03:02:06       Len:    275  Check: 8970  Weight: -1.00
- Name: DQB1*03:02:07       Len:    275  Check: 8970  Weight: -1.00
- Name: DQB1*03:02:08       Len:    275  Check: 8970  Weight: -1.00
+ Name: DQB1*03:02:06       Len:    275  Check: 9118  Weight: -1.00
+ Name: DQB1*03:02:07       Len:    275  Check: 9118  Weight: -1.00
+ Name: DQB1*03:02:08       Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:09       Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:10       Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:11       Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:12       Len:    275  Check: 9118  Weight: -1.00
- Name: DQB1*03:02:13       Len:    275  Check: 8970  Weight: -1.00
- Name: DQB1*03:02:14       Len:    275  Check: 8970  Weight: -1.00
- Name: DQB1*03:02:15       Len:    275  Check: 8970  Weight: -1.00
+ Name: DQB1*03:02:13       Len:    275  Check: 9118  Weight: -1.00
+ Name: DQB1*03:02:14       Len:    275  Check: 9118  Weight: -1.00
+ Name: DQB1*03:02:15       Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:16       Len:    275  Check: 9118  Weight: -1.00
- Name: DQB1*03:02:17       Len:    275  Check: 8970  Weight: -1.00
- Name: DQB1*03:02:18       Len:    275  Check: 8970  Weight: -1.00
- Name: DQB1*03:02:19       Len:    275  Check: 8970  Weight: -1.00
+ Name: DQB1*03:02:17       Len:    275  Check: 9118  Weight: -1.00
+ Name: DQB1*03:02:18       Len:    275  Check: 9118  Weight: -1.00
+ Name: DQB1*03:02:19       Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:20       Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:21       Len:    275  Check: 9118  Weight: -1.00
  Name: DQB1*03:02:22       Len:    275  Check: 9118  Weight: -1.00
@@ -1706,7 +1706,7 @@
  Name: DQB1*03:05:04       Len:    275  Check: 9113  Weight: -1.00
  Name: DQB1*03:05:05       Len:    275  Check: 9113  Weight: -1.00
  Name: DQB1*03:06          Len:    275  Check: 8564  Weight: -1.00
- Name: DQB1*03:07          Len:    275  Check: 9474  Weight: -1.00
+ Name: DQB1*03:07          Len:    275  Check: 9622  Weight: -1.00
  Name: DQB1*03:08          Len:    275  Check: 8623  Weight: -1.00
  Name: DQB1*03:09          Len:    275  Check: 7962  Weight: -1.00
  Name: DQB1*03:10:01       Len:    275  Check: 8254  Weight: -1.00
@@ -1722,10 +1722,10 @@
  Name: DQB1*03:16          Len:    275  Check: 8244  Weight: -1.00
  Name: DQB1*03:17:01       Len:    275  Check: 9209  Weight: -1.00
  Name: DQB1*03:17:02       Len:    275  Check: 9209  Weight: -1.00
- Name: DQB1*03:18          Len:    275  Check: 8950  Weight: -1.00
+ Name: DQB1*03:18          Len:    275  Check: 9098  Weight: -1.00
  Name: DQB1*03:19:01:01    Len:    275  Check: 8192  Weight: -1.00
  Name: DQB1*03:19:01:02Q   Len:    275  Check: 8192  Weight: -1.00
- Name: DQB1*03:19:02       Len:    275  Check: 8582  Weight: -1.00
+ Name: DQB1*03:19:02       Len:    275  Check: 8192  Weight: -1.00
  Name: DQB1*03:19:03       Len:    275  Check: 8192  Weight: -1.00
  Name: DQB1*03:19:04       Len:    275  Check: 8192  Weight: -1.00
  Name: DQB1*03:19:05       Len:    275  Check: 8192  Weight: -1.00
@@ -1780,15 +1780,15 @@
  Name: DQB1*03:59          Len:    275  Check: 8103  Weight: -1.00
  Name: DQB1*03:60          Len:    275  Check: 8004  Weight: -1.00
  Name: DQB1*03:61          Len:    275  Check: 8526  Weight: -1.00
- Name: DQB1*03:62          Len:    275  Check: 8420  Weight: -1.00
- Name: DQB1*03:63          Len:    275  Check: 8571  Weight: -1.00
- Name: DQB1*03:64          Len:    275  Check: 8924  Weight: -1.00
+ Name: DQB1*03:62          Len:    275  Check: 8568  Weight: -1.00
+ Name: DQB1*03:63          Len:    275  Check: 8719  Weight: -1.00
+ Name: DQB1*03:64          Len:    275  Check: 9072  Weight: -1.00
  Name: DQB1*03:65          Len:    275  Check: 9259  Weight: -1.00
  Name: DQB1*03:66N         Len:    275  Check: 3324  Weight: -1.00
- Name: DQB1*03:67          Len:    275  Check: 9162  Weight: -1.00
+ Name: DQB1*03:67          Len:    275  Check: 9310  Weight: -1.00
  Name: DQB1*03:68          Len:    275  Check: 9172  Weight: -1.00
  Name: DQB1*03:69          Len:    275  Check: 8484  Weight: -1.00
- Name: DQB1*03:70          Len:    275  Check: 8700  Weight: -1.00
+ Name: DQB1*03:70          Len:    275  Check: 8848  Weight: -1.00
  Name: DQB1*03:71          Len:    275  Check: 7814  Weight: -1.00
  Name: DQB1*03:72          Len:    275  Check: 8430  Weight: -1.00
  Name: DQB1*03:73          Len:    275  Check: 8487  Weight: -1.00
@@ -1799,7 +1799,7 @@
  Name: DQB1*03:78          Len:    275  Check: 8195  Weight: -1.00
  Name: DQB1*03:79          Len:    275  Check: 8642  Weight: -1.00
  Name: DQB1*03:80          Len:    275  Check: 8095  Weight: -1.00
- Name: DQB1*03:81          Len:    275  Check: 9025  Weight: -1.00
+ Name: DQB1*03:81          Len:    275  Check: 9173  Weight: -1.00
  Name: DQB1*03:82          Len:    275  Check: 9468  Weight: -1.00
  Name: DQB1*03:83          Len:    275  Check: 8160  Weight: -1.00
  Name: DQB1*03:84N         Len:    275  Check: 4004  Weight: -1.00
@@ -1823,8 +1823,8 @@
  Name: DQB1*03:103         Len:    275  Check: 8304  Weight: -1.00
  Name: DQB1*03:104         Len:    275  Check: 9246  Weight: -1.00
  Name: DQB1*03:105         Len:    275  Check: 9115  Weight: -1.00
- Name: DQB1*03:106         Len:    275  Check: 8886  Weight: -1.00
- Name: DQB1*03:107         Len:    275  Check: 8924  Weight: -1.00
+ Name: DQB1*03:106         Len:    275  Check: 9034  Weight: -1.00
+ Name: DQB1*03:107         Len:    275  Check: 9072  Weight: -1.00
  Name: DQB1*03:108         Len:    275  Check: 8197  Weight: -1.00
  Name: DQB1*03:109         Len:    275  Check: 8294  Weight: -1.00
  Name: DQB1*03:110         Len:    275  Check: 9790  Weight: -1.00
@@ -1842,7 +1842,7 @@
  Name: DQB1*03:122         Len:    275  Check: 8108  Weight: -1.00
  Name: DQB1*03:123         Len:    275  Check: 9442  Weight: -1.00
  Name: DQB1*03:124         Len:    275  Check: 9203  Weight: -1.00
- Name: DQB1*03:125         Len:    275  Check: 9205  Weight: -1.00
+ Name: DQB1*03:125         Len:    275  Check: 9353  Weight: -1.00
  Name: DQB1*03:126         Len:    275  Check: 8828  Weight: -1.00
  Name: DQB1*03:127         Len:    275  Check: 7763  Weight: -1.00
  Name: DQB1*03:128         Len:    275  Check: 8025  Weight: -1.00
@@ -1863,14 +1863,14 @@
  Name: DQB1*03:143         Len:    275  Check: 8786  Weight: -1.00
  Name: DQB1*03:144         Len:    275  Check: 8162  Weight: -1.00
  Name: DQB1*03:145         Len:    275  Check: 9792  Weight: -1.00
- Name: DQB1*03:146         Len:    275  Check: 9510  Weight: -1.00
+ Name: DQB1*03:146         Len:    275  Check: 9658  Weight: -1.00
  Name: DQB1*03:147         Len:    275  Check: 8120  Weight: -1.00
  Name: DQB1*03:148         Len:    275  Check: 7872  Weight: -1.00
  Name: DQB1*03:149         Len:    275  Check: 8710  Weight: -1.00
  Name: DQB1*03:150         Len:    275  Check: 8234  Weight: -1.00
  Name: DQB1*03:151         Len:    275  Check: 8271  Weight: -1.00
  Name: DQB1*03:152         Len:    275  Check: 8170  Weight: -1.00
- Name: DQB1*03:153         Len:    275  Check: 9289  Weight: -1.00
+ Name: DQB1*03:153         Len:    275  Check: 9437  Weight: -1.00
  Name: DQB1*03:154         Len:    275  Check: 8079  Weight: -1.00
  Name: DQB1*03:155         Len:    275  Check: 8730  Weight: -1.00
  Name: DQB1*03:156         Len:    275  Check: 9448  Weight: -1.00
@@ -1878,11 +1878,11 @@
  Name: DQB1*03:158         Len:    275  Check: 7374  Weight: -1.00
  Name: DQB1*03:159         Len:    275  Check: 8269  Weight: -1.00
  Name: DQB1*03:160         Len:    275  Check: 8280  Weight: -1.00
- Name: DQB1*03:161         Len:    275  Check: 9110  Weight: -1.00
+ Name: DQB1*03:161         Len:    275  Check: 9258  Weight: -1.00
  Name: DQB1*03:162         Len:    275  Check: 8235  Weight: -1.00
  Name: DQB1*03:163         Len:    275  Check: 7374  Weight: -1.00
  Name: DQB1*03:164         Len:    275  Check: 7510  Weight: -1.00
- Name: DQB1*03:165         Len:    275  Check: 8536  Weight: -1.00
+ Name: DQB1*03:165         Len:    275  Check: 8168  Weight: -1.00
  Name: DQB1*03:166         Len:    275  Check: 7857  Weight: -1.00
  Name: DQB1*03:167         Len:    275  Check: 8124  Weight: -1.00
  Name: DQB1*03:168         Len:    275  Check: 8815  Weight: -1.00
@@ -1891,22 +1891,22 @@
  Name: DQB1*03:171         Len:    275  Check: 8104  Weight: -1.00
  Name: DQB1*03:172         Len:    275  Check: 8094  Weight: -1.00
  Name: DQB1*03:173         Len:    275  Check: 8238  Weight: -1.00
- Name: DQB1*03:174         Len:    275  Check: 8866  Weight: -1.00
- Name: DQB1*03:175         Len:    275  Check: 8952  Weight: -1.00
+ Name: DQB1*03:174         Len:    275  Check: 9014  Weight: -1.00
+ Name: DQB1*03:175         Len:    275  Check: 9100  Weight: -1.00
  Name: DQB1*03:176         Len:    275  Check: 9256  Weight: -1.00
  Name: DQB1*03:177         Len:    275  Check: 9253  Weight: -1.00
- Name: DQB1*03:178         Len:    275  Check: 8460  Weight: -1.00
- Name: DQB1*03:179         Len:    275  Check: 8167  Weight: -1.00
+ Name: DQB1*03:178         Len:    275  Check: 8608  Weight: -1.00
+ Name: DQB1*03:179         Len:    275  Check: 8315  Weight: -1.00
  Name: DQB1*03:180         Len:    275  Check: 9227  Weight: -1.00
  Name: DQB1*03:181         Len:    275  Check: 9419  Weight: -1.00
  Name: DQB1*03:182         Len:    275  Check: 8520  Weight: -1.00
  Name: DQB1*03:183         Len:    275  Check: 8275  Weight: -1.00
  Name: DQB1*03:184         Len:    275  Check: 9078  Weight: -1.00
- Name: DQB1*03:185         Len:    275  Check: 8925  Weight: -1.00
+ Name: DQB1*03:185         Len:    275  Check: 9073  Weight: -1.00
  Name: DQB1*03:186         Len:    275  Check: 8024  Weight: -1.00
  Name: DQB1*03:187         Len:    275  Check: 7907  Weight: -1.00
  Name: DQB1*03:188         Len:    275  Check: 8526  Weight: -1.00
- Name: DQB1*03:189         Len:    275  Check: 9018  Weight: -1.00
+ Name: DQB1*03:189         Len:    275  Check: 9166  Weight: -1.00
  Name: DQB1*03:190         Len:    275  Check: 9398  Weight: -1.00
  Name: DQB1*03:191         Len:    275  Check: 8225  Weight: -1.00
  Name: DQB1*03:192         Len:    275  Check: 8157  Weight: -1.00
@@ -1921,29 +1921,29 @@
  Name: DQB1*03:200         Len:    275  Check: 9043  Weight: -1.00
  Name: DQB1*03:201         Len:    275  Check: 8196  Weight: -1.00
  Name: DQB1*03:202         Len:    275  Check: 8534  Weight: -1.00
- Name: DQB1*03:203         Len:    275  Check: 9264  Weight: -1.00
- Name: DQB1*03:204         Len:    275  Check: 8838  Weight: -1.00
- Name: DQB1*03:205         Len:    275  Check: 8862  Weight: -1.00
+ Name: DQB1*03:203         Len:    275  Check: 9412  Weight: -1.00
+ Name: DQB1*03:204         Len:    275  Check: 8986  Weight: -1.00
+ Name: DQB1*03:205         Len:    275  Check: 9010  Weight: -1.00
  Name: DQB1*03:206         Len:    275  Check: 8249  Weight: -1.00
  Name: DQB1*03:207         Len:    275  Check: 9069  Weight: -1.00
  Name: DQB1*03:208         Len:    275  Check: 8184  Weight: -1.00
  Name: DQB1*03:209         Len:    275  Check: 9862  Weight: -1.00
- Name: DQB1*03:210         Len:    275  Check: 8942  Weight: -1.00
+ Name: DQB1*03:210         Len:    275  Check: 9090  Weight: -1.00
  Name: DQB1*03:211         Len:    275  Check: 8744  Weight: -1.00
  Name: DQB1*03:212         Len:    275  Check: 9024  Weight: -1.00
  Name: DQB1*03:213N        Len:    275  Check: 3324  Weight: -1.00
- Name: DQB1*03:214         Len:    275  Check: 8742  Weight: -1.00
+ Name: DQB1*03:214         Len:    275  Check: 8890  Weight: -1.00
  Name: DQB1*03:215         Len:    275  Check: 8339  Weight: -1.00
  Name: DQB1*03:216         Len:    275  Check: 8218  Weight: -1.00
  Name: DQB1*03:217         Len:    275  Check: 9274  Weight: -1.00
  Name: DQB1*03:218         Len:    275  Check: 8160  Weight: -1.00
  Name: DQB1*03:219         Len:    275  Check: 9126  Weight: -1.00
  Name: DQB1*03:220         Len:    275  Check: 8343  Weight: -1.00
- Name: DQB1*03:221         Len:    275  Check: 8383  Weight: -1.00
+ Name: DQB1*03:221         Len:    275  Check: 8531  Weight: -1.00
  Name: DQB1*03:222         Len:    275  Check: 9157  Weight: -1.00
  Name: DQB1*03:223         Len:    275  Check: 9139  Weight: -1.00
- Name: DQB1*03:224         Len:    275  Check: 9290  Weight: -1.00
- Name: DQB1*03:225         Len:    275  Check: 8410  Weight: -1.00
+ Name: DQB1*03:224         Len:    275  Check: 9438  Weight: -1.00
+ Name: DQB1*03:225         Len:    275  Check: 8558  Weight: -1.00
  Name: DQB1*03:226         Len:    275  Check: 9301  Weight: -1.00
  Name: DQB1*03:227         Len:    275  Check: 9229  Weight: -1.00
  Name: DQB1*03:228         Len:    275  Check: 7749  Weight: -1.00
@@ -1951,14 +1951,14 @@
  Name: DQB1*03:230         Len:    275  Check: 8719  Weight: -1.00
  Name: DQB1*03:231         Len:    275  Check: 8244  Weight: -1.00
  Name: DQB1*03:232         Len:    275  Check: 7708  Weight: -1.00
- Name: DQB1*03:233         Len:    275  Check: 8718  Weight: -1.00
+ Name: DQB1*03:233         Len:    275  Check: 8866  Weight: -1.00
  Name: DQB1*03:234         Len:    275  Check: 9150  Weight: -1.00
  Name: DQB1*03:235         Len:    275  Check: 8374  Weight: -1.00
  Name: DQB1*03:236         Len:    275  Check: 8149  Weight: -1.00
  Name: DQB1*03:237N        Len:    275  Check: 3324  Weight: -1.00
  Name: DQB1*03:238         Len:    275  Check: 9409  Weight: -1.00
  Name: DQB1*03:239         Len:    275  Check: 9090  Weight: -1.00
- Name: DQB1*03:240         Len:    275  Check: 9085  Weight: -1.00
+ Name: DQB1*03:240         Len:    275  Check: 9233  Weight: -1.00
  Name: DQB1*03:241         Len:    275  Check: 8646  Weight: -1.00
  Name: DQB1*03:242         Len:    275  Check: 7896  Weight: -1.00
  Name: DQB1*03:243         Len:    275  Check: 7989  Weight: -1.00
@@ -1979,7 +1979,7 @@
  Name: DQB1*03:258         Len:    275  Check: 9207  Weight: -1.00
  Name: DQB1*03:259         Len:    275  Check: 9990  Weight: -1.00
  Name: DQB1*03:260         Len:    275  Check: 8754  Weight: -1.00
- Name: DQB1*03:261         Len:    275  Check: 8850  Weight: -1.00
+ Name: DQB1*03:261         Len:    275  Check: 8998  Weight: -1.00
  Name: DQB1*03:262         Len:    275  Check: 9067  Weight: -1.00
  Name: DQB1*03:263:01:01   Len:    275  Check: 8708  Weight: -1.00
  Name: DQB1*03:263:01:02   Len:    275  Check: 8708  Weight: -1.00
@@ -1992,12 +1992,12 @@
  Name: DQB1*03:270         Len:    275  Check: 8517  Weight: -1.00
  Name: DQB1*03:271         Len:    275  Check: 8808  Weight: -1.00
  Name: DQB1*03:272         Len:    275  Check: 9124  Weight: -1.00
- Name: DQB1*03:273         Len:    275  Check: 8816  Weight: -1.00
- Name: DQB1*03:274         Len:    275  Check: 8886  Weight: -1.00
+ Name: DQB1*03:273         Len:    275  Check: 8964  Weight: -1.00
+ Name: DQB1*03:274         Len:    275  Check: 9034  Weight: -1.00
  Name: DQB1*03:275         Len:    275  Check: 8418  Weight: -1.00
  Name: DQB1*03:276N        Len:    275  Check: 4004  Weight: -1.00
  Name: DQB1*03:277         Len:    275  Check: 9196  Weight: -1.00
- Name: DQB1*03:278         Len:    275  Check: 9210  Weight: -1.00
+ Name: DQB1*03:278         Len:    275  Check: 9358  Weight: -1.00
  Name: DQB1*03:279         Len:    275  Check: 9406  Weight: -1.00
  Name: DQB1*03:280         Len:    275  Check: 8720  Weight: -1.00
  Name: DQB1*03:281         Len:    275  Check: 8430  Weight: -1.00
@@ -2005,7 +2005,7 @@
  Name: DQB1*03:283         Len:    275  Check: 8708  Weight: -1.00
  Name: DQB1*03:284         Len:    275  Check: 8045  Weight: -1.00
  Name: DQB1*03:285         Len:    275  Check: 7989  Weight: -1.00
- Name: DQB1*03:286         Len:    275  Check: 8439  Weight: -1.00
+ Name: DQB1*03:286         Len:    275  Check: 8049  Weight: -1.00
  Name: DQB1*03:287         Len:    275  Check: 8928  Weight: -1.00
  Name: DQB1*03:288         Len:    275  Check: 8106  Weight: -1.00
  Name: DQB1*03:289         Len:    275  Check: 9307  Weight: -1.00
@@ -2055,7 +2055,7 @@
  Name: DQB1*03:332         Len:    275  Check: 8312  Weight: -1.00
  Name: DQB1*03:333         Len:    275  Check: 9553  Weight: -1.00
  Name: DQB1*03:334N        Len:    275  Check: 3283  Weight: -1.00
- Name: DQB1*03:335         Len:    275  Check: 8614  Weight: -1.00
+ Name: DQB1*03:335         Len:    275  Check: 8224  Weight: -1.00
  Name: DQB1*03:336         Len:    275  Check: 8986  Weight: -1.00
  Name: DQB1*03:337         Len:    275  Check: 9670  Weight: -1.00
  Name: DQB1*03:338N        Len:    275  Check: 4004  Weight: -1.00
@@ -2071,14 +2071,14 @@
  Name: DQB1*03:349         Len:    275  Check: 8612  Weight: -1.00
  Name: DQB1*03:350         Len:    275  Check: 8201  Weight: -1.00
  Name: DQB1*03:351         Len:    275  Check: 9235  Weight: -1.00
- Name: DQB1*03:352         Len:    275  Check: 9157  Weight: -1.00
+ Name: DQB1*03:352         Len:    275  Check: 9305  Weight: -1.00
  Name: DQB1*03:353         Len:    275  Check: 8004  Weight: -1.00
  Name: DQB1*03:354N        Len:    275  Check: 4004  Weight: -1.00
  Name: DQB1*03:355         Len:    275  Check: 8414  Weight: -1.00
  Name: DQB1*03:357N        Len:    275  Check: 3324  Weight: -1.00
  Name: DQB1*03:358N        Len:    275  Check: 4004  Weight: -1.00
  Name: DQB1*03:359         Len:    275  Check: 9434  Weight: -1.00
- Name: DQB1*03:360         Len:    275  Check: 8411  Weight: -1.00
+ Name: DQB1*03:360         Len:    275  Check: 8021  Weight: -1.00
  Name: DQB1*03:361         Len:    275  Check: 8061  Weight: -1.00
  Name: DQB1*03:362         Len:    275  Check: 8803  Weight: -1.00
  Name: DQB1*03:363         Len:    275  Check: 9200  Weight: -1.00
@@ -2152,10 +2152,10 @@
  Name: DQB1*03:434         Len:    275  Check: 8014  Weight: -1.00
  Name: DQB1*03:435         Len:    275  Check: 8024  Weight: -1.00
  Name: DQB1*03:436         Len:    275  Check: 8106  Weight: -1.00
- Name: DQB1*03:437         Len:    275  Check: 8200  Weight: -1.00
+ Name: DQB1*03:437         Len:    275  Check: 8348  Weight: -1.00
  Name: DQB1*03:438         Len:    275  Check: 8718  Weight: -1.00
  Name: DQB1*03:439         Len:    275  Check: 8314  Weight: -1.00
- Name: DQB1*03:441         Len:    275  Check: 8871  Weight: -1.00
+ Name: DQB1*03:441         Len:    275  Check: 9019  Weight: -1.00
  Name: DQB1*03:442         Len:    275  Check: 9418  Weight: -1.00
  Name: DQB1*03:443         Len:    275  Check: 8111  Weight: -1.00
  Name: DQB1*03:444         Len:    275  Check: 9058  Weight: -1.00
@@ -2164,13 +2164,13 @@
  Name: DQB1*03:447         Len:    275  Check: 8546  Weight: -1.00
  Name: DQB1*03:448         Len:    275  Check: 8046  Weight: -1.00
  Name: DQB1*03:449         Len:    275  Check: 8449  Weight: -1.00
- Name: DQB1*03:450         Len:    275  Check: 8263  Weight: -1.00
+ Name: DQB1*03:450         Len:    275  Check: 8411  Weight: -1.00
  Name: DQB1*03:451         Len:    275  Check: 7542  Weight: -1.00
  Name: DQB1*03:452         Len:    275  Check: 9128  Weight: -1.00
  Name: DQB1*03:453         Len:    275  Check: 9384  Weight: -1.00
  Name: DQB1*03:454         Len:    275  Check: 7950  Weight: -1.00
  Name: DQB1*03:455         Len:    275  Check: 8628  Weight: -1.00
- Name: DQB1*03:456         Len:    275  Check: 8990  Weight: -1.00
+ Name: DQB1*03:456         Len:    275  Check: 9138  Weight: -1.00
  Name: DQB1*03:457         Len:    275  Check: 8846  Weight: -1.00
  Name: DQB1*03:458         Len:    275  Check: 8244  Weight: -1.00
  Name: DQB1*03:459         Len:    275  Check: 8782  Weight: -1.00
@@ -2825,7 +2825,7 @@ DQB1*06:01:04       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:01:06       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:01:07       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:01:09       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
-DQB1*06:01:12       MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
+DQB1*06:01:12       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:01:13       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:01:14       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:01:15       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
@@ -3089,7 +3089,7 @@ DQB1*06:32:01       MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:32:02       MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:33          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQLKGMCYFT
 DQB1*06:34          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
-DQB1*06:35          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
+DQB1*06:35          MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:36          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:37          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:38          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
@@ -3112,10 +3112,10 @@ DQB1*06:51:01       MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:51:02       MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:52          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:53:01       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
-DQB1*06:53:02       MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
+DQB1*06:53:02       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:54N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:55          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
-DQB1*06:56          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
+DQB1*06:56          MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:57:01       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:57:02       MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:58          MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKAMCYFT
@@ -3208,7 +3208,7 @@ DQB1*06:136         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:137         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:138         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:139         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
-DQB1*06:140         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
+DQB1*06:140         MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:141         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:142         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:143         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YHFKGMCYFT
@@ -3288,7 +3288,7 @@ DQB1*06:210         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:211         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:212         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:213         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
-DQB1*06:214         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
+DQB1*06:214         MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:215         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:216N        MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:217         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
@@ -3350,7 +3350,7 @@ DQB1*06:273         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:274         MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:275         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:276         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
-DQB1*06:277         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
+DQB1*06:277         MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:278         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
 DQB1*06:279         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:280         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
@@ -3534,10 +3534,10 @@ DQB1*06:467         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
 DQB1*06:468         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV FQFKGMCYFT
 DQB1*06:469         MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:470         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
-DQB1*06:471         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
+DQB1*06:471         MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*06:473         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPENFV YQFKGMCYFT
 DQB1*06:474         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV YQFKGMCYFT
-DQB1*06:475         MSWKKALRIP GDLRVATVTL MLAMLSSLLA EGRDSPEDFV LQFKAMCYFT
+DQB1*06:475         MSWKKALRIP GGLRAPTVTL MLAMLSTPVA EGRDPPEDFV LQFKAMCYFT
 DQB1*02:01:01:01    MSWKKALRIP GGLRAATVTL MLSMLSTPVA EGRDSPEDFV YQFKGMCYFT
 DQB1*02:01:01:02    MSWKKALRIP GGLRAATVTL MLSMLSTPVA EGRDSPEDFV YQFKGMCYFT
 DQB1*02:01:01:03    MSWKKALRIP GGLRAATVTL MLSMLSTPVA EGRDSPEDFV YQFKGMCYFT
@@ -9613,17 +9613,17 @@ DQB1*05:03:03       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:04       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:05       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:06       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:03:07       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:03:08       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:03:07       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:03:08       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:09       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:10       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:11       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:03:12       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:03:13       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:03:12       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:03:13       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:14       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:03:15       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:03:16       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:03:17       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:03:15       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:03:16       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:03:17       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:18       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:19       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:03:21       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -9633,14 +9633,14 @@ DQB1*05:03:30       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:04          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:05:01       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:05:02       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:06:01       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:06:02       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:06:01       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:06:02       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:07          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:09          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:09          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:11:01       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:11:02       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:12          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:13          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:13          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:14          HHNLLICSVT DFYPSHIKVR WFQNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:15          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:16          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -9652,11 +9652,11 @@ DQB1*05:20:01       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:20:02       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:21          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:22          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:24          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:24          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:25          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:26          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:27          HHNLLICSVT DFYPSQIKVR WFRNDQEEIA GVVSTPLIRN .....GDWTF
-DQB1*05:28          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:28          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:29          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:30          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:31          HHNLLICSVT DFYPSQIKVR WFRNDQEETA SVVSTPLIRN .....GDWTF
@@ -9687,17 +9687,17 @@ DQB1*05:54          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:55          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:56          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:57          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPVIRN .....GDWTF
-DQB1*05:58          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:58          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:59          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:60          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:60          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:61          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:62          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:63          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:64          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:64          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:65          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:66:01       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:66:02       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:67          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:66:02       HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:67          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:68          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:69          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:70          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -9714,30 +9714,30 @@ DQB1*05:81          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:82          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:83          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:84          HHNLLICSVT DFYPSQIKVR WFQNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:85          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:85          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:86          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:87Q         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*05:88          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:89:01       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:89:02       HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:90N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DQB1*05:91          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:91          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:92          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:93          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:94          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:95          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:97          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:98          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:98          HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:99          HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:100         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:101         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:101         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:102         HHNLLICSVT DFYPSHIKVW WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:103         HHNLLICSVT DFYPSQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:104         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:105         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:106         HHKLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:107         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:109         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:109         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:110N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*05:111         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:112         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -9747,9 +9747,9 @@ DQB1*05:115         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:116         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:117         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:118         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:119         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:119         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:120         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:121         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:121         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:122         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:123         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:124         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -9757,8 +9757,8 @@ DQB1*05:125         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:126         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:127         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:128N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DQB1*05:129         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:130         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:129         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:130         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:131         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:132Q        HHNLLICSVT DFYPSHIKVR WFRNDQE.TA GVVSTPLIRN .....GDWTF
 DQB1*05:133         HQNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -9767,14 +9767,14 @@ DQB1*05:136         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:137         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:138         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:139         HHNLLICSVT DFYPSQIKVL WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:140         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:140         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:141         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:142         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:143         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:143         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:144         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPIIRN .....GDWTF
 DQB1*05:145         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:146         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:147         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:147         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:148         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:150         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:151         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -9825,7 +9825,7 @@ DQB1*05:196         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:197         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:198         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:199         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GNWTF
-DQB1*05:200         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:200         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:201         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....SDWTF
 DQB1*05:202         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:203         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -9865,8 +9865,8 @@ DQB1*05:240         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:241         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:242         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:243         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:244         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*05:245         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:244         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*05:245         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:246         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:247         HHNLLICSVT DFYPSHIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*05:248         HHNLLICSVT DFYPSQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -9988,28 +9988,28 @@ DQB1*06:02:01:32    HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:01:33    HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:01:34    HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:02       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:03       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:04       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:05       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:06       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:03       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:04       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:05       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:06       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:07       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:08       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:09       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:10       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:08       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:09       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:10       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:11       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:12       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:13       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:14       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:13       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:14       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:15       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:16       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:16       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:17       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:18       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:19       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:20       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:21       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:18       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:19       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:20       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:21       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:22       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:23       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:02:24       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:02:24       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:25       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:26       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:02:27       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10147,7 +10147,7 @@ DQB1*06:07:01       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:07:02       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:08:01       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:08:02       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:08:03       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:08:03       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:09:01:01    HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:09:01:02    HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:09:01:03    HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10188,14 +10188,14 @@ DQB1*06:21          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:22:01       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:22:02       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:22:03       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:23          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:24          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:23          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:24          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:25          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:26N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:27:01       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:27:02       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:28          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:29          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:29          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:30          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:31          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:32:01       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10220,7 +10220,7 @@ DQB1*06:47          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:48:01       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:48:02       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:49          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:50          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:50          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:51:01       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:51:02       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:52          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10244,21 +10244,21 @@ DQB1*06:67          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:68          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:69:01       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:69:02       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:70          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:71          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:72          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:70          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:71          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:72          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:73          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:74          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:75N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DQB1*06:76          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:76          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:77N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:78          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:79:01       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:79:02       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:80          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:81          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:82          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:83          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:79:02       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:80          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:81          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:82          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:83          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:84:01:01    HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:84:01:02    HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:85          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10272,10 +10272,10 @@ DQB1*06:91          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:92:02       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:93          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:94          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:95          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:96:01       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:96:02       HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:97          HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:95          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:96:01       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:96:02       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:97          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:98          HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:99:01       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:99:03       HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10305,21 +10305,21 @@ DQB1*06:120         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:121         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:122         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:123         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:124         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:124         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:125         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:126         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:126         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:127         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:128         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:129         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:130         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:131         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:131         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:132         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:133         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:134         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:135         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:136         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:137         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:138         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:136         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:137         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:138         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:139         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:140         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:141         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10329,13 +10329,13 @@ DQB1*06:144N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:145:01      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:145:02      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:146:01      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:146:02      HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:147         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:146:02      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:147         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:148         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:149         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:150         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:151         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:152         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:150         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:151         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:152         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:153:01      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:153:02      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:154         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10345,29 +10345,29 @@ DQB1*06:157         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:158N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:159         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:160         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:161         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:161         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:162         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:163         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:164         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:165         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:166         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:166         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:167         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:168         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:169         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:170         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:171         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:172         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:173         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:174         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:175         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:176         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:173         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:174         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:175         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:176         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:177         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:178         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:178         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:179N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:180         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:181         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:182         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:183         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:182         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:183         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:184         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:185         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:186         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10377,16 +10377,16 @@ DQB1*06:189         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTLLIRN .....GDWTF
 DQB1*06:190:01      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:190:02      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:191         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:192         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:192         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:193N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:194         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:195         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:196         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:197         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:198         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:197         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:198         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:199         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:200         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:201         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:201         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:202         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:203         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:204         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10394,15 +10394,15 @@ DQB1*06:205         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:206:01      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:206:02      HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:207         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:208:01      HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:208:01      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:208:02      HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:209         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:210         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:211         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:211         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:212         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:213         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:213         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:214         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:215         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:215         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:216N        HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:217         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:218         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10418,11 +10418,11 @@ DQB1*06:228         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPFIRN .....GDWTF
 DQB1*06:229         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:230         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:231         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:232         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:233         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:232         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:233         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:234         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:235         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:236         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:235         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:236         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:237         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:238         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:239         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10434,7 +10434,7 @@ DQB1*06:245         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:246         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:247         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:248         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:249         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:249         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:250         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:251         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:252N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
@@ -10560,7 +10560,7 @@ DQB1*06:370         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:371         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:372         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:373         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*06:374         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
+DQB1*06:374         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:375         HHNLLVCSVT DFYPGQIKVQ WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:376         HHNLLVCSVT DFYPAQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*06:378         HHNLLVCSVT DFYPGQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
@@ -10830,7 +10830,7 @@ DQB1*02:73          HHNLLVCSVT DFYPAQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*02:74          HHNLLVCSVT DFYPAQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*02:75          HHNLLVCSVT DFYPAQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*02:76          HHNLLVCSVT DFYPAQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
-DQB1*02:77          HHNLLVCSVT DFYPAQIKVR WFRNGQEETA GVVSTPLIRN .....GDWTF
+DQB1*02:77          HHNLLVCSVT DFYPAQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*02:78          HHNLLVCSVT DFYPAQIKVR WFRNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*02:79          HHNLLVCSVT DFYPAQIKVR WFWNDQEETA GVVSTPLIRN .....GDWTF
 DQB1*02:80          HHNLLVCSVT DFYPAQIKVR WFRNGQEETA GVVSTPLIRN .....GDWTF
@@ -11952,18 +11952,18 @@ DQB1*05:02:01:12    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:01:13    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:01:14    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:01:15    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:02:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:02:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:03       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:02:04       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:02:04       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:05       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:06       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:07       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:08       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:02:09       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
-DQB1*05:02:10       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:02:09       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*05:02:10       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:11       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:12       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:02:13       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:02:13       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:14       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:15       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:02:16       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12002,7 +12002,7 @@ DQB1*05:03:22       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:03:24       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:03:30       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:04          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:05:01       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:05:01       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:05:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:06:01       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:06:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12025,7 +12025,7 @@ DQB1*05:21          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:22          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:24          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:25          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:26          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:26          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:27          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:28          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:29          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12053,19 +12053,19 @@ DQB1*05:49          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:50          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:51          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:52          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:53          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:53          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:54          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:55          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:56          QILVMLEMTP HRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:57          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:58          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:59          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:59          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:60          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:61          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:62          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:63          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:64          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:65          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:65          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:66:01       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:66:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:67          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12079,14 +12079,14 @@ DQB1*05:74          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:75          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:76          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:77          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:79          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:79          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:80          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:81          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:82          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:83          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:83          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:84          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:85          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:86          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:86          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:87Q         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*05:88          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:89:01       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12095,12 +12095,12 @@ DQB1*05:90N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*05:91          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:92          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:93          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:94          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:94          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:95          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:97          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:98          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:99          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:100         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:100         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:101         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:102         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:103         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12112,17 +12112,17 @@ DQB1*05:109         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:110N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*05:111         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:112         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:113         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:113         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:114         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:115         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:116         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
-DQB1*05:117         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
-DQB1*05:118         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:116         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*05:117         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*05:118         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:119         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:120         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:121         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:122         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:123         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:123         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:124         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:125         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:126         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12140,11 +12140,11 @@ DQB1*05:138         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:139         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:140         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:141         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:142         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:142         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:143         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:144         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:145         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
-DQB1*05:146         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:145         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*05:146         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:147         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:148         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VKWRAQSESA QSKMLSGVGG
 DQB1*05:150         QILVMLEMTP QRGDVYTCHV EYPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12239,14 +12239,14 @@ DQB1*05:243         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:244         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:245         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:246         QILVMLEMTP QRGDVYTCHM EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:247         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:247         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:248         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:249         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:250         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
 DQB1*05:251         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:252         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:253         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:254         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:254         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:255         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:256         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:257         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12289,7 +12289,7 @@ DQB1*05:300         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:301         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:302         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:303         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:304         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:304         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:307         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
 DQB1*05:308         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:309         QILVMLEMTP QRGDVYSCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12300,7 +12300,7 @@ DQB1*05:315         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:316N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*05:317         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:319         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*05:320         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
+DQB1*05:320         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:321         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:322         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*05:323         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12309,7 +12309,7 @@ DQB1*06:01:04       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:01:06       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:01:07       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:01:09       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
-DQB1*06:01:12       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:01:12       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:01:13       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:01:14       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:01:15       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
@@ -12438,23 +12438,23 @@ DQB1*06:03:01:19    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:01:20    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:01:21    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:03       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:04       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:05       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:06       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:07       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:08       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:09       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:03       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:04       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:05       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:06       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:07       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:08       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:09       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:10       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:11       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:12       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:13       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:13       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:14       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:15       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:16       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:17       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:18       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:03:19       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:15       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:16       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:17       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:18       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:03:19       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:20       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:21       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:03:22       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12536,8 +12536,8 @@ DQB1*06:09:12       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:10          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:11:01:01    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:11:01:02    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:11:02       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:11:03       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:11:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:11:03       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:11:04       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:12          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:13:01       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12567,18 +12567,18 @@ DQB1*06:27:01       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:27:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:28          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:29          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:30          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:31          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:32:01       QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:30          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:31          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:32:01       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:32:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:33          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:34          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWWAQSESA QSKMLSGVGG
-DQB1*06:35          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:35          QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:36          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT AEWRAQSESA QSKMLSGVGG
 DQB1*06:37          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:38          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:39          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:40          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:40          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:41:01:01    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:41:01:02    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:41:01:03    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12596,22 +12596,22 @@ DQB1*06:51:01       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:51:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:52          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:53:01       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
-DQB1*06:53:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:53:02       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:54N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:55          QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
-DQB1*06:56          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:56          QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:57:01       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:57:02       QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:58          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:59          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:60          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:61          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:59          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:60          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:61          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:62          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:63          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:64          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:65          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:63          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:64          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:65          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:66          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:67          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:67          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:68          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:69:01       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:69:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12639,7 +12639,7 @@ DQB1*06:88:01:01    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:88:01:02    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:89          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:90          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:91          QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:91          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:92:02       QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:93          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:94          QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12680,24 +12680,24 @@ DQB1*06:124         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:125         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:126         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:127         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:128         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:128         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:129         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:130         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:131         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:132         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
-DQB1*06:133         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:134         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:133         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:134         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:135         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:136         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:137         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:138         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:139         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:140         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:141         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:140         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
+DQB1*06:141         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:142         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:143         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:143         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:144N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DQB1*06:145:01      QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:145:01      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:145:02      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:146:01      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:146:02      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12709,7 +12709,7 @@ DQB1*06:151         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:152         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:153:01      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:153:02      QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
-DQB1*06:154         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:154         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:155         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:156         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:157         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
@@ -12724,8 +12724,8 @@ DQB1*06:165         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:166         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:167         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:168         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:169         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:170         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:169         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:170         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:171         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:172         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:173         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12739,27 +12739,27 @@ DQB1*06:180         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:181         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:182         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:183         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:184         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:184         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:185         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT MEWRAQSESA QSKMLSGVGG
 DQB1*06:186         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:187         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:188         QILVMLEMTP QRGDVYTCHV EHPRLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:189         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:190:01      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:190:02      QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:191         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:190:02      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:191         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:192         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:193N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:194         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
-DQB1*06:195         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:196         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:195         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:196         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:197         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:198         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:199         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:199         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:200         QILVMLEMTP QRGDVYTCHV DHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:201         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:202         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:203         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:203         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:204         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:205         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:206:01      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12768,11 +12768,11 @@ DQB1*06:207         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:208:01      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:208:02      QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:209         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
-DQB1*06:210         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:210         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:211         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:212         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:213         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:214         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:214         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:215         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:216N        QILVMLEMTP QRGDVYTCHV EHPSLQSPIT V~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:217         QILVMLEMTP QRGDVYTCHV EHRSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12787,20 +12787,20 @@ DQB1*06:226         QILVMLEMTP QRGDVYTCHV AHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:227         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:228         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:229         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
-DQB1*06:230         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:230         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:231         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:232         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:233         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:234         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:234         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:235         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:236         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:237         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:238         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:238         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:239         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:240         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:241         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:242         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:244         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:244         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:245         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:246         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:247         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12834,7 +12834,7 @@ DQB1*06:273         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:274         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:275         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:276         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:277         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:277         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:278         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:279         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:280         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGIGG
@@ -12928,13 +12928,13 @@ DQB1*06:367         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSEFA QSKMLSGVGG
 DQB1*06:368         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:369         QILVMLEMTP QRGDVYTCHV EHPSLQTPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:370         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:371         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:371         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:372         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:373         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:374         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:375         QILVMLEMTP QSGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:376         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:378         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:378         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:379N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:380         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:381         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12948,7 +12948,7 @@ DQB1*06:389         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:390         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:391         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSEPA QSKMLSGVGG
 DQB1*06:392         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:393         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:393         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:394N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*06:395         QILVMLEMTP QRGDVYPCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:396         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -12989,7 +12989,7 @@ DQB1*06:436         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:437         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:438         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:439Q        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DQB1*06:440         QILVMLEMTP QRGDVYACHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:440         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:441         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:442         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:443         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
@@ -13018,10 +13018,10 @@ DQB1*06:467         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:468         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:469         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VGWRAQSESA QNKMLSGIGG
 DQB1*06:470         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:471         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:471         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*06:473         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
 DQB1*06:474         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
-DQB1*06:475         QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGVGG
+DQB1*06:475         QILVMLEMTP QHGDVYTCHV EHPSLQSPIT VEWRAQSESA QNKMLSGIGG
 DQB1*02:01:01:01    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGIGG
 DQB1*02:01:01:02    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGIGG
 DQB1*02:01:01:03    QILVMLEMTP QRGDVYTCHV EHPSLQSPIT VEWRAQSESA QSKMLSGIGG
@@ -13476,22 +13476,22 @@ DQB1*03:02:01:21    QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:02:01    QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:02:02    QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:03       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:04       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:04       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:05       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:06       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:07       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:08       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:06       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:07       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:08       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:09       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:10       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:11       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:12       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:13       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:14       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:15       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:13       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:14       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:15       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:16       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:17       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:18       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:02:19       QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:17       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:18       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:02:19       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:20       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:21       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:02:22       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
@@ -13562,7 +13562,7 @@ DQB1*03:05:03       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:05:04       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:05:05       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:06          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:07          QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:07          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:08          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:09          QILVMLEMTP QHADVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:10:01       QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
@@ -13578,7 +13578,7 @@ DQB1*03:15          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:16          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:17:01       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:17:02       QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:18          QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:18          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:19:01:01    QILVMLEMTP QHGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:19:01:02Q   QILVMLEMTP QHGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:19:02       QILVMLEMTP QHGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
@@ -13636,15 +13636,15 @@ DQB1*03:58          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:59          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:60          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:61          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:62          QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:63          QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:64          QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:62          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:63          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:64          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:65          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:66N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DQB1*03:67          QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:67          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:68          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:69          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:70          QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:70          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:71          QILVMLEMTP QHGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:72          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:73          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
@@ -13655,7 +13655,7 @@ DQB1*03:77          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:78          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:79          QILVMLEMTP QRGDIYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:80          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:81          QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:81          QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:82          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:83          QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:84N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
@@ -13679,8 +13679,8 @@ DQB1*03:102         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:103         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:104         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:105         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:106         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:107         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:106         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:107         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:108         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:109         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:110         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
@@ -13698,7 +13698,7 @@ DQB1*03:121         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:122         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:123         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:124         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:125         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:125         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:126         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:127         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:128         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
@@ -13719,14 +13719,14 @@ DQB1*03:142         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:143         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:144         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:145         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:146         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:146         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:147         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:148         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:149         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:150         QILVMLEMTP QHGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:151         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:152         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:153         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:153         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:154         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:155         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:156         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
@@ -13734,11 +13734,11 @@ DQB1*03:157         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:158         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:159         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:160         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:161         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:161         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:162         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:163         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:164         QILVMLEMTP QHGDFYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:165         QILVMLEMTP QHGDVYSCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:165         QILVMLEMTP QHGDVYSCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:166         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:167         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:168         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
@@ -13747,22 +13747,22 @@ DQB1*03:170         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:171         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:172         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:173         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:174         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:175         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:174         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:175         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:176         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:177         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:178         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:179         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:178         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:179         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:180         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:181         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:182         QILVMLEMTP QHGDVYTCHV ENPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:183         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:184         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:185         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:185         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:186         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:187         QILVMLEMTP QHGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:188         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:189         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:189         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:190         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:191         QILVMLEMTP QHGDVYTCHV EHPSLQNPTT VEWRAQSESA QSKMLSGIGG
 DQB1*03:192         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
@@ -13777,29 +13777,29 @@ DQB1*03:199         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:200         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:201         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:202         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:203         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:204         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:205         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:203         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:204         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:205         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:206         QILVMMEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:207         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:208         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:209         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:210         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:210         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:211         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:212         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:213N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
-DQB1*03:214         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:214         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:215         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:216         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:217         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:218         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:219         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:220         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:221         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:221         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:222         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:223         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:224         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:225         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:224         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:225         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:226         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:227         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:228         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
@@ -13807,14 +13807,14 @@ DQB1*03:229         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:230         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:231         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:232         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:233         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:233         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:234         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:235         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:236         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:237N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*03:238         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:239         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:240         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:240         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:241         QILVMLEMTP QHGDVYTCQV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:242         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:243         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
@@ -13835,7 +13835,7 @@ DQB1*03:257         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:258         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:259         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:260         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:261         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:261         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:262         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:263:01:01   QILVMLEMTP QHGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:263:01:02   QILVMLEMTP QHGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
@@ -13848,12 +13848,12 @@ DQB1*03:269N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*03:270         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:271         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:272         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:273         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:274         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:273         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:274         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:275         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:276N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*03:277         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:278         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:278         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:279         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:280         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:281         QILVMLEMTP QHGDVYTCHV EHPSPQNPIT VEWRAQSESA QSKMLSGIGG
@@ -13927,7 +13927,7 @@ DQB1*03:348         QILVMLEMTP QRGDVYTCHV EHPSLQSPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:349         QILVMLEMTP QRGDVYICHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:350         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA PSKMLSGIGG
 DQB1*03:351         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
-DQB1*03:352         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:352         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:353         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:354N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~~~~~~
 DQB1*03:355         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
@@ -14008,10 +14008,10 @@ DQB1*03:433         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:434         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:435         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:436         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:437         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:437         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:438         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:439         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGNGG
-DQB1*03:441         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:441         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:442         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:443         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:444         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
@@ -14020,13 +14020,13 @@ DQB1*03:446         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:447         QILVMLEMTP QRGDIYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:448         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:449         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:450         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:450         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:451         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:452         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:453         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:454         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
 DQB1*03:455         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWRAQSESA QSKMLSGIGG
-DQB1*03:456         QILVMLEITP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
+DQB1*03:456         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:457         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
 DQB1*03:458         QILVMLEMTP QHGDVYTCHV EHPSLQNPIT VEWWAQSESA QSKMLSGIGG
 DQB1*03:459         QILVMLEMTP QRGDVYTCHV EHPSLQNPII VEWRAQSESA QSKMLSGIGG
@@ -14680,7 +14680,7 @@ DQB1*06:01:04       FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:01:06       FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:01:07       FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:01:09       FVLGLIFLGL GLIIRQRSQK GPQGP
-DQB1*06:01:12       FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:01:12       FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:01:13       FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:01:14       FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:01:15       FVLGLIFLGL GLIIRQRSQK GPQGP
@@ -14864,11 +14864,11 @@ DQB1*06:04:01:06    FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:04:01:07    FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:04:02       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:04:03       FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:04:04       FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:04:04       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:04:05       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:04:06       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:04:07       FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:04:08       FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:04:08       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:04:09       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:04:10       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:04:11       FVLGLIFLGL GLIIRQRSQK GLLH~
@@ -14944,7 +14944,7 @@ DQB1*06:32:01       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:32:02       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:33          FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:34          FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:35          FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:35          FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:36          FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:37          FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:38          FVLGLIFLGL GLIIRQRSQK GLLH~
@@ -14965,12 +14965,12 @@ DQB1*06:49          FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:50          FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:51:01       FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:51:02       FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:52          FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:52          FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:53:01       FVLGLIFLGL GLIIRQRSQK GPQGP
-DQB1*06:53:02       FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:53:02       FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:54N         ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
 DQB1*06:55          FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:56          FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:56          FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:57:01       FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:57:02       FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:58          FVLGLIFLGL GLIIRQRSQK GLLH~
@@ -15004,7 +15004,7 @@ DQB1*06:83          FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:84:01:01    FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:84:01:02    FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:85          FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:86          FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:86          FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:87          FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:88:01:01    FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:88:01:02    FVLGLIFLGL GLIIRQRSQK GLLH~
@@ -15063,7 +15063,7 @@ DQB1*06:136         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:137         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:138         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:139         FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:140         FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:140         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:141         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:142         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:143         FVLGLIFLGL GLIIRQRSQK GLLH~
@@ -15143,7 +15143,7 @@ DQB1*06:210         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:211         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:212         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:213         FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:214         FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:214         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:215         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:216N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
 DQB1*06:217         FVLGLIFLGL GLIIRQRSQK GLLH~
@@ -15181,20 +15181,20 @@ DQB1*06:250         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:251         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:252N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
 DQB1*06:253         FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:254         FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:254         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:255         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:256         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:257         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:258         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:259         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:260         FVLGLIFLGL GLIIRQRSQK GPQGP
-DQB1*06:261         FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:261         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:262         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:263         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:264         FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:265         FMLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:266         FMLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:267         FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:265         FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:266         FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:267         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:268         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:269         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:270:01      FVLGLIFLGL GLIIRQRSQK GLLH~
@@ -15205,7 +15205,7 @@ DQB1*06:273         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:274         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:275         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:276         FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:277         FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:277         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:278         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:279         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:280         FVLGLIFLGL GLIIRQRSQK GLLH~
@@ -15219,7 +15219,7 @@ DQB1*06:287         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:288         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:289         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:290         FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:291         FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:291         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:292         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:293         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:294         FVLGLIFLGL GLIIRQRSQK GLLH~
@@ -15229,7 +15229,7 @@ DQB1*06:297         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:298         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:299         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:300         FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:301         FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:301         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:302         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:303N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
 DQB1*06:304N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
@@ -15384,15 +15384,15 @@ DQB1*06:461         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:462         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:463         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:464         FVLGLIFLGL GLIIRQRSQK GPQGP
-DQB1*06:465         FMLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:465         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:467         FVLGLIFLGL GLIICQRSQK GLLH~
 DQB1*06:468         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:469         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:470         FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:471         FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:471         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*06:473         FVLGLIFLGL GLIIRQRSQK GLLH~
 DQB1*06:474         FVLGLIFLGL GLIIRQRSQK GLLH~
-DQB1*06:475         FVLGLIFLGL GLIIRQRSQK GLLH~
+DQB1*06:475         FVLGLIFLGL GLIIRQRSQK GPQGP
 DQB1*02:01:01:01    FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*02:01:01:02    FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*02:01:01:03    FVLGLIFLGL GLIIHHRSQK GLLH~
@@ -15952,7 +15952,7 @@ DQB1*03:17:02       FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:18          FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:19:01:01    FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:19:01:02Q   FVLGLIFLGL GLIIHHRSQK GLLH~
-DQB1*03:19:02       FVLVLIFLGL GLIIHHRSQK GLLH~
+DQB1*03:19:02       FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:19:03       FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:19:04       FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:19:05       FVLGLIFLGL GLIIHHRSQK GLLH~
@@ -16109,7 +16109,7 @@ DQB1*03:161         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:162         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:163         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:164         FVLGLIFLGL GLIIHHRSQK GLLH~
-DQB1*03:165         FVLVLIFLGL GLIIHHRSQK GLLH~
+DQB1*03:165         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:166         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:167         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:168         FVLGLIFLGL GLIIHHRSQK GLLH~
@@ -16232,7 +16232,7 @@ DQB1*03:282N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
 DQB1*03:283         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:284         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:285         FVLGLIFLGL GLIIHHRSQK GLLH~
-DQB1*03:286         FVLVLIFLGL GLIIHHRSQK GLLH~
+DQB1*03:286         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:287         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:288         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:289         FVLGLIFLGL GLIIHHRSQK GLLH~
@@ -16282,7 +16282,7 @@ DQB1*03:331         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:332         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:333         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:334N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
-DQB1*03:335         FVLVLIFLGL GLIIHHRSQK GLLH~
+DQB1*03:335         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:336         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:337         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:338N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
@@ -16305,7 +16305,7 @@ DQB1*03:355         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:357N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
 DQB1*03:358N        ~~~~~~~~~~ ~~~~~~~~~~ ~~~~~
 DQB1*03:359         FVLGLIFLGL GLIIHHRSQK GLLH~
-DQB1*03:360         FVLVLIFLGL GLIIHHRSQK GLLH~
+DQB1*03:360         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:361         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:362         FVLGLIFLGL GLIIHHRSQK GLLH~
 DQB1*03:363         FVLGLIFLGL GLIIHHRSQK GLLH~
